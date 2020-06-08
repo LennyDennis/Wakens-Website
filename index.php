@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Home | Hanawell Limited</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="img/favicon.png" rel="icon">
+  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+  <link href="css/home.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+
+<?php include_once("navigationbar.php")?>
+
+  <!--==========================
+    Intro Section
+  ============================-->
+  <section id="intro">
+    <div class="intro-container">
+      <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
+
+        <ol class="carousel-indicators"></ol>
+
+        <div class="carousel-inner" role="listbox">
+
+          <div class="carousel-item active">
+            <div class="carousel-background"><img src="images/training1.jpg" alt=""></div>
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae molestias sit in laborum nobis deserunt quo vero, aperiam eligendi porro, voluptas esse recusandae reiciendis accusamus est, tenetur asperiores consequuntur et.</p>
+                <a href="about.php" class="btn-get-started scrollto">Join Us</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item">
+            <div class="carousel-background"><img src="images/training2.jpg" alt=""></div>
+            <div class="carousel-container">
+              <div class="carousel-content">
+              <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae molestias sit in laborum nobis deserunt quo vero, aperiam eligendi porro, voluptas esse recusandae reiciendis accusamus est, tenetur asperiores consequuntur et.</p>
+                <a href="about.php" class="btn-get-started scrollto">Our Courses</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item">
+            <div class="carousel-background"><img src="images/training3.jpg" alt=""></div>
+            <div class="carousel-container">
+              <div class="carousel-content">
+              <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae molestias sit in laborum nobis deserunt quo vero, aperiam eligendi porro, voluptas esse recusandae reiciendis accusamus est, tenetur asperiores consequuntur et.</p>
+                <a href="about.php" class="btn-get-started scrollto">Consulation Services</a>
+              </div>
+            </div>
+          </div>
+
+         
+
+        <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon ion-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+
+        <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">
+          <span class="carousel-control-next-icon ion-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+
+      </div>
+    </div>
+  </section><!-- #intro -->
+
+  <main id="main">
+
+    <!--==========================
+      Featured Services Section
+    ============================-->
+    <section id="featured-services">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-4 box">
+            <i class="ion-ios-bookmarks-outline"></i>
+            <h4 class="title"><a href="">Objective 1</h4>
+            <p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat assumenda optio error impedit aliquid corporis, voluptate quibusdam delectus fuga iste harum ipsum blanditiis, quo aliquam? Accusamus dolore perferendis doloremque totam.</p>
+          </div>
+
+          <div class="col-lg-4 box box-bg">
+            <i class="ion-ios-stopwatch-outline"></i>
+            <h4 class="title"><a href="">Objective 2</a></h4>
+            <p class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa, temporibus inventore? Sed, adipisci veniam eum odio iste omnis commodi exercitationem quidem! Iusto, fuga corrupti quos aperiam ea aspernatur neque ipsa?</p>
+          </div>
+
+          <div class="col-lg-4 box">
+            <i class="ion-ios-heart-outline"></i>
+            <h4 class="title"><a href="">Objective 3</a></h4>
+            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem rem nesciunt natus error. Nesciunt id expedita sed libero iure voluptatem laborum, laboriosam hic. Ratione doloremque ex temporibus at assumenda blanditiis?</p>
+          </div>
+
+        </div>
+      </div>
+    </section><!-- #featured-services -->
+
+    <!--==========================
+      About Us Section
+    ============================-->
+    <section id="about">
+      <div class="container">
+
+        <header class="section-header">
+          <h3>About Us</h3>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ab illum modi facere in excepturi perspiciatis quas quo itaque. Ex magni doloribus quam consectetur ipsum sapiente, iure dolore dolores soluta!</p>
+        </header>
+
+        <div class="row about-cols">
+
+          <div class="col-md-4 wow fadeInUp">
+            <div class="about-col">
+              <div class="img">
+                <img src="img/about-mission.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Our Mission</a></h2>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, necessitatibus fugit! Consequuntur nemo accusamus officiis tempore perferendis ipsum exercitationem, molestias iure necessitatibus eius nam ea quis illo quae libero repellendus.              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="about-col">
+              <div class="img">
+                <img src="img/about-plan.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-list-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Our Plan</a></h2>
+              <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus asperiores sapiente quaerat dignissimos dolor distinctio dolore iure repellat! Officia, repellendus molestiae eveniet commodi quo nobis fugiat itaque iure natus placeat!
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="about-col">
+              <div class="img">
+                <img src="img/about-vision.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-eye-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#"> Our Vision</a></h2>
+              <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum, ab culpa nam dolorum repellat praesentium at necessitatibus eos unde nisi illo doloribus itaque totam quod cumque esse fugit laborum eveniet?
+              </p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- #about -->
+
+    <!--==========================
+      Services Section
+    ============================-->
+    <section id="Core-Values">
+      <div class="container">
+
+        <header class="section-header wow fadeInUp">
+          <h3>Values</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </header>
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
+            <h4 class="title"><a href="">Value 1</a></h4>
+            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta doloremque odio, asperiores sed voluptates non quidem? Asperiores tempore nisi nobis quod voluptas autem mollitia explicabo ea odit enim. Ullam, dolorem!</p>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
+            <h4 class="title"><a href=""> Value 2</a></h4>
+            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto odio perferendis ipsa eos, ipsum sint aliquid ducimus officiis accusantium sit praesentium. Rerum tempora neque nihil voluptates! Delectus natus a tempore.</p>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href=""> Value 3</a></h4>
+            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis quia, consectetur corrupti, dignissimos repellendus minus ducimus, tempora omnis facilis reprehenderit obcaecati illo nesciunt minima similique labore est corporis? Eos, provident.</p>
+          </div>
+         
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="">Value 4</a></h4>
+            <p class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam voluptates voluptatem odit dicta sit est dignissimos doloremque voluptate, amet sequi esse corporis officiis nemo quo? Fugit ex quibusdam laboriosam saepe.</p>
+          </div>
+         
+      
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-people-outline"></i></div>
+            <h4 class="title"><a href="">Value 5</a></h4>
+            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque aliquam sint minima vel? Soluta a sunt, delectus cum reprehenderit cupiditate inventore. Quis nesciunt libero atque cumque, praesentium iure ad rerum.</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- #services -->
+
+  </main>
+
+  <?php include_once("footer.php")?>
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  <!-- Uncomment below i you want to use a preloader -->
+  <!-- <div id="preloader"></div> -->
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="lib/counterup/counterup.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+</body>
+</html>

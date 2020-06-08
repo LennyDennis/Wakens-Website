@@ -1,0 +1,42 @@
+#About-Us {
+
+    background-size: cover;
+    padding: 60px 0 40px 0;
+  }
+  
+  #About-Us .box {
+    margin-bottom: 30px;
+  }
+  
+  #About-Us .icon {
+    float: left;
+  }
+  
+  #About-Us .icon i {
+    color: #007eb8e1;
+    font-size: 36px;
+    line-height: 1;
+    transition: 0.5s;
+  }
+  
+  #About-Us .title {
+    margin-left: 60px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 18px;
+  }
+  
+  #About-Us .title a {
+    color: #111;
+  }
+  
+  #About-Us .box:hover .title a {
+    color: orange;
+  }
+  
+  #About-Us .description {
+    font-size: 14px;
+    margin-left: 60px;
+    line-height: 24px;
+    margin-bottom: 0;
+  }
