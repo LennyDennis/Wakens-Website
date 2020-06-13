@@ -27,7 +27,7 @@
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
   <link href="css/home.css" rel="stylesheet">
-
+  <link href="css/split.css" rel="stylesheet">
 </head>
 
 <body>
@@ -39,59 +39,42 @@
     Intro Section
   ============================-->
   <section id="intro">
-    <div class="intro-container">
-      <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
+    <div class="intro-container row">
 
-        <ol class="carousel-indicators"></ol>
-
-        <div class="carousel-inner" role="listbox">
-
-          <div class="carousel-item active">
-            <div class="carousel-background"><img src="images/training1.jpg" alt=""></div>
-            <div class="carousel-container">
-              <div class="carousel-content">
-                <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae molestias sit in laborum nobis deserunt quo vero, aperiam eligendi porro, voluptas esse recusandae reiciendis accusamus est, tenetur asperiores consequuntur et.</p>
-                <a href="about.php" class="btn-get-started scrollto">Join Us</a>
+      <div class="left-side col-lg-6 col-md-6 col-sm-12">
+        <div class="container h-100" >
+            <div class="row h-100">
+              <div class="col-lg-8 col-xl-8 mr-auto align-self-center text-left">
+                <h2 style="animation-delay: .3s;" class="animated fadeInUp display-5 display-md-4 display-lg-3 font-weight-bold text-white">
+                  Bespoke Credit &amp; Finance Solutions
+                </h2>
+                <h3 style="animation-delay: .7s;" class="animated fadeInUp display-8 display-md-7 alt-font font-italic mb-2 my-md-4 text-white">
+                  We assist clients secure loans and credit facilities
+                </h3>
+                <div style="animation-delay: 1.0s;" class="animated fadeInUp mt-3">
+                  <a href="about.php" class="btn btn-primary">Who are we!</a>
+                </div>
               </div>
             </div>
           </div>
-
-          <div class="carousel-item">
-            <div class="carousel-background"><img src="images/training2.jpg" alt=""></div>
-            <div class="carousel-container">
-              <div class="carousel-content">
-              <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae molestias sit in laborum nobis deserunt quo vero, aperiam eligendi porro, voluptas esse recusandae reiciendis accusamus est, tenetur asperiores consequuntur et.</p>
-                <a href="about.php" class="btn-get-started scrollto">Our Courses</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="carousel-item">
-            <div class="carousel-background"><img src="images/training3.jpg" alt=""></div>
-            <div class="carousel-container">
-              <div class="carousel-content">
-              <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae molestias sit in laborum nobis deserunt quo vero, aperiam eligendi porro, voluptas esse recusandae reiciendis accusamus est, tenetur asperiores consequuntur et.</p>
-                <a href="about.php" class="btn-get-started scrollto">Consulation Services</a>
-              </div>
-            </div>
-          </div>
-
-         
-
-        <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon ion-chevron-left" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-
-        <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">
-          <span class="carousel-control-next-icon ion-chevron-right" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-
       </div>
+
+      <div class="right-side col-lg-6 col-md-6 col-sm-12">
+        <!-- <div class="right-side-backgroud">
+          <img src="images/training1.jpg" alt="">
+        </div> -->
+        <!-- <div class="col-md-6 text-center thesections">
+          <h2 class="h1">About Us</h2>
+          <p class="lead">We are a credit brokerage company.</p>
+          <p >Our company is not tied to any lender or group of lenders and operates on a whole of market basis. <br>We
+            source appropriate financial services and products from a broad range of lending organizations with whom the
+            company has a professional broker agreement.</p>
+          <div style="animation-delay: 0.5s;" class="animated fadeInUp mt-2">
+            <a href="about.php" class="btn btn-primary">Who are we!</a>
+          </div>
+        </div> -->
+      </div>
+      
     </div>
   </section><!-- #intro -->
 
