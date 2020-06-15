@@ -51,12 +51,19 @@
         <div class="col-md-12 col-lg-6 align-self-center ">
           <div class="title text-left">
             <h2 class="text-primary">Hanawell Limited </span></h2>
-            <p class="pre-title">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam libero labore quod?</p>
-            <p class="mb-0">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam libero labore quod? Error doloremque quo perferendis! Laborum ratione cumque illo, neque vero minus temporibus dolore delectus vitae repudiandae voluptates voluptate?</p>
+            <p class="pre-title">Streamline Processes, Boost Transparency, Upgrade Output and get Real-Time Insights.</p>
+            <p class="mb-0">
+            HANAWELL LTD champions the way in the optimisation of business performance for companies running SAP solutions. 
+            </p>
+            <p class="mb-0">
+            HANAWELL LTD is a trusted partner that manages both data and processes. Our catalogue of SAP services begins with consulting services that focus on selecting the most appropriate solution for every need, in the design of the optimal implementation strategy and training. 
+            In order to do this, our consultants analyse each customer situation and make the best proposal for each case, making the most from our extensive catalogue of SAP solutions. 
+            </p>
           </div>
         </div>
-        <div class="col-md-10 col-lg-6 mx-md-auto align-self-center "><img class="rounded" src=""
-            alt=""></div>
+        <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
+          <img width="100%" class="" src="./images/training2.jpg" alt="">
+        </div>
       </div>
     </div>
 

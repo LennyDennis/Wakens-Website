@@ -5,7 +5,9 @@
 
         <div class="col-lg-4 col-md-6 footer-info">
         <h2>Hanawell Limited</h2>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum soluta aut, ullam eaque fugiat quaerat. Enim, accusantium atque. Eaque itaque quidem officiis, accusantium nemo nostrum eius provident cumque eum? Numquam.</p>
+        <p>
+            HANAWELL LTD is a trusted partner that manages both data and processes. Our catalogue of SAP services begins with consulting services that focus on selecting the most appropriate solution for every need, in the design of the optimal implementation strategy and training
+        </p>
         </div>
 
         <div class="col-lg-4 col-md-6 footer-links">

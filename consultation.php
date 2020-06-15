@@ -27,7 +27,7 @@
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
   <link href="css/contact.css" rel="stylesheet">
-
+  <link href="css/consultation.css" rel="stylesheet">
 </head>
 
 <body>
@@ -42,49 +42,67 @@
       <div class="container">
 
         <div class="section-header">
-          <h3>Consultation</h3>
+          <h3>Consultation Services</h3>
         </div>
 
         <div class="container">
-        <div class="feature-box f-style-2 row mt-4 h-100">
-        <div class="col-md-4 feature-box-img">
-            <img src="images/products/image-1.jpg" alt="" />
+        <div class="consultation f-style-2 row mt-4 h-100">
+        <div class="col-md-6 consultation-img">
+            <img src="./images/business.jpg" alt="" />
         </div>
-        <div class="col-md-8">
-            <h3>Consultation</h3>
-            <p class="feature-box-desc mb-4">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic natus laborum sed possimus iste. Temporibus sed ipsa, optio, dolore vitae magnam, tempore omnis ducimus dolorum voluptatibus iste! Et, necessitatibus sit.
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sapiente id veniam, sequi minus modi atque vel, fugit quasi eos ratione eum quia tempora ut dolor cupiditate assumenda velit quisquam!
+        <div class="col-md-6">
+            <h3>Business Change Management</h3>
+            <p class="consultation-desc mb-2">
+                HANAWELL’s Change Management ensures that the right resources and processes are in place so that the client effectively transitions to the desired future state and at the planned pace. 
             </p>
-            <a class="mt-auto" href="contactus.php">More info</a>
+            <p class="consultation-desc mb-2">
+            The strategy provides the approach to change management overall and for each of the Project’s major phases.
+            </p>
+            <a class="mt-auto" href="#">More info</a>
         </div>
         </div>
 
-        <div class="feature-box f-style-2 row mt-4 h-100">
-        <div class="col-md-4 feature-box-img">
-            <img src="images/" alt="" />
-        </div>
-        <div class="col-md-8">
-            <h3>Consultation</h3>
-            <p class="feature-box-desc mb-4">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic natus laborum sed possimus iste. Temporibus sed ipsa, optio, dolore vitae magnam, tempore omnis ducimus dolorum voluptatibus iste! Et, necessitatibus sit.
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sapiente id veniam, sequi minus modi atque vel, fugit quasi eos ratione eum quia tempora ut dolor cupiditate assumenda velit quisquam!
-            </p>
+        <div class="consultation f-style-2 row mt-4 h-100">
+
+        <div class="col-md-6">
+            <h3>SAP Upgrade and Migration</h3>
+            <p class="consultation-desc mb-2">
+              HANAWELL reduces the complexity that is associated with SAP System upgrades or Migration services through careful and calculated planning and professional project execution.            </p>
+            <p class="consultation-desc mb-2">
+            HANAWELL’s Upgrade and Migration Services ensure a fast, smooth transition process thereby minimizing risk and downtime which will maximize your business benefits.             </p>
             <a class="mt-auto" href="contactus.php">More info</a>
+        </div>
+        <div class="col-md-6 consultation-img">
+            <img src="images/migration.jpg" />
         </div>
         </div>
 
-        <div class="feature-box f-style-2 row mt-4 h-100">
-        <div class="col-md-4 feature-box-img">
-            <img src="images/products/image-1.jpg" alt="" />
+        <div class="consultation f-style-2 row mt-4 h-100">
+        <div class="col-md-6 consultation-img">
+            <img src="./images/implementation.jpg" alt="" />
         </div>
-        <div class="col-md-8">
-            <h3>Consultation</h3>
-            <p class="feature-box-desc mb-4">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic natus laborum sed possimus iste. Temporibus sed ipsa, optio, dolore vitae magnam, tempore omnis ducimus dolorum voluptatibus iste! Et, necessitatibus sit.
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sapiente id veniam, sequi minus modi atque vel, fugit quasi eos ratione eum quia tempora ut dolor cupiditate assumenda velit quisquam!
+
+        <div class="col-md-6">
+            <h3>SAP Implementation</h3>
+            <p class="consultation-desc mb-2">
+                We pride in helping businesses achieve competitive advantage by providing expert technology as well as domain experts for configuring, implementing & supporting SAP solutions that are aligned with industry best practices.             </p>
+            <a class="mt-auto" href="#">More info</a>
+        </div>
+        </div>
+
+        <div class="consultation f-style-2 row mt-4 h-100">
+
+        <div class="col-md-6">
+            <h3>SAP Maintenance and Support</h3>
+            <p class="consultation-desc mb-2">
+            It is becoming an increasingly expensive affair to invest in post deployment contracts with package and development vendors or even to retain large internal support teams for the maintenance and enhancement of applications so as to sustain ongoing return against initial development investment.
+            <p class="consultation-desc mb-2">
+            The HANAWELL LTD Application Management services provide cost effective solutions to maintain and enhance existing applications.
             </p>
             <a class="mt-auto" href="contactus.php">More info</a>
+        </div>
+        <div class="col-md-6 consultation-img">
+            <img src="images/upgrade.jpg" alt="" />
         </div>
         </div>
         

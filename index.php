@@ -28,6 +28,7 @@
   <link href="css/style.css" rel="stylesheet">
   <link href="css/home.css" rel="stylesheet">
   <link href="css/split.css" rel="stylesheet">
+  <link href="css/feature.css" rel="stylesheet">
 </head>
 
 <body>
@@ -39,44 +40,46 @@
     Intro Section
   ============================-->
   <section id="intro">
-    <div class="intro-container row">
+    <div class="intro-container">
 
-      <div class="left-side col-lg-6 col-md-6 col-sm-12">
-        <div class="container h-100" >
-            <div class="row h-100">
-              <div class="col-lg-8 col-xl-8 mr-auto align-self-center text-left">
-                <h2 style="animation-delay: .3s;" class="animated fadeInUp display-5 display-md-4 display-lg-3 font-weight-bold text-white">
-                  Bespoke Credit &amp; Finance Solutions
-                </h2>
-                <h3 style="animation-delay: .7s;" class="animated fadeInUp display-8 display-md-7 alt-font font-italic mb-2 my-md-4 text-white">
-                  We assist clients secure loans and credit facilities
-                </h3>
-                <div style="animation-delay: 1.0s;" class="animated fadeInUp mt-3">
-                  <a href="about.php" class="btn btn-primary">Who are we!</a>
-                </div>
-              </div>
+      <div class="container">
+      <div class="row landing-cards">
+
+        <div class="col-md-4 col-sm-8 mt-30">
+          <div class="landing-card">
+            <div class="landing-img ">
+              <img width="100%" src="./images/SAP.jpg" alt="Loans &amp; Credits">
+            </div>
+            <div class="landing-desc">
+              <h3>SAP Training</h3>
+              <p>
+                HANAWELL employs a blended training approach to accommodate all participates in the training programs.
+              </p>
+              <a href="training.php" class="btn-get-started scrollto">Read More</a>
             </div>
           </div>
+        </div>
+
+        <div class="col-md-4 col-sm-8 mt-30">
+          <div class="landing-card">
+            <div class="landing-img ">
+              <img width="100%" src="./images/training3.jpg" alt="Loans &amp; Credits">
+            </div>
+            <div class="landing-desc">
+              <h3>SAP Consultation</h3>
+              <p>
+                At Hanawell, we offer consulting services that focus on selecting the most appropriate solution for every need. 
+              </p>
+              <a href="#featured-services" class="btn-get-started scrollto">Join Us</a>
+            </div>
+          </div>
+        </div>
+
       </div>
 
-      <div class="right-side col-lg-6 col-md-6 col-sm-12">
-        <!-- <div class="right-side-backgroud">
-          <img src="images/training1.jpg" alt="">
-        </div> -->
-        <!-- <div class="col-md-6 text-center thesections">
-          <h2 class="h1">About Us</h2>
-          <p class="lead">We are a credit brokerage company.</p>
-          <p >Our company is not tied to any lender or group of lenders and operates on a whole of market basis. <br>We
-            source appropriate financial services and products from a broad range of lending organizations with whom the
-            company has a professional broker agreement.</p>
-          <div style="animation-delay: 0.5s;" class="animated fadeInUp mt-2">
-            <a href="about.php" class="btn btn-primary">Who are we!</a>
-          </div>
-        </div> -->
-      </div>
       
     </div>
-  </section><!-- #intro -->
+  </section>
 
   <main id="main">
 
@@ -117,7 +120,9 @@
 
         <header class="section-header">
           <h3>About Us</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ab illum modi facere in excepturi perspiciatis quas quo itaque. Ex magni doloribus quam consectetur ipsum sapiente, iure dolore dolores soluta!</p>
+          <p>
+            HANAWELL LTD is a trusted partner that manages both data and processes. Our catalogue of SAP services begins with consulting services that focus on selecting the most appropriate solution for every need, in the design of the optimal implementation strategy and training. 
+          </p>
         </header>
 
         <div class="row about-cols">
@@ -164,53 +169,6 @@
 
       </div>
     </section><!-- #about -->
-
-    <!--==========================
-      Services Section
-    ============================-->
-    <section id="Core-Values">
-      <div class="container">
-
-        <header class="section-header wow fadeInUp">
-          <h3>Values</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-        </header>
-
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
-            <h4 class="title"><a href="">Value 1</a></h4>
-            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta doloremque odio, asperiores sed voluptates non quidem? Asperiores tempore nisi nobis quod voluptas autem mollitia explicabo ea odit enim. Ullam, dolorem!</p>
-          </div>
-          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
-            <h4 class="title"><a href=""> Value 2</a></h4>
-            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto odio perferendis ipsa eos, ipsum sint aliquid ducimus officiis accusantium sit praesentium. Rerum tempora neque nihil voluptates! Delectus natus a tempore.</p>
-          </div>
-          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-            <h4 class="title"><a href=""> Value 3</a></h4>
-            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis quia, consectetur corrupti, dignissimos repellendus minus ducimus, tempora omnis facilis reprehenderit obcaecati illo nesciunt minima similique labore est corporis? Eos, provident.</p>
-          </div>
-         
-          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-            <h4 class="title"><a href="">Value 4</a></h4>
-            <p class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam voluptates voluptatem odit dicta sit est dignissimos doloremque voluptate, amet sequi esse corporis officiis nemo quo? Fugit ex quibusdam laboriosam saepe.</p>
-          </div>
-         
-      
-          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-people-outline"></i></div>
-            <h4 class="title"><a href="">Value 5</a></h4>
-            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque aliquam sint minima vel? Soluta a sunt, delectus cum reprehenderit cupiditate inventore. Quis nesciunt libero atque cumque, praesentium iure ad rerum.</p>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- #services -->
 
   </main>
 
