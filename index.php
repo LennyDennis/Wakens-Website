@@ -70,7 +70,7 @@
               <p>
                 At Hanawell, we offer consulting services that focus on selecting the most appropriate solution for every need. 
               </p>
-              <a href="#featured-services" class="btn-get-started scrollto">Join Us</a>
+              <a href="consultation.php" class="btn-get-started scrollto">Read More</a>
             </div>
           </div>
         </div>
