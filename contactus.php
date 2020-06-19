@@ -47,7 +47,7 @@
 
         <div class="row">
 
-        <div class="form col-md-7">
+        <div class="form col-md-6">
           <div id="sendmessage">Your message has been sent. Thank you!</div>
           <div id="errormessage"></div>
           <form action="" method="post" role="form" class="contactForm">
@@ -80,21 +80,49 @@
           </form>
         </div>
 
-        <div class="contact-info col-md-5">
+        <div class="contact-info col-md-6">
 
-          <div class="">
-            <h3>Our Offices</h3>
-            <h6>Hanawell Limited Global Headquarters</h6>
-            <p>
-            Hanawell (UK) Limited <br>
-            3 Whitethorns,Farnham,<br>
-            SURREY,GU9 9BH,<br>
-            United Kingdom,<br>
-            <strong>Phone:</strong> +254700000000
-            <br>
-            <strong>Email:</strong> info@gmail.com<br>
-            </p>
+          <div class="contact-offices">
+            <h3 class="text-center">Our Offices</h3>
+            <h4>Hanawell Limited Global Headquarters</h4>
+            <div class="row">
+              <div class="col-md-5">
+                <p><strong>Address</strong></p>
+                <p>
+                Hanawell (UK) Limited <br>
+                3 Whitethorns,Farnham,<br>
+                SURREY,GU9 9BH,<br>
+                United Kingdom,<br>
+                <strong>Phone: </strong><br> <a href="tel: +44(0)78 24520 535">+44(0)78 24520 535</a>
+                <br>
+                <strong>Email:</strong><br><a href="operations@hanawell.net">operations@hanawell.net</a>
+                </p>
+              </div>
+              <div class="col-md-7">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2497.9096406501935!2d-0.7880215!3d51.239159!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48742cf2b0c63201%3A0x9bb6385478cbb9fa!2sUpper%20Weybourne%20Ln%2C%20Farnham%20GU9%209BH%2C%20UK!5e0!3m2!1sen!2ske!4v1592569142043!5m2!1sen!2ske" width="400" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+              </div>
+            </div>
+
+            <h4>Hanawell EMEA Regional Office</h4>
+            <div class="row">
+              <div class="col-md-5">
+                <p><strong>Address</strong></p>
+                <p>
+                P.O BOX XXXXXXXXX <br>
+                Nairobi,<br>
+                Kenya,<br>
+                <strong>Phone: </strong><br> <a href="tel: +44(0)78 24520 535">+44(0)78 24520 535</a>
+                <br>
+                <strong>Email:</strong><br><a href="operations@hanawell.net">operations@hanawell.net</a>
+                </p>
+              </div>
+              <div class="col-md-7">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2497.9096406501935!2d-0.7880215!3d51.239159!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48742cf2b0c63201%3A0x9bb6385478cbb9fa!2sUpper%20Weybourne%20Ln%2C%20Farnham%20GU9%209BH%2C%20UK!5e0!3m2!1sen!2ske!4v1592569142043!5m2!1sen!2ske" width="400" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+              </div>
+            </div>
+
           </div>
+    
           
         </div>
         </div>

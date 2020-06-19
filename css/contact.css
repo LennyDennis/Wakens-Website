@@ -1,5 +1,6 @@
 #contact {
     padding: 100px 0px 60px 0px;
+    background: white;
   }
 
   #header{
@@ -7,29 +8,31 @@
   }
   
   #contact .contact-info {
-    margin-bottom: 20px;
-    text-align: center;
+    margin-bottom: 10px;
   }
   
-  #contact .contact-info i {
-    font-size: 30px;
-    display: inline-block;
-    margin-bottom: 5px;
-    color: #007db8;
-  }
-  
-  #contact .contact-info address,
   #contact .contact-info p {
-    margin-bottom: 0;
+    margin-bottom: 0px;
     color: #000;
+    font-size: 15px;
+    
   }
   
   #contact .contact-info h3 {
     font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #007db8;
+  }
+
+  #contact .contact-info h4{
+    font-size: 16px;
+    margin-top: 10px;
     margin-bottom: 5px;
     font-weight: bold;
     text-transform: uppercase;
-    color: #999;
+    color: #D32F2F;
   }
   
   #contact .contact-info a {
@@ -99,4 +102,7 @@
   
   #contact .form button[type="submit"]:hover {
     background: #13a456;
+  }
+  .form{
+    margin-top: 20px;
   }
