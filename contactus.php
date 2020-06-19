@@ -82,20 +82,18 @@
 
         <div class="contact-info col-md-5">
 
-          <div class="contact-address">
-            <i class="ion-ios-location-outline"></i>
-            <h3>Address</h3>
-            <address>Businesss Location</address>
-          </div>
-          <div class="contact-phone">
-            <i class="ion-ios-telephone-outline"></i>
-            <h3>Phone Number</h3>
-            <p><a href="tel: +254729145983">+25470000000</a></p>
-          </div>
-          <div class="contact-email">
-            <i class="ion-ios-email-outline"></i>
-            <h3>Email</h3>
-            <p><a href="mailto:info@alternativevoice.net">info@gmail.com</a></p>
+          <div class="">
+            <h3>Our Offices</h3>
+            <h6>Hanawell Limited Global Headquarters</h6>
+            <p>
+            Hanawell (UK) Limited <br>
+            3 Whitethorns,Farnham,<br>
+            SURREY,GU9 9BH,<br>
+            United Kingdom,<br>
+            <strong>Phone:</strong> +254700000000
+            <br>
+            <strong>Email:</strong> info@gmail.com<br>
+            </p>
           </div>
           
         </div>
