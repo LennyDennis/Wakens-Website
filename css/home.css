@@ -35,8 +35,15 @@
     transition: 0.5s;
     margin: 10px;
     color: #fff;
-    background: #007db8;
+   
   }
+  .btn-training{
+    background: #F44336;
+  }
+  .btn-consultation{
+    background: #FFC107;
+  }
+
   
   #intro .btn-get-started:hover {
     background: #fff;
@@ -47,7 +54,7 @@
 --------------------------------*/
 
 #featured-services {
-    background: #464444;
+    background: #03a8f4c9;
   }
   
   #featured-services .box {
@@ -55,7 +62,7 @@
   }
   
   #featured-services .box-bg {
-    background-image: linear-gradient(0deg, #1a1818 0%, #423e3e 50%, #201f1f 100%);
+    background-image: linear-gradient(0deg, #0288D1 0%, #03A9F4 50%, #03A9F4 100%);
   }
   
   #featured-services i {

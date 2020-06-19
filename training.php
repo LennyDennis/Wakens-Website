@@ -48,7 +48,7 @@
       <div class="row">
         <div class="col-md-4 mt-30">
           <div class="feature-box f-style-2 d-flex flex-column h-100">
-            <div class="feature-box-img"><img width="100%" src="images/SAP.jpg" alt="Loans &amp; Credits">
+            <div class="feature-box-img"><img width="100%" src="images/SAP.jpg" alt="">
             </div>
             <h3 class="feature-box-title">SAP training</h3>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam tenetur nobis alias neque. Aperiam laboriosam amet perspiciatis aspernatur? Error laudantium et obcaecati nostrum veritatis deserunt similique quas, architecto iste eaque?</p>
@@ -58,7 +58,7 @@
         <div class="col-md-4 mt-30">
           <div class="feature-box f-style-2 d-flex flex-column h-100">
             <div class="feature-box-img"><img width="100%" src="images/SAP.jpg"
-                alt="Debt Refinancing &amp; Restructuring"></div>
+                alt=""></div>
                 <h3 class="feature-box-title">SAP training</h3>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam tenetur nobis alias neque. Aperiam laboriosam amet perspiciatis aspernatur? Error laudantium et obcaecati nostrum veritatis deserunt similique quas, architecto iste eaque?</p>
               <a class="mt-auto"href="#">More info</a>
@@ -67,7 +67,7 @@
         <div class="col-md-4 mt-30">
           <div class="feature-box f-style-2 d-flex flex-column h-100">
             <div class="feature-box-img"><img width="100%" src="images/SAP.jpg"
-                alt="Asset Finance &amp; Leasing"></div>
+                alt=""></div>
                 <h3 class="feature-box-title">SAP training</h3>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam tenetur nobis alias neque. Aperiam laboriosam amet perspiciatis aspernatur? Error laudantium et obcaecati nostrum veritatis deserunt similique quas, architecto iste eaque?</p>
               <a class="mt-auto" href="#">More info</a>

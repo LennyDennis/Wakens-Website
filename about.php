@@ -48,6 +48,9 @@
 
         <div class="container h-100">
       <div class="row">
+        <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
+          <img width="100%" class="" src="./images/training2.jpg" alt="">
+        </div>
         <div class="col-md-12 col-lg-6 align-self-center ">
           <div class="title text-left">
             <h2 class="text-primary">Hanawell Limited </span></h2>
@@ -61,9 +64,7 @@
             </p>
           </div>
         </div>
-        <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
-          <img width="100%" class="" src="./images/training2.jpg" alt="">
-        </div>
+
       </div>
     </div>
 

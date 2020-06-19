@@ -2,9 +2,8 @@
     <div class="container-fluid">
 
       <div id="logo" class="pull-left">
-        <!-- <h1><a href="#intro" class="scrollto">Hanawell Limited</a></h1> -->
         <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="#intro"><img style="width:300px" src="./images/HanawellLogo.png" alt="" title="" /></a>
+        <a href="#intro"><img style="width:200px" src="./images/HanawellLogo.png" alt="" title="" /></a>
       </div>
 
       <nav id="nav-menu-container">

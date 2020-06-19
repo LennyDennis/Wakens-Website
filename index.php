@@ -48,14 +48,14 @@
         <div class="col-md-4 col-sm-8 mt-30">
           <div class="landing-card">
             <div class="landing-img ">
-              <img width="100%" src="./images/SAP.jpg" alt="Loans &amp; Credits">
+              <img width="100%" src="./images/SAP.jpg" alt="">
             </div>
             <div class="landing-desc">
               <h3>SAP Training</h3>
               <p>
                 HANAWELL employs a blended training approach to accommodate all participates in the training programs.
               </p>
-              <a href="training.php" class="btn-get-started scrollto">Read More</a>
+              <a href="training.php" class="btn-get-started btn-training">Read More</a>
             </div>
           </div>
         </div>
@@ -63,14 +63,14 @@
         <div class="col-md-4 col-sm-8 mt-30">
           <div class="landing-card">
             <div class="landing-img ">
-              <img width="100%" src="./images/training3.jpg" alt="Loans &amp; Credits">
+              <img width="100%" src="./images/training3.jpg" alt="">
             </div>
             <div class="landing-desc">
               <h3>SAP Consultation</h3>
               <p>
                 At Hanawell, we offer consulting services that focus on selecting the most appropriate solution for every need. 
               </p>
-              <a href="consultation.php" class="btn-get-started scrollto">Read More</a>
+              <a href="consultation.php" class="btn-get-started btn-consultation">Read More</a>
             </div>
           </div>
         </div>
@@ -127,13 +127,26 @@
 
         <div class="row about-cols">
 
+        <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="about-col">
+              <div class="img">
+                <img src="img/about-vision.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-eye-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">VISSION</a></h2>
+              <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum, ab culpa nam dolorum repellat praesentium at necessitatibus eos unde nisi illo doloribus itaque totam quod cumque esse fugit laborum eveniet?
+              </p>
+            </div>
+          </div>
+
           <div class="col-md-4 wow fadeInUp">
             <div class="about-col">
               <div class="img">
                 <img src="img/about-mission.jpg" alt="" class="img-fluid">
                 <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
               </div>
-              <h2 class="title"><a href="#">Our Mission</a></h2>
+              <h2 class="title"><a href="#">MISSION</a></h2>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, necessitatibus fugit! Consequuntur nemo accusamus officiis tempore perferendis ipsum exercitationem, molestias iure necessitatibus eius nam ea quis illo quae libero repellendus.              </p>
             </div>
@@ -145,25 +158,14 @@
                 <img src="img/about-plan.jpg" alt="" class="img-fluid">
                 <div class="icon"><i class="ion-ios-list-outline"></i></div>
               </div>
-              <h2 class="title"><a href="#">Our Plan</a></h2>
+              <h2 class="title"><a href="#">OUR PLAN</a></h2>
               <p>
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus asperiores sapiente quaerat dignissimos dolor distinctio dolore iure repellat! Officia, repellendus molestiae eveniet commodi quo nobis fugiat itaque iure natus placeat!
               </p>
             </div>
           </div>
 
-          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="about-col">
-              <div class="img">
-                <img src="img/about-vision.jpg" alt="" class="img-fluid">
-                <div class="icon"><i class="ion-ios-eye-outline"></i></div>
-              </div>
-              <h2 class="title"><a href="#"> Our Vision</a></h2>
-              <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum, ab culpa nam dolorum repellat praesentium at necessitatibus eos unde nisi illo doloribus itaque totam quod cumque esse fugit laborum eveniet?
-              </p>
-            </div>
-          </div>
+
 
         </div>
 
