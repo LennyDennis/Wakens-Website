@@ -92,7 +92,7 @@
                 Hanawell (UK) Limited <br>
                 3 Whitethorns,Farnham,<br>
                 SURREY,GU9 9BH,<br>
-                United Kingdom,<br>
+                United Kingdom<br>
                 <strong>Phone: </strong><br> <a href="tel: +44(0)78 24520 535">+44(0)78 24520 535</a>
                 <br>
                 <strong>Email:</strong><br><a href="operations@hanawell.net">operations@hanawell.net</a>

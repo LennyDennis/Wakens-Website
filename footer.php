@@ -24,20 +24,16 @@
         <div class="col-lg-4 col-md-6 footer-contact">
         <h4>Contact Us</h4>
         <p>
-            Hanawell Limited <br>
-            Business Location<br>
-            Street<br>
-            <strong>Phone:</strong> +254700000000
+            <strong>Address</strong><br>
+            Hanawell (UK) Limited <br>
+            3 Whitethorns,Farnham,<br>
+            SURREY,GU9 9BH,<br>
+            United Kingdom<br>
+            <strong>Phone:</strong> <a href="tel: +44(0)78 24520 535">+44(0)78 24520 535</a>
             <br>
-            <strong>Email:</strong> info@gmail.com<br>
+            <strong>Email:</strong> <a href="operations@hanawell.net">operations@hanawell.net</a>
         </p>
 
-        <div class="social-links">
-            <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-            <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-            <a href="#z" class="instagram"><i class="fa fa-instagram"></i></a>
-
-        </div>
 
         </div>
 
