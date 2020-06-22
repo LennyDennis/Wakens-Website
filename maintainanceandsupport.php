@@ -42,74 +42,61 @@
       <div class="container">
 
         <div class="section-header">
-          <h3>Consultation Services</h3>
+        <h3>SAP Maintenance and Support</h3>
         </div>
 
         <div class="container">
         <div class="consultation f-style-2 row mt-4 h-100">
-        <div class="col-md-6 consultation-img">
-            <img src="./images/business.jpg" alt="" />
-        </div>
-        <div class="col-md-6">
-            <h3>Business Change Management</h3>
-            <p class="consultation-desc mb-2">
-                HANAWELL’s Change Management ensures that the right resources and processes are in place so that the client effectively transitions to the desired future state and at the planned pace. 
-            </p>
-            <p class="consultation-desc mb-2">
-              The strategy provides the approach to change management overall and for each of the Project’s major phases. 
-            </p>
-            <a class="mt-auto" href="businessmgmt.php">Read More</a>
-        </div>
-        </div>
 
-        <div class="consultation f-style-2 row mt-4 h-100">
-
-        <div class="col-md-6">
-            <h3>SAP Upgrade and Migration</h3>
-            <p class="consultation-desc mb-2">
-              HANAWELL reduces the complexity that is associated with SAP System upgrades or Migration services through careful and calculated planning and professional project execution.
-            </p>
-            <p class="consultation-desc mb-2">
-              HANAWELL’s Upgrade and Migration Services ensure a fast, smooth transition process thereby minimizing risk and downtime which will maximize your business benefits.
-            </p>
-            <a class="mt-auto" href="upgrademigration.php">Read More</a>
-        </div>
-        <div class="col-md-6 consultation-img">
-            <img src="images/migration.jpg" />
-        </div>
-        </div>
-
-        <div class="consultation f-style-2 row mt-4 h-100">
-        <div class="col-md-6 consultation-img">
-            <img src="./images/implementation.jpg" alt="" />
-        </div>
-
-        <div class="col-md-6">
-            <h3>SAP Implementation</h3>
-            <p class="consultation-desc mb-2">
-              At Hanawell, the customer comes first. 
-            </p>
-            <p class="consultation-desc mb-2">
-              We understand that customers have already made significant investments in IT and infrastructure, and that SAP ERP landscapes can be overly complex for large enterprises. Many SAP ERP customers have a long history of customizations and extensions that fine-tune the solution to perfectly fit their specific needs. 
-            </p>
-            <a class="mt-auto" href="implementation.php">Read More</a>
-        </div>
-        </div>
-
-        <div class="consultation f-style-2 row mt-4 h-100">
-
-        <div class="col-md-6">
-            <h3>SAP Maintenance and Support</h3>
+        <div class="col-md-8 explanation">
             <p class="consultation-desc mb-2">
               It is becoming an increasingly expensive affair to invest in post deployment contracts with package and development vendors or even to retain large internal support teams for the maintenance and enhancement of applications so as to sustain ongoing return against initial development investment.             </p>
             <p class="consultation-desc mb-2">
               The HANAWELL LTD Application Management services provide cost effective solutions to maintain and enhance existing applications.
             </p>
-            <a class="mt-auto" href="maintainanceandsupport.php">Read More</a>
+            <p class="consultation-desc mb-2">
+            Project Support
+            <ul>
+              <li>Upgrades Release and Version</li>
+              <li>Data archiving</li>
+              <li>Business Application Enabling</li>
+              <li>Integration with New Application</li>
+              <li>Implementation of new dimension products</li>
+              <li>Implementation of new (additional) modules</li>
+            </ul>
+            Business Support
+            <ul>
+              <li>Help desk</li>
+              <li>User support</li>
+              <li>Troubleshoot & Resolve</li>
+              <li>Additional Development - Offshore</li>
+              <li>User Training</li>
+            </ul>
+            Technical Support
+            <ul>
+              <li>Help desk</li>
+              <li>Hardware Performance & Management</li>
+              <li>Application System Administration</li>
+              <li>Patches & fixes Management</li>
+              <li>User Profile Management</li>
+              <li>Batch Scheduling and Monitoring</li>
+              <li>Interface Monitoring</li>
+              <li>Data Base monitoring</li>
+              <li>Network support</li>
+              <li>ABAP Production / Development Support</li>
+            </ul>
+            </p>
+            <a href="training.php" class="btn-get-started btn-training">Read More</a>
         </div>
-        <div class="col-md-6 consultation-img">
-            <img src="images/upgrade.jpg" alt="" />
-        </div>
+        <div class="col-md-4 quick-links">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="consultation.php">SAP Consultation</a></li>
+            <li><a href="businessmgmt.php">Business Change Management</a></li>
+            <li><a href="upgrademigration.php">SAP Upgrade and Consultation</a></li>
+            <li><a href="implementation.php">SAP Implementation</a></li>
+            <li><a href="maintainanceandsupport.php">SAP Maintainance and Support</a></li>
+          </ul>
         </div>
         
         </div>
