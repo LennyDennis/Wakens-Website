@@ -168,5 +168,7 @@
 
   <?php include_once("footer.php")?>
 
+  <div id="preloader"></div>
+
 </body>
 </html>
