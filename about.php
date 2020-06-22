@@ -4,12 +4,11 @@
   <meta charset="utf-8">
   <title>Home | Hanawell Limited</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta content="hanawell, hanawell limited, about hanawell, sap training, sap consultation, sap kenya ,sap uk" name="keywords">
+  <meta content="This is the about us page for hanawell limited based in the uk and kenya" name="description">
 
   <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
-  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="images/favIcon.png" rel="icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
@@ -47,29 +46,95 @@
         </div>
 
         <div class="container h-100">
-      <div class="row">
-        <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
-          <img width="100%" src="./images/training2.jpg" alt="">
+          <div class="row">
+            <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
+              <img width="100%" src="./images/training2.jpg" alt="">
+            </div>
+            <div class="col-md-12 col-lg-6 align-self-center ">
+              <div class="title text-left">
+                <h2 class="text-primary">HANAWELL LIMITED </span></h2>
+                <p class="mb-0">
+                We are a UK based company specializing in Organisational Change Management within business transformation projects.            
+                </p>
+                <br>
+                <p class="mb-0">
+                We are Subject Matter Experts in SAP solutions implementations, corporate training and solution upgrades.
+                </p>
+                <br>
+                <p class="mb-0">
+                We value partnerships with credible and trusted companies to ascertain total customer satisfaction in every project that we implement and every training program that we execute. Effective and satisfactory client training on the implemented IT solutions is part of our wealth of knowledge.
+                </p>
+              </div>
+            </div>
+
+          </div>
         </div>
-        <div class="col-md-12 col-lg-6 align-self-center ">
-          <div class="title text-left">
-            <h2 class="text-primary">HANAWELL LIMITED </span></h2>
-            <p class="mb-0">
-            We are a UK based company specializing in Organisational Change Management within business transformation projects.            
-            </p>
-            <br>
-            <p class="mb-0">
-            We are Subject Matter Experts in SAP solutions implementations, corporate training and solution upgrades.
-            </p>
-            <br>
-            <p class="mb-0">
-            We value partnerships with credible and trusted companies to ascertain total customer satisfaction in every project that we implement and every training program that we execute. Effective and satisfactory client training on the implemented IT solutions is part of our wealth of knowledge.
-            </p>
+
+    <section id="about">
+      <div class="container">
+
+        <div class="row about-cols justify-content-center">
+
+          <div class="col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="about-col">
+              <div class="img">
+                <div class="icon"><i class="ion-ios-eye-outline"></i></div>
+              </div>
+              <h2 class="title">VISION</h2>
+              <p>
+                <ul>
+                  <li>
+                    Our vision and values drive our behaviour. We care not just about what we do, but the way and why we do it. 
+                  </li>
+                  <li>
+                    We strongly believe that the right project implementation and change management approach, will place the client’s business in a privileged position to maximize and realize the subsequent business benefits that come along with successful business transformation projects.              
+                  </li>
+                </ul>
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-6 wow fadeInUp">
+            <div class="about-col">
+              <div class="img">
+                <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
+              </div>
+              <h2 class="title">MISSION</h2>
+              <p>
+                <ul>
+                  <li>
+                    Our mission is to empower businesses to successfully transition past their business transformation phase and work with them to ensure business continuity during the transformation phase and beyond.
+                  </li>
+                  <li>
+                    We strongly believe that the right project implementation and change management approach, will place the client’s business in a privileged position to maximize and realize the subsequent business benefits that come along with successful business transformation projects.              
+                  </li>
+                </ul>
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-8 wow fadeInUp " data-wow-delay="0.1s">
+            <div class="about-col">
+              <div class="img">
+                <div class="icon"><i class="ion-ios-list-outline"></i></div>
+              </div>
+              <h2 class="title">OUR PLAN</h2>
+              <p>
+                <ul>
+                  <li>Our plan and purpose is to help the world run better and improve people’s lives.</li>
+                  <li>Our promise is to innovate to help our customers run at their best. </li>
+                  <li>SAP is committed to helping every customer become a best-run business while we engineer solutions to fuel innovation, foster equality, and spread opportunity across borders and cultures. </li>
+                  <li>Together, with our customers and partners, we can transform industries, grow economies, lift up societies, and sustain our environment.</li>
+                  <li>We recognize that we play an important role in supporting businesses on their digital journey. </li>
+                  <li>Through simplifying and re-imagining business processes we help clients utilize their existing SAP investment and leverage emerging technologies and innovation to help achieve the digital excellence.
+              </ul>
+              </p>
+            </div>
           </div>
         </div>
 
       </div>
-    </div>
+    </section><!-- #about -->
 
     <section id="About-Us">
       <div class="container">
@@ -109,26 +174,6 @@
   </main>
 
   <?php include_once("footer.php")?>
-
-  <!-- JavaScript Libraries -->
-  <script src="lib/jquery/jquery.min.js"></script>
-  <script src="lib/jquery/jquery-migrate.min.js"></script>
-  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="lib/easing/easing.min.js"></script>
-  <script src="lib/superfish/hoverIntent.js"></script>
-  <script src="lib/superfish/superfish.min.js"></script>
-  <script src="lib/wow/wow.min.js"></script>
-  <script src="lib/waypoints/waypoints.min.js"></script>
-  <script src="lib/counterup/counterup.min.js"></script>
-  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-  <script src="lib/isotope/isotope.pkgd.min.js"></script>
-  <script src="lib/lightbox/js/lightbox.min.js"></script>
-  <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
-
-  <!-- Template Main Javascript File -->
-  <script src="js/main.js"></script>
 
 </body>
 </html>
