@@ -54,7 +54,7 @@
 --------------------------------*/
 
 #featured-services {
-    background: #03a8f4c9;
+    background: #0496dac9;
   }
   
   #featured-services .box {
@@ -62,7 +62,7 @@
   }
   
   #featured-services .box-bg {
-    background-image: linear-gradient(0deg, #0288D1 0%, #03A9F4 50%, #03A9F4 100%);
+    background-image: linear-gradient(0deg, #0979b6 0%, #03A9F4 50%, #0888c4 100%);
   }
   
   #featured-services i {

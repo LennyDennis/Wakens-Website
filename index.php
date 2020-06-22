@@ -7,24 +7,16 @@
   <meta content="" name="keywords">
   <meta content="" name="description">
 
-  <!-- Favicons -->
   <link href="img/favicon.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
-
-  <!-- Bootstrap CSS File -->
   <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Libraries CSS Files -->
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="lib/animate/animate.min.css" rel="stylesheet">
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
-  <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
   <link href="css/home.css" rel="stylesheet">
   <link href="css/split.css" rel="stylesheet">
@@ -75,9 +67,7 @@
           </div>
         </div>
 
-      </div>
-
-      
+      </div>      
     </div>
   </section>
 
@@ -128,14 +118,22 @@
         <div class="row about-cols">
 
         <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+          
             <div class="about-col">
               <div class="img">
                 <img src="img/about-vision.jpg" alt="" class="img-fluid">
                 <div class="icon"><i class="ion-ios-eye-outline"></i></div>
               </div>
-              <h2 class="title"><a href="#">VISSION</a></h2>
+              <h2 class="title"><a href="#">VISION</a></h2>
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum, ab culpa nam dolorum repellat praesentium at necessitatibus eos unde nisi illo doloribus itaque totam quod cumque esse fugit laborum eveniet?
+                <ul>
+                  <li>
+                  Our vision and values drive our behaviour. We care not just about what we do, but the way and why we do it. 
+                  </li>
+                  <li>
+                  We strongly believe that the right project implementation and change management approach, will place the client’s business in a privileged position to maximize and realize the subsequent business benefits that come along with successful business transformation projects.              
+                  </li>
+                </ul>
               </p>
             </div>
           </div>
@@ -148,7 +146,17 @@
               </div>
               <h2 class="title"><a href="#">MISSION</a></h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, necessitatibus fugit! Consequuntur nemo accusamus officiis tempore perferendis ipsum exercitationem, molestias iure necessitatibus eius nam ea quis illo quae libero repellendus.              </p>
+                <ul>
+                  <li>
+                    Our mission is to empower businesses to successfully transition past their business transformation phase and work with them to ensure business continuity during the transformation phase and beyond.
+                  </li>
+                  <li>
+                  We strongly believe that the right project implementation and change management approach, will place the client’s business in a privileged position to maximize and realize the subsequent business benefits that come along with successful business transformation projects.              
+
+                  </li>
+                </ul>
+        
+              </p>
             </div>
           </div>
 
@@ -160,13 +168,17 @@
               </div>
               <h2 class="title"><a href="#">OUR PLAN</a></h2>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus asperiores sapiente quaerat dignissimos dolor distinctio dolore iure repellat! Officia, repellendus molestiae eveniet commodi quo nobis fugiat itaque iure natus placeat!
+                <ul>
+                  <li>Our plan and purpose is to help the world run better and improve people’s lives.</li>
+                  <li>Our promise is to innovate to help our customers run at their best. </li>
+                  <li>SAP is committed to helping every customer become a best-run business while we engineer solutions to fuel innovation, foster equality, and spread opportunity across borders and cultures. </li>
+                  <li>Together, with our customers and partners, we can transform industries, grow economies, lift up societies, and sustain our environment.</li>
+                  <li>We recognize that we play an important role in supporting businesses on their digital journey. </li>
+                  <li>Through simplifying and re-imagining business processes we help clients utilize their existing SAP investment and leverage emerging technologies and innovation to help achieve the digital excellence.
+              </ul>
               </p>
             </div>
           </div>
-
-
-
         </div>
 
       </div>

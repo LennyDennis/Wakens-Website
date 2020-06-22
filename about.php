@@ -49,18 +49,21 @@
         <div class="container h-100">
       <div class="row">
         <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
-          <img width="100%" class="" src="./images/training2.jpg" alt="">
+          <img width="100%" src="./images/training2.jpg" alt="">
         </div>
         <div class="col-md-12 col-lg-6 align-self-center ">
           <div class="title text-left">
-            <h2 class="text-primary">Hanawell Limited </span></h2>
-            <p class="pre-title">Streamline Processes, Boost Transparency, Upgrade Output and get Real-Time Insights.</p>
+            <h2 class="text-primary">HANAWELL LIMITED </span></h2>
             <p class="mb-0">
-            HANAWELL LTD champions the way in the optimisation of business performance for companies running SAP solutions. 
+            We are a UK based company specializing in Organisational Change Management within business transformation projects.            
             </p>
+            <br>
             <p class="mb-0">
-            HANAWELL LTD is a trusted partner that manages both data and processes. Our catalogue of SAP services begins with consulting services that focus on selecting the most appropriate solution for every need, in the design of the optimal implementation strategy and training. 
-            In order to do this, our consultants analyse each customer situation and make the best proposal for each case, making the most from our extensive catalogue of SAP solutions. 
+            We are Subject Matter Experts in SAP solutions implementations, corporate training and solution upgrades.
+            </p>
+            <br>
+            <p class="mb-0">
+            We value partnerships with credible and trusted companies to ascertain total customer satisfaction in every project that we implement and every training program that we execute. Effective and satisfactory client training on the implemented IT solutions is part of our wealth of knowledge.
             </p>
           </div>
         </div>
