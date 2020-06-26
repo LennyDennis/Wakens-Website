@@ -27,6 +27,7 @@
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
   <link href="css/contact.css" rel="stylesheet">
+  <link href="css/training.css" rel="stylesheet">
 
 </head>
 

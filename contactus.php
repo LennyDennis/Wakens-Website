@@ -38,7 +38,7 @@
 
   <main id="main">
 
-    <section id="contact" class="section-bg fadeInUp">
+    <section id="contact" class="section-bg fadeInUp contact-page">
       <div class="container">
 
         <div class="section-header">
