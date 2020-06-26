@@ -13,6 +13,7 @@
           <li ><a class="nav-item" href="training.php">SAP Training</a></li>
           <li ><a class="nav-item" href="consultation.php">SAP Consultation</a></li>
           <li ><a class="nav-item" href="contactus.php">Contact Us</a></li>
+          <li ><a class="nav-item" href="#">Hanawell Giving</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>

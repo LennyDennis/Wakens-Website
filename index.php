@@ -45,7 +45,7 @@
             <div class="landing-desc">
               <h3>SAP Training</h3>
               <p>
-                HANAWELL employs a blended training approach to accommodate all participates in the training programs.
+                Hanawell employs a blended training approach to accommodate all participates in the training programs.
               </p>
               <a href="training.php" class="btn-get-started btn-training">Get Started</a>
             </div>
@@ -88,7 +88,7 @@
                 <li>Create an enterprise culture of change capability.</li>
                 <li>Create solution showcases and improvement initiatives.</li>
                 <li>Implement continuous education and coaching.</li>
-                <li>Connect the directly to business users throughout the enterprise to assist with their transition in their daily work.</li>
+                <li>Connect directly to business users throughout the enterprise to assist with their transition in their daily work.</li>
               </ul>
             </p>
           </div>
@@ -129,7 +129,7 @@
         <header class="section-header wow fadeInUp">
           <h3>About Us</h3>
           <p>
-            HANAWELL LTD is a trusted partner that manages both data and processes. Our catalogue of SAP services begins with consulting services that focus on selecting the most appropriate solution for every need, in the design of the optimal implementation strategy and training. 
+            Hanawell Limited is a trusted partner that manages both data and processes. Our catalogue of SAP services begins with consulting services that focus on selecting the most appropriate solution for every need, in the design of the optimal implementation strategy and training. 
           </p>
         </header>
 

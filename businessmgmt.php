@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Coms | Hanawell Limited</title>
+  <title>Change Management | Hanawell Limited</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta content="hanawell, hanawell limited, sap, sap training, sap consultation" name="keywords">
+  <meta content="this the business change management page for hanawell limited" name="description">
 
   <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
+   <link href="images/favIcon.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -51,14 +51,14 @@
         <div class="col-md-8 explanation">
           
             <p class="consultation-desc mb-2">
-                HANAWELL’s Change Management ensures that the right resources and processes are in place so that the client effectively transitions to the desired future state and at the planned pace. 
+                Hanawell’s Business Change Management ensures that the right resources and processes are in place so that the client effectively transitions to the desired future state and at the planned pace. 
             </p>
             <p class="consultation-desc mb-2">
-              The strategy provides the approach to change management overall and for each of the Project’s major phases. The strategy has been developed with consideration given to:
+              The strategy provides the approach to change management overall and for each of the project’s major phases. The strategy has been developed with consideration given to:
               <ul>
                 <li>Transformation of business processes.</li>
                 <li>Implementation of software solutions.</li>
-                <li>Influence of other factors that could impact change adoption for the duration of the Project.</li>
+                <li>Influence of other factors that could impact change adoption for the duration of the project.</li>
               </ul>
             </p>
             <p class="consultation-desc mb-2">
@@ -84,7 +84,7 @@
                 <li>Planning to sustain new ways of working and for continuous improvement in the desired future state.</li>
               </ul>
             </p>
-            <a href="training.php" class="btn-get-started btn-training">Read More</a>
+            <a href="contactus.php" class="btn-get-started btn-reachus">Reach Us</a>
         </div>
         <div class="col-md-4 quick-links">
           <h3>Quick Links</h3>

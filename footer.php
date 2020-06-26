@@ -6,18 +6,19 @@
         <div class="col-lg-4 col-md-6 footer-info">
         <h2>Hanawell Limited</h2>
         <p>
-            HANAWELL LTD is a trusted partner that manages both data and processes. Our catalogue of SAP services begins with consulting services that focus on selecting the most appropriate solution for every need, in the design of the optimal implementation strategy and training
+           Hanawell limited is a trusted partner that manages both data and processes. Our catalogue of SAP services begins with consulting services that focus on selecting the most appropriate solution for every need, in the design of the optimal implementation strategy and training
         </p>
         </div>
 
         <div class="col-lg-4 col-md-6 footer-links">
         <h4>Useful Links</h4>
         <ul>
-            <li><i class="ion-ios-arrow-right"></i> <a href="#intro">Home</a></li>
-            <li><i class="ion-ios-arrow-right"></i> <a href="#about">About us</a></li>
-            <li><i class="ion-ios-arrow-right"></i> <a href="core-Values">SAP consultation</a></li>
-            <li><i class="ion-ios-arrow-right"></i> <a href="#">SAP Training</a></li>
-            <li><i class="ion-ios-arrow-right"></i> <a href="#">Contact Us</a></li>
+            <li><i class="ion-ios-arrow-right"></i> <a href="index.php">Home</a></li>
+            <li><i class="ion-ios-arrow-right"></i> <a href="about.php">About Us</a></li>
+            <li><i class="ion-ios-arrow-right"></i> <a href="consultation.php">SAP Consultation</a></li>
+            <li><i class="ion-ios-arrow-right"></i> <a href="training.php">SAP Training</a></li>
+            <li><i class="ion-ios-arrow-right"></i> <a href="contactus.php">Contact Us</a></li>
+            <li><i class="ion-ios-arrow-right"></i> <a href="#">Hanawell Giving</a></li>
         </ul>
         </div>
 
@@ -26,7 +27,7 @@
         <p>
             <strong>Address</strong><br>
             Hanawell (UK) Limited <br>
-            3 Whitethorns,Farnham,<br>
+            Whitethorns,Farnham,<br>
             SURREY,GU9 9BH,<br>
             United Kingdom<br>
             <strong>Phone:</strong> <a href="tel: +44(0)78 24520 535">+44(0)78 24520 535</a>

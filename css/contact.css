@@ -30,8 +30,6 @@
     font-size: 16px;
     margin-top: 10px;
     margin-bottom: 5px;
-    font-weight: bold;
-    text-transform: uppercase;
     color: #D32F2F;
   }
   
@@ -89,6 +87,7 @@
     border-radius: 0;
     box-shadow: none;
     font-size: 15px;
+    margin-bottom: 25px;
   }
   
   #contact .form button[type="submit"] {
@@ -101,8 +100,14 @@
   }
   
   #contact .form button[type="submit"]:hover {
-    background: #13a456;
+    background: #075477b6;
   }
-  .form{
-    margin-top: 20px;
+  .contact-info{
+    margin-left: 20px;
+  }
+  .global-office{
+    margin-top: 40px;
+  }
+  #contact .address p{
+    font-size: 14px;
   }

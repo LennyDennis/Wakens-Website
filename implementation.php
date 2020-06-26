@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Coms | Hanawell Limited</title>
+  <title>Implementation | Hanawell Limited</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta content="hanawell, hanawell limited, sap, sap training, sap consultation" name="keywords">
+  <meta content="this the sap implementation page for hanawell limited" name="description">
 
   <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
+ <link href="images/favIcon.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -62,9 +62,9 @@
               We pride in helping businesses achieve competitive advantage by providing expert technology as well as domain experts for configuring, implementing & supporting SAP solutions that are aligned with industry best practices. 
             </p>
             <p class="consultation-desc mb-2">
-              HANAWELL has a dedicated and experienced team of SAP consultants who have successfully completed numerous SAP implementations across industry verticals. We meet the demands of our clients of all sizes, ranging from small and midsize businesses to global enterprises. 
+              Hanawell has a dedicated and experienced team of SAP consultants who have successfully completed numerous SAP implementations across industry verticals. We meet the demands of our clients of all sizes, ranging from small and midsize businesses to global enterprises. 
             </p>
-            <a href="training.php" class="btn-get-started btn-training">Read More</a>
+            <a href="contactus.php" class="btn-get-started btn-reachus">Reach Us</a>
         </div>
         <div class="col-md-4 quick-links">
           <h3>Quick Links</h3>

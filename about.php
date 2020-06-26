@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Home | Hanawell Limited</title>
+  <title>About | Hanawell Limited</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="hanawell, hanawell limited, about hanawell, sap training, sap consultation, sap kenya ,sap uk" name="keywords">
   <meta content="This is the about us page for hanawell limited based in the uk and kenya" name="description">
@@ -85,9 +85,6 @@
                 <ul>
                   <li>
                     Our vision and values drive our behaviour. We care not just about what we do, but the way and why we do it. 
-                  </li>
-                  <li>
-                    We strongly believe that the right project implementation and change management approach, will place the client’s business in a privileged position to maximize and realize the subsequent business benefits that come along with successful business transformation projects.              
                   </li>
                 </ul>
               </p>

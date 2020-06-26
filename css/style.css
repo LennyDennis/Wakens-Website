@@ -482,6 +482,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
+  padding-right: 65px;
   font-family: "Montserrat", sans-serif;
   color: #eee;
 }
@@ -572,31 +573,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .footer-top .footer-contact p {
   line-height: 26px;
-}
-
-#footer .footer-top .footer-newsletter {
-  margin-bottom: 30px;
-}
-
-#footer .footer-top .footer-newsletter input[type="email"] {
-  border: 0;
-  padding: 6px 8px;
-  width: 65%;
-}
-
-#footer .footer-top .footer-newsletter input[type="submit"] {
-  background: orange;
-  border: 0;
-  width: 35%;
-  padding: 6px 0;
-  text-align: center;
-  color: #fff;
-  transition: 0.3s;
-  cursor: pointer;
-}
-
-#footer .footer-top .footer-newsletter input[type="submit"]:hover {
-  background: #13a456;
 }
 
 #footer .copyright {

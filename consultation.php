@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Coms | Hanawell Limited</title>
+  <title>Consultation | Hanawell Limited</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta content="hanawell, hanawell limited, sap, sap training, sap consultation" name="keywords">
+  <meta content="this the sap consultation page for hanawell limited" name="description">
 
   <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
+   <link href="images/favIcon.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -53,10 +53,10 @@
         <div class="col-md-6">
             <h3>Business Change Management</h3>
             <p class="consultation-desc mb-2">
-                HANAWELL’s Change Management ensures that the right resources and processes are in place so that the client effectively transitions to the desired future state and at the planned pace. 
+                Hanawell’s Change Management ensures that the right resources and processes are in place so that the client effectively transitions to the desired future state and at the planned pace. 
             </p>
             <p class="consultation-desc mb-2">
-              The strategy provides the approach to change management overall and for each of the Project’s major phases. 
+              The strategy provides the approach to change management overall and for each of the project’s major phases. 
             </p>
             <a class="mt-auto" href="businessmgmt.php">Read More</a>
         </div>
@@ -67,10 +67,10 @@
         <div class="col-md-6">
             <h3>SAP Upgrade and Migration</h3>
             <p class="consultation-desc mb-2">
-              HANAWELL reduces the complexity that is associated with SAP System upgrades or Migration services through careful and calculated planning and professional project execution.
+              Hanawell reduces the complexity that is associated with SAP system upgrades or migration services through careful and calculated planning and professional project execution.
             </p>
             <p class="consultation-desc mb-2">
-              HANAWELL’s Upgrade and Migration Services ensure a fast, smooth transition process thereby minimizing risk and downtime which will maximize your business benefits.
+              Hanawell’s upgrade and migration services ensure a fast, smooth transition process thereby minimizing risk and downtime which will maximize your business benefits.
             </p>
             <a class="mt-auto" href="upgrademigration.php">Read More</a>
         </div>
@@ -101,9 +101,9 @@
         <div class="col-md-6">
             <h3>SAP Maintenance and Support</h3>
             <p class="consultation-desc mb-2">
-              It is becoming an increasingly expensive affair to invest in post deployment contracts with package and development vendors or even to retain large internal support teams for the maintenance and enhancement of applications so as to sustain ongoing return against initial development investment.             </p>
+              It is becoming an increasingly expensive affair to invest in post deployment contracts with package and development vendors or even to retain large internal support teams for the maintenance and enhancement of applications so as to sustain ongoing return against initial development investment.</p>
             <p class="consultation-desc mb-2">
-              The HANAWELL LTD Application Management services provide cost effective solutions to maintain and enhance existing applications.
+              The Hanawell Limited application management services provide cost effective solutions to maintain and enhance existing applications.
             </p>
             <a class="mt-auto" href="maintainanceandsupport.php">Read More</a>
         </div>

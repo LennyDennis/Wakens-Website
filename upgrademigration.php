@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Coms | Hanawell Limited</title>
+  <title>Upgrade | Hanawell Limited</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta content="hanawell, hanawell limited, sap, sap training, sap consultation" name="keywords">
+  <meta content="this the sap upgrade page for hanawell limited" name="description">
 
   <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
+ <link href="images/favIcon.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -50,15 +50,15 @@
 
         <div class="col-md-8 explanation">
             <p class="consultation-desc mb-2">
-              HANAWELL reduces the complexity that is associated with SAP System upgrades or Migration services through careful and calculated planning and professional project execution.
+              Hanawell reduces the complexity that is associated with SAP System upgrades or migration services through careful and calculated planning and professional project execution.
             </p>
             <p class="consultation-desc mb-2">
-              HANAWELL’s Upgrade and Migration Services ensure a fast, smooth transition process thereby minimizing risk and downtime which will maximize your business benefits.
+              Hanawell’s upgrade and migration services ensure a fast, smooth transition process thereby minimizing risk and downtime which will maximize your business benefits.
             </p>
             <p class="consultation-desc mb-2">
-              Our consultants work closely with you to manage all aspects of the SAP system upgrades and migration from planning and start-up, through functional development activities to Go-live and support.
+              Our consultants work closely with you to manage all aspects of the SAP system upgrades and migration from planning and start-up, through functional development activities to go-live and support.
             </p>
-            <a href="training.php" class="btn-get-started btn-training">Read More</a>
+            <a href="contactus.php" class="btn-get-started btn-reachus">Reach Us</a>
         </div>
         <div class="col-md-4 quick-links">
           <h3>Quick Links</h3>

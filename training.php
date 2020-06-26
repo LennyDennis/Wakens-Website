@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Home | Hanawell Limited</title>
+  <title>Training | Hanawell Limited</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta content="hanawell, hanawell limited, sap, sap training, sap consultation" name="keywords">
+  <meta content="this the sap training page for hanawell limited" name="description">
 
   <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
+ <link href="images/favIcon.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->

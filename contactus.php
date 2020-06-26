@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Home | Hanawell Limited</title>
+  <title>Contact Us | Hanawell Limited</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta content="hanawell, hanawell limited, sap, sap training, sap consultation" name="keywords">
+  <meta content="this the contact uss page for hanawell limited" name="description">
 
   <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
+   <link href="images/favIcon.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -47,7 +47,7 @@
 
         <div class="row">
 
-        <div class="form col-md-6">
+        <div class="form col-md-5">
           <div id="sendmessage">Your message has been sent. Thank you!</div>
           <div id="errormessage"></div>
           <form action="" method="post" role="form" class="contactForm">
@@ -84,13 +84,14 @@
 
           <div class="contact-offices">
             <h3 class="text-center">Our Offices</h3>
+            <div class="global-office">
             <h4>Hanawell Limited Global Headquarters</h4>
             <div class="row">
-              <div class="col-md-5">
+              <div class="col-md-4 address">
                 <p><strong>Address</strong></p>
                 <p>
                 Hanawell (UK) Limited <br>
-                3 Whitethorns,Farnham,<br>
+                Whitethorns,Farnham,<br>
                 SURREY,GU9 9BH,<br>
                 United Kingdom<br>
                 <strong>Phone: </strong><br> <a href="tel: +44(0)78 24520 535">+44(0)78 24520 535</a>
@@ -98,17 +99,18 @@
                 <strong>Email:</strong><br><a href="operations@hanawell.net">operations@hanawell.net</a>
                 </p>
               </div>
-              <div class="col-md-7">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2497.9096406501935!2d-0.7880215!3d51.239159!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48742cf2b0c63201%3A0x9bb6385478cbb9fa!2sUpper%20Weybourne%20Ln%2C%20Farnham%20GU9%209BH%2C%20UK!5e0!3m2!1sen!2ske!4v1592569142043!5m2!1sen!2ske" width="400" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+              <div class="col-md-6 map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39992.469722264665!2d-0.8230044505383969!3d51.2093233742175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48742c02125a0e93%3A0x875c1ded7715bf26!2sFarnham%2C%20UK!5e0!3m2!1sen!2ske!4v1593153552747!5m2!1sen!2ske" width="400" height="180" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
               </div>
             </div>
-
+            </div>
+            <div class="global-office">
             <h4>Hanawell EMEA Regional Office</h4>
             <div class="row">
-              <div class="col-md-5">
+              <div class="col-md-4 address">
                 <p><strong>Address</strong></p>
                 <p>
-                P.O BOX XXXXXXXXX <br>
+                P.O BOX 31758 00600<br>
                 Nairobi,<br>
                 Kenya,<br>
                 <strong>Phone: </strong><br> <a href="tel: +44(0)78 24520 535">+44(0)78 24520 535</a>
@@ -116,9 +118,10 @@
                 <strong>Email:</strong><br><a href="operations@hanawell.net">operations@hanawell.net</a>
                 </p>
               </div>
-              <div class="col-md-7">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2497.9096406501935!2d-0.7880215!3d51.239159!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48742cf2b0c63201%3A0x9bb6385478cbb9fa!2sUpper%20Weybourne%20Ln%2C%20Farnham%20GU9%209BH%2C%20UK!5e0!3m2!1sen!2ske!4v1592569142043!5m2!1sen!2ske" width="400" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+              <div class="col-md-6 map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d510564.6498664422!2d36.56720029142611!3d-1.3031933719272915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1172d84d49a7%3A0xf7cf0254b297924c!2sNairobi!5e0!3m2!1sen!2ske!4v1593153606607!5m2!1sen!2ske" width="400" height="180" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
               </div>
+            </div>
             </div>
 
           </div>

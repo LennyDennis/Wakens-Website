@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Coms | Hanawell Limited</title>
+  <title>Maintainance | Hanawell Limited</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta content="hanawell, hanawell limited, sap, sap training, sap consultation" name="keywords">
+  <meta content="this the sap mainatainance and support page for hanawell limited" name="description">
 
   <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
+ <link href="images/favIcon.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -50,17 +50,18 @@
 
         <div class="col-md-8 explanation">
             <p class="consultation-desc mb-2">
-              It is becoming an increasingly expensive affair to invest in post deployment contracts with package and development vendors or even to retain large internal support teams for the maintenance and enhancement of applications so as to sustain ongoing return against initial development investment.             </p>
+              It is becoming an increasingly expensive affair to invest in post deployment contracts with package and development vendors or even to retain large internal support teams for the maintenance and enhancement of applications so as to sustain ongoing return against initial development investment.
+            </p>
             <p class="consultation-desc mb-2">
-              The HANAWELL LTD Application Management services provide cost effective solutions to maintain and enhance existing applications.
+              The Hanawell Limited Application Management services provide cost effective solutions to maintain and enhance existing applications.
             </p>
             <p class="consultation-desc mb-2">
             Project Support
             <ul>
-              <li>Upgrades Release and Version</li>
+              <li>Upgrades release and v</li>
               <li>Data archiving</li>
-              <li>Business Application Enabling</li>
-              <li>Integration with New Application</li>
+              <li>Business application enabling</li>
+              <li>Integration with new application</li>
               <li>Implementation of new dimension products</li>
               <li>Implementation of new (additional) modules</li>
             </ul>
@@ -69,24 +70,25 @@
               <li>Help desk</li>
               <li>User support</li>
               <li>Troubleshoot & Resolve</li>
-              <li>Additional Development - Offshore</li>
-              <li>User Training</li>
+              <li>Additional development - Offshore</li>
+              <li>User training</li>
             </ul>
             Technical Support
             <ul>
               <li>Help desk</li>
-              <li>Hardware Performance & Management</li>
-              <li>Application System Administration</li>
-              <li>Patches & fixes Management</li>
-              <li>User Profile Management</li>
-              <li>Batch Scheduling and Monitoring</li>
-              <li>Interface Monitoring</li>
-              <li>Data Base monitoring</li>
+              <li>Hardware performance & management</li>
+              <li>Application system sdministration</li>
+              <li>Patches & fixes management</li>
+              <li>User profile management</li>
+              <li>Batch scheduling and monitoring</li>
+              <li>Interface monitoring</li>
+              <li>Database monitoring</li>
               <li>Network support</li>
-              <li>ABAP Production / Development Support</li>
+              <li>ABAP production / Development support</li>
             </ul>
             </p>
-            <a href="training.php" class="btn-get-started btn-training">Read More</a>
+            <a href="contactus.php" class="btn-get-started btn-reachus">Reach Us</a>
+
         </div>
         <div class="col-md-4 quick-links">
           <h3>Quick Links</h3>
