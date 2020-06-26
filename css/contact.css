@@ -1,6 +1,9 @@
+
 #contact {
     padding: 100px 0px 60px 0px;
-    background: white;
+    background: linear-gradient(#98d2ecb9, #9ad0e9b7) ,url("../images/SAP.jpg") center top no-repeat fixed;
+    background-size: cover;
+    color: #000;
   }
 
   #header{

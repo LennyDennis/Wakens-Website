@@ -1,3 +1,8 @@
+#contact {
+  background: linear-gradient(#97e7afea, #93df8ce1) ,url("../images/SAP.jpg") center top no-repeat fixed;
+  background-size: cover;
+  color: #000;
+}
 #About-Us {
     background-size: cover;
     padding: 60px 0 40px 0;
@@ -52,7 +57,6 @@
     right: 0;
     top: 0;
     bottom: 0;
-    background: rgba(255, 255, 255, 0.92);
     z-index: 9;
   }
   
