@@ -248,7 +248,8 @@ h6 {
   outline: none;
 }
 
-.nav-menu li:hover > a {
+.nav-menu li:hover > a,
+.nav-menu > .menu-active > a {
   color: #F44336;
 }
 

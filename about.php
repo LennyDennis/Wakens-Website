@@ -137,28 +137,62 @@
       <div class="container">
 
         <header class="section-header">
-          <h3>Our Values</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut magnam ratione similique aspernatur. Labore, at cupiditate quia minus veritatis facere animi nihil nisi a id corporis temporibus maxime cum repellendus!</p>
+          <h3>Partenerships</h3>
         </header>
 
-        <div class="row">
+        <div class="row text-center">
+        <h2 class="text-primary">HANAWELL LIMIED and BSK GLOBAL TECHNOLOGIES LIMITED Partnership </h2>
+        <p>
+          At HANAWELL LTD, we recognize that the success of the client’s integrated SAP ERP Solution implementation project will highly depend on the partner who will enable the client with the critical tenets below that are at the core of our values.
+        </p>
 
-          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
-            <h4 class="title"><a href="">First Value.</a></h4>
-            <p class="description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed distinctio maxime iusto, cupiditate beatae quos ullam asperiores ex quidem! Quaerat tempora voluptas repudiandae ratione id, provident dolor at pariatur aspernatur.</p>
+
+          <div class="col-lg-6 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <h4 class="title"><a href="">Trusted Partner Exhibiting Strong Domain Knowledge</a></h4>
+            <p class="description">
+              HANAWELL LTD and BSK GLOBAL TECHNOLOGIES LIMITED SAP implementation section has an internal unit called HANAWELL DIGITAL NINJAS, which helps you maximize your investment on SAP. <br>
+              HANAWELL DIGITAL NINJAS brings strong domain capabilities through experienced professionals who have worked in the industry across various domains throughout the supply chain. <br>
+              To ascertain a successful implementation, HANAWELL LTD and BSK GLOBAL TECHNOLOGIES LIMITED employ a proven process standardization approach for process convergence.
+            </p>
           </div>
-          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
-            <h4 class="title"><a href="">Second Value.</a></h4>
-            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem odio sapiente itaque facilis maiores fugit, voluptatum odit eveniet libero veniam officiis, corporis, distinctio quae qui! Tempore corrupti perferendis architecto cum.</p>
+          <div class="col-lg-6 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <h4 class="title"><a href="">Overall Ownership and Accountability</a></h4>
+            <p class="description">
+              The success of every project requires a close collaboration between your teams, software vendor and HANAWELL LTD and BSK GLOBAL TECHNOLOGIES LIMITED with an overall ownership and accountability of the project. <br>
+              HANAWELL LTD and BSK GLOBAL TECHNOLOGIES LIMITED has a proven track record in driving critical projects taking overall accountability and responsibility.
+            </p>
           </div>
-          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-            <h4 class="title"><a href=""> Third Value</a></h4>
-            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto repellendus magni rem ad reiciendis neque similique recusandae dolorum molestias. Nam ipsa dolor assumenda neque ut saepe, incidunt fugit at eveniet?.</p>
+          <div class="col-lg-6 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <h4 class="title"><a href="">Certainty of Managing Deliveries and Organizational Change</a></h4>
+            <p class="description">
+              HANAWELL LTD and BSK GLOBAL TECHNOLOGIES LIMITED believe that core architecture and the solution design plays an integral role in the entire project and HANAWELL LTD and BSK GLOBAL TECHNOLOGIES LIMITED works with both SAP and you to create a best-fit solution.<br>
+              We understand there is an effort in Organizational Change Management (OCM) and keeping the business groups satisfied with streamlined communication and information about the ongoing changes, training projects.<br>
+              We have a proven track record in Organizational Change Management
+            </p>
+          </div>
+          <div class="col-lg-6 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <h4 class="title"><a href="">Technical Competence, Training and Strong Partner Network</a></h4>
+            <p class="description">
+              Availability of the right technical skills is paramount. HANAWELL LTD and BSK GLOBAL TECHNOLOGIES LIMITED gives due importance to this requirement in every project.  
+              Our technology skillset is vast and wide to sui he needs of any SAP implementation project and/or SAP training program.<br>
+              We have a strong partnership with SAP and many other technology solution providers. We will leverage this partnership for the core solution, components and its integration with other systems.  
+              We also expect and are ready for more investments in training and upgrading our skills for peripheral niche technologies to serve you better.<br>
+              Most of BSK GLOBAL TECHNOLOGIES LIMITED AND HANAWELL LTD revenues come from repeat customers which exemplifies that customer satisfaction is at the core of BSK GLOBAL TECHNOLOGIES LIMITED AND HANAWELL LTD.<br>
+              This means a delivery certainty and true trusted partnership for GDC in realizing this project.
+            </p>
           </div>
 
+        </div>
+
+        <div class="row text-center">
+        <h2 class="text-primary col-md-12">HANAWELL LIMITED and SAP Partnership</h2>
+        <p>
+            Our partnership with SAP places us in a privileged position to serve you better through the vast access to both SAP’s latest technology and expert advice.<br>
+            We transfer all benefits gained through our partnership with SAP to provide you with a gold standard service that facilitates the growth of your business.<br>
+            We share common principles with SAP such as Solution Innovation, empowering our clients with fit-for-purpose business and system knowledge to enable self-sustenance, elevate our clients into the digital age through our vast expert knowledge made possible by our partnership with SAP  and comprehensive training programs delivered by global subject matter experts but tailored around you.<br>
+            No two companies are the same and as such, our training programs are client specific but packaged and delivered with the highest of global standards.<br>
+            We partner with global market leaders to provide our clients with the best in class service.
+        </p>
         </div>
 
       </div>

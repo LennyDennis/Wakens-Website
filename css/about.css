@@ -24,23 +24,25 @@
   }
   
   #About-Us .title {
-    margin-left: 60px;
+    margin-left: 5px;
+    margin-right: 5px;
     font-weight: 700;
     margin-bottom: 15px;
     font-size: 18px;
   }
   
   #About-Us .title a {
-    color: #111;
+    color: #F44336;
   }
   
-  #About-Us .box:hover .title a {
+  /* #About-Us .box:hover .title a {
     color: orange;
-  }
+  } */
   
   #About-Us .description {
     font-size: 14px;
-    margin-left: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
     line-height: 24px;
     margin-bottom: 0;
   }

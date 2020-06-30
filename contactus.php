@@ -50,33 +50,33 @@
         <div class="form col-md-5">
           <div id="sendmessage">Your message has been sent. Thank you!</div>
           <div id="errormessage"></div>
-          <form action="" method="post" role="form" class="contactForm">
+          <form name="contact" action="sendmail.php" method="POST" role="form" class="contactForm" enctype="multipart/form-data" onsubmit="return validate()" autocomplete="off">
          
             <div class="form-group">
-              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-              <div class="validation"></div>
+              <input type="text" name="fullname" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+              <div class= "errormessage" id = "fullnameerror"></div>
             </div>
             <div class="form-group">
               <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-              <div class="validation"></div>
+              <div class = "errormessage" id = "emailerror"></div>
             </div>
             <div class="form-group">
               <input type="phone" class="form-control" name="phone" id="phone" placeholder="Your phone number" data-rule="phone" data-msg="Please enter a valid phone number" />
-              <div class="validation"></div>
+              <div class = "errormessage" id = "phoneerror"></div>
             </div>
             <div class="form-group">
               <input type="text" class="form-control" name="company" id="company" placeholder="Your Company" data-rule="minlen:1" data-msg="Please enter a your company name" />
-              <div class="validation"></div>
+              <div class = "errormessage" id = "companyerror"></div>
             </div>
             <div class="form-group">
               <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-              <div class="validation"></div>
+              <div class = "errormessage" id = "subjecterror"></div>
             </div>
             <div class="form-group">
               <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-              <div class="validation"></div>
+              <div class = "errormessage" id = "messageerror"></div>
             </div>
-            <div class="text-center"><button type="submit">Send Message</button></div>
+            <div class="text-center"><button type="submit" name="submit" >Send Message</button></div>
           </form>
         </div>
 
@@ -152,7 +152,7 @@
   <script src="lib/lightbox/js/lightbox.min.js"></script>
   <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
   <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
+  <script src= "./js/validate.js"></script>
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
