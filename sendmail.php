@@ -1,23 +1,42 @@
 <?php
     if(isset($_POST['submit'])){
 
-        $to = 'info@bespokecreditfinance.com';
+        $to = 'lennydennis@gmail.com';
         //get fields from the form
         $from = $_POST['email'];
         $fullname = $_POST['fullname'];
         $phone = $_POST['phone'];
+        $company = $_POST['company'];
         $subject = $_POST['subject'];
         $message = $_POST['message'];
-        $headers = 'From: '.$from ;
 
-        $fullmessage ='Name: '.$fullname."\r\n".'Email: '.$from."\r\n".'Phone: '.$phone."\r\n\n".'The mail is as follows: '."\r\n".$message;
+        $headers = "From: ".$from ."\r\n" ;
+        $headers.= "MIME-Version: 1.0\r\n";
+        $headers.= "Content-Type: text/html; charset=ISO-8859-1\r\n";
+        $headers.= "X-Priority: 1\r\n";
+
+
+        $fullmessage ='Name: '.$fullname."\r\n"
+                        .'Email: '.$from."\r\n"
+                        .'Phone: '.$phone."\r\n"
+                        .'Company: '.$company."\r\n\n"
+                        .'Subject: '.$subject."\r\n"
+                        .'The mail is as follows: '."\r\n".$message;
+
         //check whether the email is valid
         if(!filter_var($from, FILTER_VALIDATE_EMAIL)){
             header('Location: ./contact.html');
             exit();
         }else{
-            mail($to,$subject,$fullmessage,$headers);
-            header('Location: thankyou.php');
+            // mail($to,$subject,$fullmessage,$headers);
+            // header('Location: thankyou.php');
+
+            $result = mail($to,$subject,$fullmessage,$headers);
+            if(!$result) {   
+                echo "<script>console.log('Error' );</script>";
+            } else {
+                echo "<script>console.log('success' );</script>";
+            }
         }
 
     }
