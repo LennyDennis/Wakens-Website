@@ -3,3 +3,11 @@
     background-size: cover;
     color: #000;
   }
+  .feature-box-img img{
+    width: 100%;
+    height: 180px;
+  }
+  .feature-box-title{
+    color: #007eb8;
+    font-weight: 500;
+  }

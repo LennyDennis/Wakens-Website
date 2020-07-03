@@ -21,7 +21,9 @@
                         .'Phone: '.$phone."\r\n"
                         .'Company: '.$company."\r\n\n"
                         .'Subject: '.$subject."\r\n"
-                        .'The mail is as follows: '."\r\n".$message;
+                        .'Email Body: '."\r\n".$message;
+
+        echo $fullmessage;
 
         //check whether the email is valid
         if(!filter_var($from, FILTER_VALIDATE_EMAIL)){
