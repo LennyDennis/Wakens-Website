@@ -21,8 +21,6 @@
                         .'Subject: '.$subject."\r\n"
                         .'Email Body: '."\r\n".$message;
 
-        echo $fullmessage;
-
         //check whether the email is valid
         if(!filter_var($from, FILTER_VALIDATE_EMAIL)){
             header('Location: ./contact.html');
