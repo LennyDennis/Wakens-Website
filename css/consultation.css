@@ -1,8 +1,4 @@
-#contact{
-  background: linear-gradient(#f1b7b250, #eed5d356) ,url("../images/SAP.jpg") center top no-repeat fixed;
-  background-size: cover;
-  color: #000;
-}
+
 
 #contact::before {
   z-index: -1;
