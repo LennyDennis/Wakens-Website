@@ -27,7 +27,9 @@
     <!-- Main Stylesheet File -->
     <link href="css/style.css" rel="stylesheet">
     <link href="css/contact.css" rel="stylesheet">
+    <link href="css/about.css" rel="stylesheet">
     <link href="css/training.css" rel="stylesheet">
+
 
   </head>
 
@@ -40,84 +42,86 @@
     <main id="main">
 
     <section id="contact" class="section-bg fadeInUp">
-        <div class="container">
+      <div class="container">
 
-          <div class="section-header">
-            <h3>SAP Training Strategy</h3>
-          </div>
+        <div class="section-header">
+          <h3>SAP Training</h3>
+        </div>
 
-          <div class="col-md-12 explanation">
-            
-            <p class="consultation-desc mb-2">
-              Hanawell implementation team develops training strategies tailor made and unique to each client’s implementation.
-            </p>
-            
-            <p class="consultation-desc mb-2">
-              At a minimum, the training strategy includes:
-              <ul>
-                <li>Acknowledgement of the specific learning needs of each client’s stakeholder groups.</li>
-                <li>Product-driven training using user-specific stories and customised client process scenarios for relatability and familiarity.</li>
-                <li>Training for core business capabilities, as well as technical training in tools, standards, technology and data.</li>
-                <li>Diverse delivery methods based on audience and content needs to build knowledge over time, including accessible formats.</li>
-                <li>Learner completion statistics and assessment metrics to drive accountability and gauge learning retention.</li>
-              </ul>
-            </p>
-
-          </div>
-
+        <div class="container h-100 training-page">
           <div class="row">
-            <div class="col-md-4 mt-30">
-              <div class="feature-box f-style-2 d-flex flex-column h-100">
-                <div class="feature-box-img">
-                  <img width="100%" src="./images/business.jpg" alt="">
-                </div>
-                <h3 class="feature-box-title text-center">Approach</h3>
+            <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
+              <img width="100%" src="./images/training3.jpg" alt="">
+            </div>
+            <div class="col-md-12 col-lg-6 align-self-center ">
+              <div class="title text-left">
+                <h2 class="text-primary">SAP Training Strategy </span></h2>
                 <p class="consultation-desc mb-2">
-                  The key objective of training is to educate and equip a user with the skills and knowledge to perform their work using the new system and business processes.
-                </p>
-                <p class="consultation-desc mb-2">
-                  Hanawell utilises expanding methods to include a mix of different learning and training approaches, including eLearning, self-serve and train-the-trainer methodologies.
-                </p>
-                <a class="mt-auto" href="approach.php">More info</a>
+                At a minimum, the training strategy includes:
+                <ul>
+                  <li>Acknowledgement of the specific learning needs of each client’s stakeholder groups.</li>
+                  <li>Product-driven training using user-specific stories and customised client process scenarios for relatability and familiarity.</li>
+                  <li>Training for core business capabilities, as well as technical training in tools, standards, technology and data.</li>
+                  <li>Diverse delivery methods based on audience and content needs to build knowledge over time, including accessible formats.</li>
+                  <li>Learner completion statistics and assessment metrics to drive accountability and gauge learning retention.</li>
+                </ul>
+              </p>
               </div>
             </div>
 
-            <div class="col-md-4 mt-30">
-              <div class="feature-box f-style-2 d-flex flex-column h-100">
-                <div class="feature-box-img">
-                  <img width="100%" src="./images/implementation.jpg" alt="">
-                </div>
-                <h3 class="feature-box-title text-center">Development</h3>
-                <p class="consultation-desc mb-2">
-                  Training development is a responsibility of the SAP project.
-                </p>
-                <p class="consultation-desc mb-2">
-                    The Hanawell team creates training through the design, development and delivery stages of the project. 
-                </p>
-                <p class="consultation-desc mb-2">
-                    Hanawell is always exploring new generation training tools that can be used to deliver short and effective training modules with application (system) simulations.
-                </p>
-                <a class="mt-auto"href="development.php">More info</a>
-              </div>
-            </div>
+          </div>
+        </div>
 
-            <div class="col-md-4 mt-30">
-              <div class="feature-box f-style-2 d-flex flex-column h-100">
-                <div class="feature-box-img">
-                  <img width="100%" src="images/upgrade.jpg" alt="">
-                </div>
-                <h3 class="feature-box-title text-center">Delivery</h3>             
-                <p class="consultation-desc mb-2">
+    <section id="about">
+      <div class="container">
+
+        <div class="row about-cols justify-content-center">
+
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="about-col">
+              <div class="img">
+              <div class="icon"><i class="ion-ios-alarm-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="approach.php">Approach</a></h2>
+              <p class="consultation-desc mb-2">
+                The key objective of training is to educate and equip a user with the skills and knowledge to perform their work using the new system and business processes.<br>
+                Hanawell utilises expanding methods to include a mix of different learning and training approaches, including eLearning, self-serve and train-the-trainer methodologies.
+              </p>
+              <a class="mt-auto training-links" href="approach.php">More info</a>
+            </div>
+          </div>
+
+          <div class="col-md-4 wow fadeInUp">
+            <div class="about-col">
+              <div class="img">
+              <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="development.php">Development</a></h2>
+              <p class="consultation-desc mb-2">
+                  Training development is a responsibility of the SAP project.<br>
+                  The Hanawell team creates training through the design, development and delivery stages of the project. <br>
+                  Hanawell is always exploring new generation training tools that can be used to deliver short and effective training modules with application (system) simulations.
+                </p>
+                <a class="mt-auto training-links"href="development.php">More info</a>
+            </div>
+          </div>
+
+          <div class="col-md-4 wow fadeInUp " data-wow-delay="0.1s">
+            <div class="about-col">
+              <div class="img">
+                <div class="icon"><i class="ion-ios-sunny-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="delivery.php">Develivery</a></h2>
+              <p class="consultation-desc mb-2">
                   Hanawell’s “On-premises and best-of-breed” training delivery products, provides an application simulation tool.
-                </p>
-                <p class="consultation-desc mb-2">
+                  <br>
                   By effectively utilizing the application simulation tool, Hanawell’s training delivery becomes more efficient, robust, repeatable, cost- effective and consistent.
                 </p>
-                <a class="mt-auto" href="delivery.php">More info</a>
-              </div>
+                <a class="mt-auto training-links" href="delivery.php">More info</a>
             </div>
-
           </div>
+        </div>
+
       </div>
     </section>
 
@@ -139,8 +143,7 @@
     <script src="lib/isotope/isotope.pkgd.min.js"></script>
     <script src="lib/lightbox/js/lightbox.min.js"></script>
     <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
-    <!-- Contact Form JavaScript File -->
-    <script src="contactform/contactform.js"></script>
+
 
     <!-- Template Main Javascript File -->
     <script src="js/main.js"></script>

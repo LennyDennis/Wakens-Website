@@ -46,7 +46,7 @@
               <img src="./images/business.jpg" alt="" />
             </div>
             <div class="col-md-6">
-              <h3>Business Change Management</h3>
+              <h3 class="title"><a href="businessmgmt.php">Business Change Management</a></h3>
               <p class="consultation-desc mb-2">
                 Hanawell’s Change Management ensures that the right resources and processes are in place so that the client effectively transitions to the desired future state and at the planned pace. 
               </p>
@@ -59,7 +59,7 @@
 
           <div class="consultation f-style-2 row mt-4 h-100">
             <div class="col-md-6">
-              <h3>SAP Upgrade and Migration</h3>
+              <h3 class="title"><a href="upgrademigration.php">SAP Upgrade and Migration</a></h3>
               <p class="consultation-desc mb-2">
                 Hanawell reduces the complexity that is associated with SAP system upgrades or migration services through careful and calculated planning and professional project execution.
               </p>
@@ -76,12 +76,13 @@
           <div class="consultation f-style-2 row mt-4 h-100">
             <div class="col-md-6 consultation-img">
               <img src="./images/implementation.jpg" alt="" />     
+
+            </div>
+            <div class="col-md-6">
+              <h3 class="title"><a href="implementation.php">SAP Implementation</a></h3>
               <p class="consultation-desc mb-2">
                 The Hanawell Limited application management services provide cost effective solutions to maintain and enhance existing applications.
               </p>
-            </div>
-            <div class="col-md-6">
-              <h3>SAP Implementation</h3>
               <p class="consultation-desc mb-2">
                 At Hanawell, the customer comes first. 
               </p>
@@ -94,7 +95,7 @@
 
           <div class="consultation f-style-2 row mt-4 h-100">
             <div class="col-md-6">
-              <h3>SAP Maintenance and Support</h3>
+              <h3 class="title"><a href="maintainanceandsupport.php">SAP Maintenance and Support</a></h3>
               <p class="consultation-desc mb-2">
                 It is becoming an increasingly expensive affair to invest in post deployment contracts with package and development vendors or even to retain large internal support teams for the maintenance and enhancement of applications so as to sustain ongoing return against initial development investment.</p>
               <p class="consultation-desc mb-2">

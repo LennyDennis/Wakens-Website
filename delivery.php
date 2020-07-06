@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Maintainance | Hanawell Limited</title>
+  <title>Delivery | Hanawell Limited</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="hanawell, hanawell limited, sap, sap training, sap consultation" name="keywords">
   <meta content="this the sap mainatainance and support page for hanawell limited" name="description">
@@ -48,25 +48,35 @@
         <div class="container">
         <div class="consultation f-style-2 row mt-4 h-100">
 
-        <p class="consultation-desc mb-2">
-              Hanawell’s “On-Premises and Best-of-Breed” Training Delivery
-              <ul>
-                <li>Hanawell’s “On-premises and best-of-breed” training delivery products, provides an application simulation tool. </li>
-                <li>By effectively utilizing the application simulation tool, Hanawell’s training delivery becomes more efficient, robust, repeatable, cost- effective and consistent. .</li>
-                <li>Application simulations allow user interaction within pre-defined procedures without having to connect to a training environment. </li>
-                <li>Users can learn how to perform transactions in the system by first viewing a demonstration and then by performing the same transaction themselves.</li>
-                <li>Enabling the target audience of the change to perform in the future state.</li>
-                <li>Planning to sustain new ways of working and for continuous improvement in the desired future state.</li>
-                <li>The benefits of using application simulations are:
-                  <ul>
-                    <li>Increased mobility of the training delivery method as the training location does not need to have connections to the training server.</li>
-                    <li>Enablement of users to practice and learn at their own pace, on their own device within the application simulations and outside of planned training course times.</li>
-                  </ul>
-                </li>
-                <li>Assurance of consistent quality and contents regardless of when or where the training is conducted or accessed
-</li>
-              </ul>
-            </p>
+        <div class="col-md-8 explanation">
+          <p class="consultation-desc mb-2">
+            Hanawell’s “On-Premises and Best-of-Breed” Training Delivery
+            <ul>
+              <li>Hanawell’s “On-premises and best-of-breed” training delivery products, provides an application simulation tool. </li>
+              <li>By effectively utilizing the application simulation tool, Hanawell’s training delivery becomes more efficient, robust, repeatable, cost- effective and consistent. .</li>
+              <li>Application simulations allow user interaction within pre-defined procedures without having to connect to a training environment. </li>
+              <li>Users can learn how to perform transactions in the system by first viewing a demonstration and then by performing the same transaction themselves.</li>
+              <li>Enabling the target audience of the change to perform in the future state.</li>
+              <li>Planning to sustain new ways of working and for continuous improvement in the desired future state.</li>
+              <li>The benefits of using application simulations are:
+                <ul>
+                  <li>Increased mobility of the training delivery method as the training location does not need to have connections to the training server.</li>
+                  <li>Enablement of users to practice and learn at their own pace, on their own device within the application simulations and outside of planned training course times.</li>
+                </ul>
+              </li>
+              <li>Assurance of consistent quality and contents regardless of when or where the training is conducted or accessed</li>
+            </ul>
+          </p>
+        </div>
+        <div class="col-md-4 quick-links">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="training.php">SAP Training</a></li>
+            <li><a href="approach.php">SAP Training Approach</a></li>
+            <li><a href="development.php">SAP Training Development</a></li>
+            <li><a href="delivery.php">SAP Training Delivery</a></li>
+          </ul>
+        </div>
         
         </div>
 

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Maintainance | Hanawell Limited</title>
+  <title>Development | Hanawell Limited</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="hanawell, hanawell limited, sap, sap training, sap consultation" name="keywords">
   <meta content="this the sap mainatainance and support page for hanawell limited" name="description">
@@ -48,18 +48,29 @@
         <div class="container">
         <div class="consultation f-style-2 row mt-4 h-100">
 
-        <p class="consultation-desc mb-2">
-            Training development is a responsibility of the SAP project.
-        </p>
-        <p class="consultation-desc mb-2">
-            The Hanawell team creates training through the design, development and delivery stages of the project. 
-        </p>
-        <p class="consultation-desc mb-2">
-            Hanawell is always exploring new generation training tools that can be used to deliver short and effective training modules with application (system) simulations.
-        </p>
-        <p class="consultation-desc mb-2">
-            Training environment and training spaces are created by replicating the User Acceptance Test (UAT) environment, allowing users to practice using the system at their own pace and outside of planned training sessions. <br>
-        </p>
+        <div class="col-md-8 explanation">
+          <p class="consultation-desc mb-2">
+              Training development is a responsibility of the SAP project.
+          </p>
+          <p class="consultation-desc mb-2">
+              The Hanawell team creates training through the design, development and delivery stages of the project. 
+          </p>
+          <p class="consultation-desc mb-2">
+              Hanawell is always exploring new generation training tools that can be used to deliver short and effective training modules with application (system) simulations.
+          </p>
+          <p class="consultation-desc mb-2">
+              Training environment and training spaces are created by replicating the User Acceptance Test (UAT) environment, allowing users to practice using the system at their own pace and outside of planned training sessions. <br>
+          </p>
+        </div>
+        <div class="col-md-4 quick-links">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="training.php">SAP Training</a></li>
+            <li><a href="approach.php">SAP Training Approach</a></li>
+            <li><a href="development.php">SAP Training Development</a></li>
+            <li><a href="delivery.php">SAP Training Delivery</a></li>
+          </ul>
+        </div>
 
       </div>
     </section>

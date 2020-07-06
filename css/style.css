@@ -120,7 +120,7 @@ h6 {
 
 #header {
   padding: 30px 0;
-  background: white;
+  background: #191919;
   height: 92px;
   position: fixed;
   left: 0;
@@ -131,7 +131,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: rgb(236, 232, 232);
+  background: #191919ec;;
   padding: 15px 0;
   height: 80px;
   transition: all 0.5s;
