@@ -48,9 +48,8 @@
         <div class="row">
 
         <div class="form col-md-5">
-          <div id="sendmessage">Your message has been sent. Thank you!</div>
-          <div id="errormessage"></div>
-          <form name="contact" action="sendmail.php" method="POST" role="form" class="contactForm" enctype="multipart/form-data" onsubmit="return validate()" autocomplete="off">
+
+          <form id="contact-form" name="contact" action="sendmail.php" method="post" role="form" class="contactForm" enctype="multipart/form-data" onsubmit="return validate()" autocomplete="off">
          
             <div class="form-group">
               <input type="text" name="fullname" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />

@@ -1,40 +1,38 @@
 <?php
-    if(isset($_POST['submit'])){
+
+use PHPMailer\PHPMailer\PHPMailer;
+
+if($_SERVER["REQUEST_METHOD"] == "POST"){
 
         $to = 'lennydennis@gmail.com';
         //get fields from the form
-        $from = $_POST['email'];
-        $fullname = $_POST['fullname'];
-        $phone = $_POST['phone'];
-        $company = $_POST['company'];
-        $subject = $_POST['subject'];
-        $message = $_POST['message'];
+        $from = filter_var(trim($_POST['email']),FILTER_SANITIZE_EMAIL);
+        $fullname = strip_tags(trim($_POST['fullname']));
+        $fullname = str_replace(array("\r","\n"),array(" "," "),$fullname);
+        $phone = trim($_POST['phone']);
+        $company = trim($_POST['company']);
+        $subject = trim($_POST['subject']);
+        $message = trim($_POST['message']);
 
-        $headers = "From: ".$from ."\r\n" ;
+        $headers = "From: ".$from."\r\n" ;
+        $headers = "Reply-To: ".$to."\r\n" ;
         $headers.= "MIME-Version: 1.0\r\n";
-        $headers.= "Content-Type: text/html; charset=UTF-8\r\n";
+        $headers.= "Content-Type: text/html\r\n";
 
-        $fullmessage ='Name: '.$fullname."\r\n"
+        $fullmessage =  'Name: '.$fullname."\r\n"
                         .'Email: '.$from."\r\n"
                         .'Phone: '.$phone."\r\n"
                         .'Company: '.$company."\r\n\n"
                         .'Subject: '.$subject."\r\n"
                         .'Email Body: '."\r\n".$message;
 
-        //check whether the email is valid
-        if(!filter_var($from, FILTER_VALIDATE_EMAIL)){
-            header('Location: ./contact.html');
-            exit();
-        }else{
-            // mail($to,$subject,$fullmessage,$headers);
-            // header('Location: thankyou.php');
-
-            $result = mail($to,$subject,$fullmessage,$headers);
-            if(!$result) {   
-                echo "<script>console.log('Error' );</script>";
-            } else {
-                echo "<script>console.log('success' );</script>";
-            }
+        $result = mail($to,$subject,$fullmessage,$headers);
+        if($result) {  
+            http_response_code(200);
+            header('Location: emailsuccess.php');
+        } else {
+            http_response_code(500);
+            header('Location: emailerror.php');
         }
 
     }

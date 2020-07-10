@@ -32,6 +32,7 @@
 
 <body>
 
+<div class="containers">
 
 <?php include_once("navigationbar.php")?>
 
@@ -195,6 +196,8 @@
 
       </div>
     </section>
+
+  
 
   </main>
 

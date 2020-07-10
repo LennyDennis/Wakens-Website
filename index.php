@@ -156,12 +156,7 @@
             </p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon"><i claFor Android devs,
-(Codingwithmitch)
-https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw 
-and
-  
-(CodingInflow) https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcAss="ion-ios-list-outline"></i></div>
+            <div class="icon"><i class="ion-ios-list-outline"></i></div>
             <h4 class="title"><a href="">Plan</a></h4>
             <p class="description">
               Our plan and purpose is to help the world run better and improve people’s lives.
