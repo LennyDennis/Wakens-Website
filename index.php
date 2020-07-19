@@ -150,14 +150,14 @@
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
-            <h4 class="title"><a href="">Mission</a></h4>
+            <h4 class="title"><a href="">MISSION</a></h4>
             <p class="description">
               To empower businesses to successfully transition past their business transformation phase and work with them to ensure business continuity during the transformation phase and beyond.
             </p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-list-outline"></i></div>
-            <h4 class="title"><a href="">Plan</a></h4>
+            <h4 class="title"><a href="">OUR PLAN</a></h4>
             <p class="description">
               Our plan and purpose is to help the world run better and improve people’s lives.
             </p>
