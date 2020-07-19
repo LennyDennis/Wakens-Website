@@ -181,7 +181,7 @@
                       We transfer all benefits gained through our partnership with SAP to provide you with a gold standard service that facilitates the growth of your business.<br>
                       We share common principles with SAP such as Solution Innovation, empowering our clients with fit-for-purpose business and system knowledge to enable self-sustenance, elevate our clients into the digital age through our vast expert knowledge made possible by our partnership with SAP  and comprehensive training programs delivered by Global subject matter experts but tailored around you.
                     </p>
-                    <a class="mt-auto" href="maintainanceandsupport.php">Read More</a>
+                    <a class="mt-auto" href="sappartnership.php">Read More</a>
                   </div>
                 </div>
               </div>
