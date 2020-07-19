@@ -111,7 +111,7 @@
               <div class="img">
                 <div class="icon"><i class="ion-ios-sunny-outline"></i></div>
               </div>
-              <h2 class="title"><a href="delivery.php">Develivery</a></h2>
+              <h2 class="title"><a href="delivery.php">Delivery</a></h2>
               <p class="consultation-desc mb-2">
                   Hanawell’s “On-premises and best-of-breed” training delivery products, provides an application simulation tool.
                   <br>
