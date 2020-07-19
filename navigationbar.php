@@ -3,7 +3,7 @@
 
       <div id="logo" class="pull-left">
         <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="#intro"><img style="width:75px; height:60px;" src="./images/HanawellLogo.png" alt="" title="" /></a>
+        <a href="index.php"><img style="width:75px; height:60px;" src="./images/HanawellLogo.png" alt="logo" title="" /></a>
       </div>
 
       <nav id="nav-menu-container">
