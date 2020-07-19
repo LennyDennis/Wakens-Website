@@ -114,7 +114,7 @@
                 Kenya,<br>
                 <strong>Phone: </strong><br> <a href="tel: +44(0)78 24520 535">+44(0)78 24520 535</a>
                 <br>
-                <strong>Email:</strong><br><a href="operations@hanawell.net">operations@hanawell.net</a>
+                <strong>Email:</strong><br><a href="operations@hanawell.net">emea@hanwell.net</a>
                 </p>
               </div>
               <div class="col-md-6 map">

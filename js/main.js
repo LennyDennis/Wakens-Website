@@ -14,6 +14,19 @@
     return false;
   });
 
+
+    $('.nav-menu li').click(function(e) {
+        $('.nav-menu li').removeClass('menu-active menu-item-active'); 
+        $(this).addClass('menu-active menu-item-active');
+    });
+
+  //   $('.p_menu li').click(function(e) {
+  //     e.preventDefault();
+  //     $('.p_menu li.active').removeClass('active');
+  //     $(this).addClass('active');
+  // });
+
+
   // Initiate the wowjs animation library
   new WOW().init();
 
@@ -111,6 +124,8 @@
       }
     }
   });
+
+
 
   // jQuery counterUp (used in Facts section)
   $('[data-toggle="counter-up"]').counterUp({
