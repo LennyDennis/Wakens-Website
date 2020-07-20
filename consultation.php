@@ -108,6 +108,23 @@
             </div>
           </div>
 
+          <div class="consultation f-style-2 row mt-4 h-100">
+            <div class="col-md-6 consultation-img">
+              <img src="./images/brexit.png" alt="" />     
+
+            </div>
+            <div class="col-md-6">
+              <h3 class="title"><a href="implementation.php">Brexit</a></h3>
+              <p class="consultation-desc mb-2 brexit">
+                Your Unique Business Approach To Brexit
+              </p>
+              <p class="consultation-desc mb-2">
+                To gain an insight on the Brexit impact to your business
+              </p>
+              <a class="mt-auto" href="#">Visit Page</a>
+            </div>
+          </div>
+
         </div>
       </div>
     </section>

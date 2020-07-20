@@ -8,6 +8,11 @@
   width: 100%;
   height: 280px;
 }
+.brexit{
+  color: #007eb8e1;
+  size: 18px;
+  font-weight: bold;
+}
 .title a{
   color: #007eb8e1;
   transition: 0.5s;
