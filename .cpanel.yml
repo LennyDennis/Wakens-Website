@@ -2,6 +2,10 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/o1sqlhth425e/public_html/
+    - /bin/cp -R css * $DEPLOYPATH
+    - /bin/cp -R images * $DEPLOYPATH
+    - /bin/cp -R js * $DEPLOYPATH
+    - /bin/cp -R lib * $DEPLOYPATH
     - /bin/cp about.php $DEPLOYPATH
     - /bin/cp approach.php $DEPLOYPATH
     - /bin/cp bskpartnership.php $DEPLOYPATH
@@ -20,7 +24,4 @@ deployment:
     - /bin/cp sendmail.php $DEPLOYPATH
     - /bin/cp training.php $DEPLOYPATH
     - /bin/cp upgrademigration~.php $DEPLOYPATH
-    - /bin/cp -R css * $DEPLOYPATH
-    - /bin/cp -R images * $DEPLOYPATH
-    - /bin/cp -R js * $DEPLOYPATH
-    - /bin/cp -R lib * $DEPLOYPATH
+
