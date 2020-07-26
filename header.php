@@ -4,7 +4,7 @@
 <meta content="this the sap mainatainance and support page for hanawell limited" name="description">
 
 <!-- Favicons -->
-<link href="images/favIcon.png" rel="icon">
+<link href="images/HanawellLogo.png" rel="icon">
 <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700"

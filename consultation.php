@@ -107,7 +107,7 @@
                             <p class="consultation-desc mb-2">
                                 To gain an insight on the Brexit impact to your business
                             </p>
-                            <a class="mt-auto" href="#">Visit Page</a>
+                            <a class="mt-auto" href="https://brexit.hanawell.net/">Visit Page</a>
                         </div>
                     </div>
                 </div>
