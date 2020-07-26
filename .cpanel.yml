@@ -1,32 +1,27 @@
----
 deployment:
-tasks:
-  - export DEPLOYPATH=/home/o1sqlhth425e/public_html/
-  - /bin/cp -R css * $DEPLOYPATH
-  - /bin/cp -R images * $DEPLOYPATH
-  - /bin/cp -R js * $DEPLOYPATH
-  - /bin/cp -R lib * $DEPLOYPATH
-
-  - /bin/cp about.php $DEPLOYPATH
-  - /bin/cp approach.php $DEPLOYPATH
-  - /bin/cp bskpartnership.php $DEPLOYPATH
-  - /bin/cp businessmgmt.php $DEPLOYPATH
-  - /bin/cp consultation.php $DEPLOYPATH
-  - /bin/cp consultationlinks.php $DEPLOYPATH
-  - /bin/cp contactus.php $DEPLOYPATH
-  - /bin/cp delivery.php $DEPLOYPATH
-  - /bin/cp development.php $DEPLOYPATH
-  - /bin/cp emailerror.php $DEPLOYPATH
-  - /bin/cp emailsuccess.php $DEPLOYPATH
-  - /bin/cp footer.php $DEPLOYPATH
-  - /bin/cp header.php $DEPLOYPATH
-  - /bin/cp implementation.php $DEPLOYPATH
-  - /bin/cp index.php $DEPLOYPATH
-  - /bin/cp maintainanceandsupport.php $DEPLOYPATH
-  - /bin/cp navigationbar.php $DEPLOYPATH
-  - /bin/cp sappartnership.php $DEPLOYPATH
-  - /bin/cp sendmail.php $DEPLOYPATH
-  - /bin/cp training.php $DEPLOYPATH
-  - /bin/cp traininglinks.php $DEPLOYPATH
-  - /bin/cp upgrademigration.php $DEPLOYPATH
+  tasks:
+    - export DEPLOYPATH=/home/o1sqlhth425e/public_html/
+    - /bin/cp -R css * $DEPLOYPATH
+    - /bin/cp -R images * $DEPLOYPATH
+    - /bin/cp -R js * $DEPLOYPATH
+    - /bin/cp -R lib * $DEPLOYPATH
+    
+    - /bin/cp about.php $DEPLOYPATH
+    - /bin/cp approach.php $DEPLOYPATH
+    - /bin/cp bskpartnership.php $DEPLOYPATH
+    - /bin/cp consultation.php $DEPLOYPATH
+    - /bin/cp contactus.php $DEPLOYPATH
+    - /bin/cp delivery.php $DEPLOYPATH
+    - /bin/cp development.php $DEPLOYPATH
+    - /bin/cp emailerror.php $DEPLOYPATH
+    - /bin/cp emailsuccess.php $DEPLOYPATH
+    - /bin/cp footer.php $DEPLOYPATH
+    - /bin/cp implementation.php $DEPLOYPATH
+    - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp maintainanceandsupport.php $DEPLOYPATH
+    - /bin/cp navigationbar.php $DEPLOYPATH
+    - /bin/cp sappartnership.php $DEPLOYPATH
+    - /bin/cp sendmail.php $DEPLOYPATH
+    - /bin/cp training.php $DEPLOYPATH
+    - /bin/cp upgrademigration.php $DEPLOYPATH
 
