@@ -1,122 +1,117 @@
+#header{
+  background:#191919;
+  ;
+}
 
-#contact {
-    padding: 100px 0px 60px 0px;
-    background: white;
-  }
-  #header{
-    background:#191919;
-    ;
-  }
-  
-  #contact .contact-info {
-    margin-bottom: 10px;
-  }
-  
-  #contact .contact-info p {
-    margin-bottom: 0px;
-    color: #000;
-    font-size: 15px;
-    
-  }
-  
-  #contact .contact-info h3 {
-    font-size: 18px;
-    margin-bottom: 10px;
-    font-weight: bold;
-    text-transform: uppercase;
-    color: #007db8;
-  }
+#contact .contact-info {
+  margin-bottom: 10px;
+}
 
-  #contact .contact-info h4{
-    font-size: 16px;
-    margin-top: 10px;
-    margin-bottom: 5px;
-    color: #D32F2F;
-  }
+#contact .contact-info p {
+  margin-bottom: 0px;
+  color: #000;
+  font-size: 15px;
   
-  #contact .contact-info a {
-    color: #000;
-  }
-  
-  #contact .contact-info a:hover {
-    color: #007db8;
-  }
-  
-  #contact .contact-address,
-  #contact .contact-phone,
-  #contact .contact-email {
-    margin-bottom: 10px;
-  }
-  
-  #contact .form #sendmessage {
-    color: #007db8;
-    border: 1px solid #007db8;
-    display: none;
-    text-align: center;
-    padding: 15px;
-    font-weight: 600;
-    margin-bottom: 15px;
-  }
-  
-  #contact .form #errormessage {
-    color: red;
-    display: none;
-    border: 1px solid red;
-    text-align: center;
-    /* padding: 15px; */
-    font-weight: 600;
-    margin-bottom: 15px;
-  }
-  
-  #contact .form #sendmessage.show,
-  #contact .form #errormessage.show,
-  #contact .form .show {
-    display: block;
-  }
-  
-  #contact .form .validation {
-    color: red;
-    display: none;
-    margin: 0 0 20px;
-    font-weight: 400;
-    font-size: 13px;
-  }
-  
-  #contact .form input,
-  #contact .form textarea {
-    padding: 10px 14px;
-    border-radius: 0;
-    box-shadow: none;
-    font-size: 15px;
-    margin-bottom: 5px;
-  }
-  #contact .form .form-group{
-    margin-bottom: 25px;
-  }
-  
-  #contact .form button[type="submit"] {
-    background: #007db8;
-    border: 0;
-    padding: 10px 30px;
-    color: #fff;
-    transition: 0.4s;
-    cursor: pointer;
-  }
-  
-  #contact .form button[type="submit"]:hover {
-    background: #075477b6;
-  }
-  .contact-info{
-    margin-left: 20px;
-  }
-  .global-office{
-    margin-top: 40px;
-  }
-  #contact .address p{
-    font-size: 14px;
-  }
-  .errormessage {
-  color: red;
-  margin: 0;
+}
+
+#contact .contact-info h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #007db8;
+}
+
+#contact .contact-info h4{
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: #D32F2F;
+}
+
+#contact .contact-info a {
+  color: #000;
+}
+
+#contact .contact-info a:hover {
+  color: #007db8;
+}
+
+#contact .contact-address,
+#contact .contact-phone,
+#contact .contact-email {
+  margin-bottom: 10px;
+}
+
+#contact .form #sendmessage {
+  color: #007db8;
+  border: 1px solid #007db8;
+  display: none;
   text-align: center;
+  padding: 15px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+#contact .form #errormessage {
+  color: red;
+  display: none;
+  border: 1px solid red;
+  text-align: center;
+  /* padding: 15px; */
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+#contact .form #sendmessage.show,
+#contact .form #errormessage.show,
+#contact .form .show {
+  display: block;
+}
+
+#contact .form .validation {
+  color: red;
+  display: none;
+  margin: 0 0 20px;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+#contact .form input,
+#contact .form textarea {
+  padding: 10px 14px;
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+#contact .form .form-group{
+  margin-bottom: 25px;
+}
+
+#contact .form button[type="submit"] {
+  background: #007db8;
+  border: 0;
+  padding: 10px 30px;
+  color: #fff;
+  transition: 0.4s;
+  cursor: pointer;
+}
+
+#contact .form button[type="submit"]:hover {
+  background: #075477b6;
+}
+.contact-info{
+  margin-left: 20px;
+}
+.global-office{
+  margin-top: 40px;
+}
+#contact .address p{
+  font-size: 14px;
+}
+.errormessage {
+color: red;
+margin: 0;
+text-align: center;
 }

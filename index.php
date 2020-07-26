@@ -2,21 +2,8 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
     <title>Home | Hanawell Limited</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="hanawell, hanawell limited, sap, sap training, sap consultation" name="keywords">
-    <meta content="this the index page for hanawell limited" name="description">
-    <link href="images/favIcon.png" rel="icon">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700"
-        rel="stylesheet">
-    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="lib/animate/animate.min.css" rel="stylesheet">
-    <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <?php include_once("header.php") ?>
     <link href="css/home.css" rel="stylesheet">
 </head>
 
