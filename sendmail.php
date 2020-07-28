@@ -2,7 +2,7 @@
 
 if($_SERVER["REQUEST_METHOD"] == "POST"){
 
-$to = 'enquiries@hanawell.net';
+$to = 'info@hanawell.net';
 //get fields from the form
 $from = $_POST['email'];
 
