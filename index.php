@@ -12,6 +12,8 @@
     <!--==========================
     Intro Section
     ============================-->
+
+
     <section id="intro">
         <div class="intro-container">
             <div class="container">
@@ -24,8 +26,7 @@
                             <div class="landing-desc">
                                 <h3>SAP Training</h3>
                                 <p>
-                                    Hanawell employs a blended training approach to accommodate all participates in the
-                                    training programs.
+                                    Hanawell employs a blended training approach tailored to every client's needs.
                                 </p>
                                 <a href="training.php" class="btn-get-started btn-training">Get Started</a>
                             </div>
@@ -116,7 +117,6 @@
         <section id="About">
             <div class="container">
                 <header class="section-header wow fadeInUp">
-                    <h3>About Us</h3>
                     <p>
                         Hanawell Limited is a trusted partner that manages both data and processes. Our catalogue of SAP
                         services begins with consulting services that focus on selecting the most appropriate solution
@@ -157,7 +157,7 @@
             </div>
         </section>
     </main>
-    <?php include_once("footer.php") ?>
+    <?php include_once("homefooter.php") ?>
 </body>
 
 </html>

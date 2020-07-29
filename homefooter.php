@@ -2,7 +2,15 @@
     <div class="footer-top">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 col-md-6 footer-links">
+                <div class="col-lg-4 col-md-6 footer-info">
+                    <h2>Hanawell Limited</h2>
+                    <p>
+                        Hanawell limited is a trusted partner that manages both data and processes. Our catalogue of SAP
+                        services begins with consulting services that focus on selecting the most appropriate solution
+                        for every need, in the design of the optimal implementation strategy and training
+                    </p>
+                </div>
+                <div class="col-lg-4 col-md-6 footer-links">
                     <h4>Useful Links</h4>
                     <ul>
                         <li><i class="ion-ios-arrow-right"></i> <a href="index.php">Home</a></li>
@@ -14,7 +22,7 @@
                     </ul>
                 </div>
 
-                <div class="col-lg-6 col-md-6 footer-contact">
+                <div class="col-lg-4 col-md-6 footer-contact">
                     <h4>Contact Us</h4>
                     <p>
                         <strong>Address</strong><br>
