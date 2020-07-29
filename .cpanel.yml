@@ -9,13 +9,17 @@ deployment:
     - /bin/cp about.php $DEPLOYPATH
     - /bin/cp approach.php $DEPLOYPATH
     - /bin/cp bskpartnership.php $DEPLOYPATH
+    - /bin/cp businessmgmt.php $DEPLOYPATH
     - /bin/cp consultation.php $DEPLOYPATH
+    - /bin/cp consultationlinks.php.php $DEPLOYPATH
     - /bin/cp contactus.php $DEPLOYPATH
     - /bin/cp delivery.php $DEPLOYPATH
     - /bin/cp development.php $DEPLOYPATH
     - /bin/cp emailerror.php $DEPLOYPATH
     - /bin/cp emailsuccess.php $DEPLOYPATH
     - /bin/cp footer.php $DEPLOYPATH
+    - /bin/cp header.php $DEPLOYPATH
+    - /bin/cp homefooter.php $DEPLOYPATH
     - /bin/cp implementation.php $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp maintainanceandsupport.php $DEPLOYPATH
@@ -23,5 +27,6 @@ deployment:
     - /bin/cp sappartnership.php $DEPLOYPATH
     - /bin/cp sendmail.php $DEPLOYPATH
     - /bin/cp training.php $DEPLOYPATH
+    - /bin/cp traininglinks.php $DEPLOYPATH
     - /bin/cp upgrademigration.php $DEPLOYPATH
 
