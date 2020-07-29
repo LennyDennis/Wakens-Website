@@ -20,7 +20,7 @@
                   <div class="container h-100 training-page">
                       <div class="row">
                           <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
-                              <img width="100%" src="./images/training3.jpg" alt="">
+                              <img width="100%" src="./images/training.webp" alt="">
                           </div>
                           <div class="col-md-12 col-lg-6 align-self-center ">
                               <div class="title text-left">

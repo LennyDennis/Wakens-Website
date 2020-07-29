@@ -15,8 +15,8 @@
                     <ul>
                         <li><i class="ion-ios-arrow-right"></i> <a href="index.php">Home</a></li>
                         <li><i class="ion-ios-arrow-right"></i> <a href="about.php">About Us</a></li>
-                        <li><i class="ion-ios-arrow-right"></i> <a href="consultation.php">SAP Consultation</a></li>
                         <li><i class="ion-ios-arrow-right"></i> <a href="training.php">SAP Training</a></li>
+                        <li><i class="ion-ios-arrow-right"></i> <a href="consultation.php">SAP Consultation</a></li>
                         <li><i class="ion-ios-arrow-right"></i> <a href="contactus.php">Contact Us</a></li>
                         <li><i class="ion-ios-arrow-right"></i> <a href="#">Hanawell Giving</a></li>
                     </ul>
@@ -63,6 +63,7 @@
 <script src="lib/isotope/isotope.pkgd.min.js"></script>
 <script src="lib/lightbox/js/lightbox.min.js"></script>
 <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 <!-- Template Main Javascript File -->
 <script src="js/main.js"></script>

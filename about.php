@@ -154,7 +154,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
-                                                <img width="100%" src="./images/training2.jpg" alt="">
+                                                <img width="100%" src="./images/partnership.jpg" alt="">
                                             </div>
                                         </div>
 

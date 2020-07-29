@@ -7,8 +7,8 @@
                     <ul>
                         <li><i class="ion-ios-arrow-right"></i> <a href="index.php">Home</a></li>
                         <li><i class="ion-ios-arrow-right"></i> <a href="about.php">About Us</a></li>
-                        <li><i class="ion-ios-arrow-right"></i> <a href="consultation.php">SAP Consultation</a></li>
                         <li><i class="ion-ios-arrow-right"></i> <a href="training.php">SAP Training</a></li>
+                        <li><i class="ion-ios-arrow-right"></i> <a href="consultation.php">SAP Consultation</a></li>
                         <li><i class="ion-ios-arrow-right"></i> <a href="contactus.php">Contact Us</a></li>
                         <li><i class="ion-ios-arrow-right"></i> <a href="#">Hanawell Giving</a></li>
                     </ul>

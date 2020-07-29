@@ -110,7 +110,7 @@
                                             <a href="tel: +44(0)78 24520 535">+44(0)78 24520 535</a>
                                             <br>
                                             <strong>Email:</strong><br>
-                                            <a href="operations@hanawell.net">emea@hanwell.net</a>
+                                            <a href="operations@hanawell.net">emea@hanawell.net</a>
                                         </p>
                                     </div>
 

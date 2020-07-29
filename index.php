@@ -13,7 +13,6 @@
     Intro Section
     ============================-->
 
-
     <section id="intro">
         <div class="intro-container">
             <div class="container">
@@ -67,13 +66,14 @@
                 <div class="row">
                     <div class="col-lg-4 box">
                         <i class="ion-ios-bookmarks-outline"></i>
-                        <h4 class="title"><a href="">Culture and Behaviour</a></h4>
+                        <h4 class="title">Culture and Behaviour</h4>
                         <p class="description">
                             <ul>
                                 <li>Create an enterprise culture of change capability.</li>
                                 <li>Create solution showcases and improvement initiatives.</li>
                                 <li>Implement continuous education and coaching.</li>
-                                <li>Connect directly to business users throughout the enterprise to assist with their
+                                <li>Connect directly to business users throughout the enterprise to assist with
+                                    their
                                     transition in their daily work.</li>
                             </ul>
                         </p>
@@ -81,12 +81,13 @@
 
                     <div class="col-lg-4 box box-bg">
                         <i class="ion-ios-stopwatch-outline"></i>
-                        <h4 class="title"><a href="">Leadership and Governance</a></h4>
+                        <h4 class="title">Leadership and Governance</h4>
                         <p class="description">
                             <ul>
                                 <li>Engage and train leadership first.</li>
                                 <li>
-                                    Involve leadership as sponsors and advocates and co-owners of change,keeping in mind
+                                    Involve leadership as sponsors and advocates and co-owners of change,keeping in
+                                    mind
                                     the overall business transformation journey of the state enterprise.
                                 </li>
                             </ul>
@@ -95,14 +96,16 @@
 
                     <div class="col-lg-4 box">
                         <i class="ion-ios-people-outline"></i>
-                        <h4 class="title"><a href="">Collaboration</a></h4>
+                        <h4 class="title">Collaboration</h4>
                         <p class="description">
                             <ul>
                                 <li>Build cross-trained roles, dissolve any existing “silos “and co- create material
                                     with a high-level of business involvement. </li>
                                 <li>
-                                    Work with the business users to develop solutions and training programs fit for the
-                                    business underpinning and promoting a sense of pride and ownership of such products
+                                    Work with the business users to develop solutions and training programs fit for
+                                    the
+                                    business underpinning and promoting a sense of pride and ownership of such
+                                    products
                                     within the institution.
                                 </li>
                             </ul>
@@ -118,8 +121,10 @@
             <div class="container">
                 <header class="section-header wow fadeInUp">
                     <p>
-                        Hanawell Limited is a trusted partner that manages both data and processes. Our catalogue of SAP
-                        services begins with consulting services that focus on selecting the most appropriate solution
+                        Hanawell Limited is a trusted partner that manages both data and processes. Our catalogue of
+                        SAP
+                        services begins with consulting services that focus on selecting the most appropriate
+                        solution
                         for every need, in the design of the optimal implementation strategy and training.
                     </p>
                 </header>
@@ -128,7 +133,8 @@
                         <div class="icon"><i class="ion-ios-eye-outline"></i></div>
                         <h4 class="title"><a href="">VISION</a></h4>
                         <p class="description">
-                            Our vision and values drive our behaviour. We care not just about what we do, but the way
+                            Our vision and values drive our behaviour. We care not just about what we do, but the
+                            way
                             and why we do it.
                         </p>
                     </div>
@@ -137,8 +143,10 @@
                         <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
                         <h4 class="title"><a href="">MISSION</a></h4>
                         <p class="description">
-                            To empower businesses to successfully transition past their business transformation phase
-                            and work with them to ensure business continuity during the transformation phase and beyond.
+                            To empower businesses to successfully transition past their business transformation
+                            phase
+                            and work with them to ensure business continuity during the transformation phase and
+                            beyond.
                         </p>
                     </div>
 
