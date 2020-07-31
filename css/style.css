@@ -443,7 +443,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer {
   background: #000;
-  padding: 0 0 30px 0;
+  padding: 0 0 10px 0;
   color: #eee;
   font-size: 14px;
 }
@@ -475,26 +475,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-right: 65px;
   font-family: "Montserrat", sans-serif;
   color: #eee;
-}
-
-#footer .footer-top .social-links a {
-  font-size: 18px;
-  display: inline-block;
-  background: #333;
-  color: #eee;
-  line-height: 1;
-  padding: 8px 0;
-  margin-right: 4px;
-  border-radius: 50%;
-  text-align: center;
-  width: 36px;
-  height: 36px;
-  transition: 0.3s;
-}
-
-#footer .footer-top .social-links a:hover {
-  background: orange;
-  color: #fff;
 }
 
 #footer .footer-top h4 {
@@ -540,13 +520,21 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #ddd;
 }
 
-#footer .footer-top .footer-links ul li {
+/* #footer .footer-top .footer-links a {
   border-bottom: 1px solid #333;
   padding: 10px 0;
+} */
+
+/* #footer .footer-top .footer-links ul li:first-child {
+  padding-top: 0;
+} */
+
+#footer .footer-top .footer-links ul li {
+  padding-top: 10px;
 }
 
-#footer .footer-top .footer-links ul li:first-child {
-  padding-top: 0;
+.links-heading {
+  margin-top: 10px;
 }
 
 #footer .footer-top .footer-links ul a {
@@ -567,13 +555,33 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .copyright {
   text-align: center;
-  padding-top: 30px;
+  padding-top: 10px;
 }
 
 #footer .credits {
   text-align: center;
   font-size: 13px;
   color: #ddd;
+  position: relative;
+}
+#footer .footer-top .social-links a {
+  font-size: 14px;
+  display: inline-block;
+  background: #333;
+  color: #eee;
+  line-height: 1;
+  padding: 5px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 25px;
+  height: 25px;
+  transition: 0.3s;
+}
+
+#footer .footer-top .social-links a:hover {
+  background: orange;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------

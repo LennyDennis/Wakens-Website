@@ -131,7 +131,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
                         <div class="icon"><i class="ion-ios-eye-outline"></i></div>
-                        <h4 class="title"><a href="">VISION</a></h4>
+                        <h4 class="title">VISION</h4>
                         <p class="description">
                             Our vision and values drive our behaviour. We care not just about what we do, but the
                             way
@@ -139,9 +139,9 @@
                         </p>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+                    <div class="col-lg-4 col-md-6 box wow bounceInUp about-box" data-wow-duration="1.4s">
                         <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
-                        <h4 class="title"><a href="">MISSION</a></h4>
+                        <h4 class="title">MISSION</h4>
                         <p class="description">
                             To empower businesses to successfully transition past their business transformation
                             phase
@@ -152,7 +152,7 @@
 
                     <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
                         <div class="icon"><i class="ion-ios-list-outline"></i></div>
-                        <h4 class="title"><a href="">OUR PLAN</a></h4>
+                        <h4 class="title">OUR PLAN</h4>
                         <p class="description">
                             Our plan and purpose is to help the world run better and improve people’s lives.
                         </p>
@@ -165,7 +165,7 @@
             </div>
         </section>
     </main>
-    <?php include_once("homefooter.php") ?>
+    <?php include_once("footer.php") ?>
 </body>
 
 </html>

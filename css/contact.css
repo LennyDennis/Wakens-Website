@@ -1,6 +1,5 @@
-#header{
-  background:#191919;
-  ;
+#header {
+  background: #191919;
 }
 
 #contact .contact-info {
@@ -11,7 +10,6 @@
   margin-bottom: 0px;
   color: #000;
   font-size: 15px;
-  
 }
 
 #contact .contact-info h3 {
@@ -22,11 +20,11 @@
   color: #007db8;
 }
 
-#contact .contact-info h4{
+#contact .contact-info h4 {
   font-size: 16px;
   margin-top: 10px;
   margin-bottom: 5px;
-  color: #D32F2F;
+  color: #d32f2f;
 }
 
 #contact .contact-info a {
@@ -85,7 +83,7 @@
   font-size: 15px;
   margin-bottom: 5px;
 }
-#contact .form .form-group{
+#contact .form .form-group {
   margin-bottom: 25px;
 }
 
@@ -101,17 +99,34 @@
 #contact .form button[type="submit"]:hover {
   background: #075477b6;
 }
-.contact-info{
+.contact-info {
   margin-left: 20px;
 }
-.global-office{
+.global-office {
   margin-top: 40px;
 }
-#contact .address p{
+#contact .address p {
   font-size: 14px;
 }
 .errormessage {
-color: red;
-margin: 0;
-text-align: center;
+  color: red;
+  margin: 0;
+  text-align: center;
 }
+.resp-container {
+  margin-top: 20px;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
+}
+.resp-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+.map{}

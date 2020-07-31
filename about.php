@@ -25,7 +25,8 @@
                             </div>
                             <div class="col-md-12 col-lg-6 align-self-center ">
                                 <div class="title text-left">
-                                    <h2 class="text-primary">Hanawell Limited </span></h2>
+                                    <h2 class="text-primary">We offer tailored solution and services since your company
+                                        is one-of-a-kind</span></h2>
                                     <p class="mb-0">
                                         We are a UK based company specializing in Organisational Change Management
                                         within business transformation projects.

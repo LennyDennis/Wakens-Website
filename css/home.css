@@ -121,7 +121,7 @@
 --------------------------------*/
 
 #About {
-  background: #fff;
+  background: #dfa507;
   background-size: cover;
   padding: 60px 0 40px 0;
 }
@@ -136,7 +136,7 @@
   padding-top: 8px;
   text-align: center;
   position: absolute;
-  background-color: #007eb8e1;
+  background-color: #22aa96;
   border-radius: 50%;
   text-align: center;
   border: 4px solid #fff;
@@ -160,17 +160,19 @@
   text-align: center;
 }
 
-#About .title a {
+#About .title {
   color: #111;
+  transition: all 0.5s;
 }
 
-#About .box:hover .title a {
-  color: orange;
+#About .box:hover .title {
+  color: white;
+  transition: all 0.5s;
 }
 
 #About .description {
   font-size: 14px;
-
+  color: #111;
   line-height: 24px;
   margin-bottom: 0;
 }

@@ -5,6 +5,11 @@
     <title>Contact Us | Hanawell Limited</title>
     <?php include_once("header.php") ?>
     <link href="css/contact.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/12.1.5/css/intlTelInput.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/12.1.5/js/intlTelInput.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/12.1.5/js/utils.js"></script>
+
 </head>
 
 <body>
@@ -16,7 +21,7 @@
                     <h3>Contact Us</h3>
                 </div>
                 <div class="row">
-                    <div class="form col-md-5">
+                    <div class="form col-lg-6 col-md-6">
                         <form id="contact-form" name="contact" action="sendmail.php" method="post" role="form"
                             class="contactForm" enctype="multipart/form-data" onsubmit="return validate()"
                             autocomplete="off">
@@ -35,9 +40,11 @@
                             </div>
 
                             <div class="form-group">
-                                <input type="phone" class="form-control" name="phone" id="phone"
+                                <!-- <input type="tel" class="form-control" name="phone" id="phone"
                                     placeholder="Your phone number" data-rule="phone"
-                                    data-msg="Please enter a valid phone number" />
+                                    data-msg="Please enter a valid phone number" /> -->
+                                <input type="tel" class="form-control" name="phone" />
+
                                 <small class="errormessage" id="phoneerror"></small>
                             </div>
 
@@ -67,13 +74,13 @@
                         </form>
                     </div>
 
-                    <div class="contact-info col-md-6">
+                    <div class="contact-info col-lg-5 col-md-5">
                         <div class="contact-offices">
                             <h3 class="text-center">Our Offices</h3>
                             <div class="global-office">
                                 <h4>Hanawell Limited Global Headquarters</h4>
                                 <div class="row">
-                                    <div class="col-md-4 address">
+                                    <div class="col-lg-5 col-md-6 address">
                                         <p><strong>Address</strong></p>
                                         <p>
                                             Hanawell (UK) Limited <br>
@@ -88,11 +95,13 @@
                                         </p>
                                     </div>
 
-                                    <div class="col-md-6 map">
-                                        <iframe
-                                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39992.469722264665!2d-0.8230044505383969!3d51.2093233742175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48742c02125a0e93%3A0x875c1ded7715bf26!2sFarnham%2C%20UK!5e0!3m2!1sen!2ske!4v1593153552747!5m2!1sen!2ske"
-                                            width="400" height="180" frameborder="0" style="border:0;"
-                                            allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                                    <div class="col-lg-7 col-md-6 map">
+                                        <div class="resp-container">
+                                            <iframe class="resp-iframe"
+                                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39992.469722264665!2d-0.8230044505383969!3d51.2093233742175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48742c02125a0e93%3A0x875c1ded7715bf26!2sFarnham%2C%20UK!5e0!3m2!1sen!2ske!4v1593153552747!5m2!1sen!2ske"
+                                                width="400" height="180" frameborder="0" style="border:0;"
+                                                allowfullscreen="true" aria-hidden="false" tabindex="0"></iframe>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -100,7 +109,7 @@
                             <div class="global-office">
                                 <h4>Hanawell EMEA Regional Office</h4>
                                 <div class="row">
-                                    <div class="col-md-4 address">
+                                    <div class="col-lg-5 col-md-6 address">
                                         <p><strong>Address</strong></p>
                                         <p>
                                             P.O BOX 31758 00600<br>
@@ -111,14 +120,15 @@
                                             <br>
                                             <strong>Email:</strong><br>
                                             <a href="operations@hanawell.net">emea@hanawell.net</a>
-                                        </p>
                                     </div>
 
-                                    <div class="col-md-6 map">
-                                        <iframe
-                                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d510564.6498664422!2d36.56720029142611!3d-1.3031933719272915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1172d84d49a7%3A0xf7cf0254b297924c!2sNairobi!5e0!3m2!1sen!2ske!4v1593153606607!5m2!1sen!2ske"
-                                            width="400" height="180" frameborder="0" style="border:0;"
-                                            allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                                    <div class="col-lg-7 col-md-6 map">
+                                        <div class="resp-container">
+                                            <iframe class="resp-iframe"
+                                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d510564.6498664422!2d36.56720029142611!3d-1.3031933719272915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1172d84d49a7%3A0xf7cf0254b297924c!2sNairobi!5e0!3m2!1sen!2ske!4v1593153606607!5m2!1sen!2ske"
+                                                width="400" height="180" frameborder="0" style="border:0;"
+                                                allowfullscreen="true" aria-hidden="false" tabindex="0"></iframe>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

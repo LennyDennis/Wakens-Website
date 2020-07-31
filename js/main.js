@@ -56,6 +56,17 @@
     speed: 400
   });
 
+  $('#contact-form')
+  .find('[name="phone"]')
+      .intlTelInput({
+          utilsScript:"https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/12.1.5/js/utils.js",
+        
+          autoPlaceholder: true,
+          initialCountry:"uk",
+          geoIpLookup:"auto",
+
+      });
+
   // Mobile Navigation
   if ($("#nav-menu-container").length) {
     var $mobile_nav = $("#nav-menu-container").clone().prop({

@@ -13,13 +13,35 @@
         <section id="contact" class="section-bg fadeInUp">
             <div class="container">
                 <div class="section-header">
-                    <h3>Consultation Services</h3>
+                    <h3>SAP CONSULTATION</h3>
                 </div>
-                <div class="container">
-                    <div class="consultation f-style-2 row mt-4 h-100">
-                        <div class="col-md-6 consultation-img">
-                            <img src="./images/business.jpg" alt="" />
+
+                <div class="container h-100 training-page">
+                    <div class="row">
+                        <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
+                            <img width="100%"
+                                src="https://youmatter.world/app/uploads/sites/2/2019/11/internet-use-sustainable.jpg"
+                                alt="">
                         </div>
+                        <div class="col-md-12 col-lg-6 align-self-center ">
+                            <div class="title text-left">
+                                <h2 class="text-primary">Take Charge Of Change</span></h2>
+                                <p class="consultation-desc mb-2">
+                                    Get more value from your SAP software with tailored implementation plans and support
+                                    services, including upskilling your workforce to support business
+                                    continuity.
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="container consultation-services">
+                    <div class="section-header">
+                        <h3>Consultation Services</h3>
+                    </div>
+                    <div class="consultation f-style-2 row mt-4 h-100">
                         <div class="col-md-6">
                             <h3 class="title"><a href="businessmgmt.php">Business Change Management</a></h3>
                             <p class="consultation-desc mb-2">
@@ -33,9 +55,15 @@
                             </p>
                             <a class="mt-auto" href="businessmgmt.php">Read More</a>
                         </div>
+                        <div class="col-md-6 consultation-img">
+                            <img src="./images/business.jpg" alt="" />
+                        </div>
                     </div>
 
                     <div class="consultation f-style-2 row mt-4 h-100">
+                        <div class="col-md-6 consultation-img">
+                            <img src="images/migration.jpg" />
+                        </div>
                         <div class="col-md-6">
                             <h3 class="title"><a href="upgrademigration.php">SAP Upgrade and Migration</a></h3>
                             <p class="consultation-desc mb-2">
@@ -48,15 +76,10 @@
                             </p>
                             <a class="mt-auto" href="upgrademigration.php">Read More</a>
                         </div>
-                        <div class="col-md-6 consultation-img">
-                            <img src="images/migration.jpg" />
-                        </div>
+
                     </div>
 
                     <div class="consultation f-style-2 row mt-4 h-100">
-                        <div class="col-md-6 consultation-img">
-                            <img src="./images/implementation.jpg" alt="" />
-                        </div>
                         <div class="col-md-6">
                             <h3 class="title"><a href="implementation.php">SAP Implementation</a></h3>
                             <p class="consultation-desc mb-2">
@@ -74,9 +97,15 @@
                             </p>
                             <a class="mt-auto" href="implementation.php">Read More</a>
                         </div>
+                        <div class="col-md-6 consultation-img">
+                            <img src="./images/implementation.jpg" alt="" />
+                        </div>
                     </div>
 
                     <div class="consultation f-style-2 row mt-4 h-100">
+                        <div class="col-md-6 consultation-img">
+                            <img src="images/upgrade.jpg" alt="" />
+                        </div>
                         <div class="col-md-6">
                             <h3 class="title"><a href="maintainanceandsupport.php">SAP Maintenance and Support</a></h3>
                             <p class="consultation-desc mb-2">
@@ -90,15 +119,10 @@
                             </p>
                             <a class="mt-auto" href="maintainanceandsupport.php">Read More</a>
                         </div>
-                        <div class="col-md-6 consultation-img">
-                            <img src="images/upgrade.jpg" alt="" />
-                        </div>
+
                     </div>
 
                     <div class="consultation f-style-2 row mt-4 h-100">
-                        <div class="col-md-6 consultation-img">
-                            <img src="./images/brexit.png" alt="" />
-                        </div>
                         <div class="col-md-6">
                             <h3 class="title"><a href="implementation.php">Brexit</a></h3>
                             <p class="consultation-desc mb-2 brexit">
@@ -108,6 +132,9 @@
                                 To gain an insight on the Brexit impact to your business
                             </p>
                             <a class="mt-auto" href="https://brexit.hanawell.net/">Visit Page</a>
+                        </div>
+                        <div class="col-md-6 consultation-img">
+                            <img src="./images/brexit.png" alt="" />
                         </div>
                     </div>
                 </div>

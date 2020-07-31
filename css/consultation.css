@@ -4,28 +4,27 @@
   filter: blur(10px);
 }
 
-.consultation-img img{
+.consultation-img img {
   width: 100%;
   height: 280px;
 }
-.brexit{
+.brexit {
   color: #007eb8e1;
   size: 18px;
   font-weight: bold;
 }
-.title a{
+.title a {
   color: #007eb8e1;
   transition: 0.5s;
-
 }
-.title a:hover{
-  color: #F44336;
+.title a:hover {
+  color: #f44336;
   transition: 0.5s;
 }
-.explanation{
-  border-right: 1px solid #BDBDBD;
+.explanation {
+  border-right: 1px solid #bdbdbd;
 }
-.btn-reachus{
+.btn-reachus {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -38,11 +37,14 @@
   color: #fff;
   background: #007eb8e1;
 }
-.btn-reachus:hover{
+.btn-reachus:hover {
   color: #fff;
   background: #007eb89f;
 }
-.email-error{
+.email-error {
   padding-top: 80px;
   height: 50vh;
+}
+.consultation-services {
+  margin-top: 20px;
 }
