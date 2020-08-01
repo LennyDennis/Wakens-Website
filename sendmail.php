@@ -46,9 +46,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     header('Content-Type: application/json');
     // takes the value from variables and Post the data
 
-    $to = "lennydennis@gmail.com";
+    $to = "Emma.gacoki@ke.grassavoye.com";
     $name = strip_tags(trim($_POST['fullname']));
-    $name = str_replace(array("\r", "\n"), array(" ", " "), $fullname);
+    $name = str_replace(array("\r", "\n"), array(" ", " "), $name);
     $email = $_POST['email'];
     $phone = trim($_POST['full_number']);
     $company = trim($_POST['company']);
@@ -60,7 +60,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message .= "<b>Contact Number : </b>" . $phone . "<br>";
     $message .= "<b>Email Address : </b>" . $email . "<br>";
     $message .= "<b>Company : </b>" . $company . "<br>";
-    $message .= "<b>Message : </b>" . $postmessage . "<br>";
+    $message .= "<b>Message : </br>" . $postmessage . "<br>";
 
     $header = "From:" + $email + " \r\n";
     $header .= "MIME-Version: 1.0\r\n";
