@@ -3,12 +3,13 @@
 
 <head>
     <title>Contact Us | Hanawell Limited</title>
-    <?php include_once("header.php") ?>
+    <?php
+    include_once("header.php");
+    ?>
     <link href="css/contact.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/12.1.5/css/intlTelInput.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/12.1.5/js/intlTelInput.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/12.1.5/js/utils.js"></script>
+    <link rel="stylesheet" href="node_modules/intl-tel-input/build/css/intlTelInput.css
+">
+    <!-- <link rel="stylesheet" href="node_modules/intl-tel-input/build/css/demo.css"> -->
 
 </head>
 
@@ -40,11 +41,8 @@
                             </div>
 
                             <div class="form-group">
-                                <!-- <input type="tel" class="form-control" name="phone" id="phone"
-                                    placeholder="Your phone number" data-rule="phone"
-                                    data-msg="Please enter a valid phone number" /> -->
-                                <input type="tel" class="form-control" name="phone" />
-
+                                <input type="tel" class="form-control" name="phone" id="phone" data-rule="phone"
+                                    data-msg="Please enter a valid phone number" />
                                 <small class="errormessage" id="phoneerror"></small>
                             </div>
 
@@ -139,6 +137,35 @@
         </section>
     </main>
     <?php include_once("footer.php") ?>
+    <script src="node_modules/intl-tel-input/build/js/intlTelInput.js"></script>
+    <script>
+    var input = document.querySelector("#phone");
+    window.intlTelInput(input, {
+        // allowDropdown: false,
+        // autoHideDialCode: false,
+        // autoPlaceholder: "on",
+        // dropdownContainer: document.body,
+        // excludeCountries: ["us"],
+        // formatOnDisplay: false,
+        // geoIpLookup: function(callback) {
+        // $.get("http://ipinfo.io", function() {}, "jsonp").always(function(resp) {
+        // var countryCode = (resp && resp.country) ? resp.country : "";
+        // callback(countryCode);
+        // });
+        // },
+        hiddenInput: "full_number",
+        // initialCountry: "auto",
+        // localizedCountries: { 'de': 'Deutschland' },
+        // nationalMode: false,
+        // onlyCountries: ['us', 'gb', 'ch', 'ca', 'do'],
+        // placeholderNumberType: "MOBILE",
+        preferredCountries: ['gb', 'ke'],
+        separateDialCode: true,
+        utilsScript: "node_modules/intl-tel-input/build/js/utils.js",
+
+    });
+    </script>
+
     <script src="./js/validate.js"></script>
 </body>
 

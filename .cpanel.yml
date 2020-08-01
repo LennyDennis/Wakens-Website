@@ -19,7 +19,6 @@ deployment:
     - /bin/cp emailsuccess.php $DEPLOYPATH
     - /bin/cp footer.php $DEPLOYPATH
     - /bin/cp header.php $DEPLOYPATH
-    - /bin/cp homefooter.php $DEPLOYPATH
     - /bin/cp implementation.php $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp maintainanceandsupport.php $DEPLOYPATH
