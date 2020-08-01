@@ -46,7 +46,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     header('Content-Type: application/json');
     // takes the value from variables and Post the data
 
-    $to = "Emma.gacoki@ke.grassavoye.com";
+    $to = "lennydennis@gmail.com";
     $name = strip_tags(trim($_POST['fullname']));
     $name = str_replace(array("\r", "\n"), array(" ", " "), $name);
     $email = $_POST['email'];
@@ -63,7 +63,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message .= "<b>Message :</b> </br>" . $postmessage . "<br>";
 
     $header = "From:" + $email + " \r\n";
-    $headers = "Reply-To: " . $email . "\r\n";
+    // $headers = "Reply-To: ".$email."\r\n" ;
     // $header .= "MIME-Version: 1.0\r\n";
     // $header .= "Content-type: text/html\r\n";
     $retval = mail($to, $subject, $message, $header);
