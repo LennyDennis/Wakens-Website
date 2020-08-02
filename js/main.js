@@ -14,6 +14,10 @@
     return false;
   });
 
+  $(".carousel-item").carousel({
+    interval: 1000 * 10
+  });
+
   var pathName = window.location.pathname.split("/").pop();
   var linkName = window.location.pathname.split("/").pop();
 

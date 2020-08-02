@@ -16,8 +16,7 @@
     <section id="intro" class="p-0">
         <div class=" carousel" data-ride="carousel">
             <div class="carousel-inner">
-                <div class="carousel-item bg-overlay-dark-4 active"
-                    style=" background-image:url(images/training1.jpg); background-position: center top; background-size: cover;">
+                <div class="carousel-item bg-overlay-dark-4 active" style=" background-image:url(images/training1.jpg); background-position: center top; background-size: cover;">
                     <div class="intro-container">
                         <div class="container ">
                             <div class="row landing-cards">
@@ -59,8 +58,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="carousel-item bg-overlay-dark-4"
-                    style=" background-image:url(images/training2.jpg); background-position: center top; background-size: cover;">
+
+                <div class="carousel-item bg-overlay-dark-4" style=" background-image:url(https://i.pinimg.com/originals/ed/c9/91/edc991e0c2fd8f3e9d7f7a3ad7df4bb9.jpg); background-position: center top; background-size: cover;">
                     <div class="intro-container">
                         <div class="container ">
                             <div class="row landing-cards">
@@ -102,8 +101,94 @@
                         </div>
                     </div>
                 </div>
-                <div class="carousel-item bg-overlay-dark-4"
-                    style=" background-image:url(images/training3.jpg); background-position: center top; background-size: cover;">
+
+                <div class="carousel-item bg-overlay-dark-4" style=" background-image:url(https://www.incimages.com/uploaded_files/image/1920x1080/getty_696209402_2000133320009280405_370717.jpg); background-position: center top; background-size: cover;">
+                    <div class="intro-container">
+                        <div class="container ">
+                            <div class="row landing-cards">
+                                <div class="col-lg-4 col-md-5 col-sm-8 mt-30">
+                                    <div class="landing-card">
+                                        <div class="landing-img ">
+                                            <img width="100%" src="./images/SAP.jpg" alt="">
+                                        </div>
+                                        <div class="landing-desc">
+                                            <h3>SAP Training</h3>
+                                            <p>
+                                                Hanawell employs a blended training approach tailored to every client's
+                                                needs.
+                                            </p>
+                                            <a href="training.php" class="btn-get-started btn-training">Get Started</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-4 col-md-5 col-sm-8 mt-30">
+                                    <div class="landing-card">
+                                        <div class="landing-img ">
+                                            <img width="100%" src="./images/training3.jpg" alt="">
+                                        </div>
+                                        <div class="landing-desc">
+                                            <h3>SAP Consultation</h3>
+                                            <p>
+                                                At Hanawell, we offer consulting services that focus on selecting the
+                                                most
+                                                appropriate solution for every need.
+                                            </p>
+                                            <a href="consultation.php" class="btn-get-started btn-consultation">Read
+                                                More</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item bg-overlay-dark-4" style=" background-image:url(https://midser.com.ar/wp-content/uploads/2020/02/47126-comunidad-web-scaled.jpg); background-position: center top; background-size: cover;">
+                    <div class="intro-container">
+                        <div class="container ">
+                            <div class="row landing-cards">
+                                <div class="col-lg-4 col-md-5 col-sm-8 mt-30">
+                                    <div class="landing-card">
+                                        <div class="landing-img ">
+                                            <img width="100%" src="./images/SAP.jpg" alt="">
+                                        </div>
+                                        <div class="landing-desc">
+                                            <h3>SAP Training</h3>
+                                            <p>
+                                                Hanawell employs a blended training approach tailored to every client's
+                                                needs.
+                                            </p>
+                                            <a href="training.php" class="btn-get-started btn-training">Get Started</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-4 col-md-5 col-sm-8 mt-30">
+                                    <div class="landing-card">
+                                        <div class="landing-img ">
+                                            <img width="100%" src="./images/training3.jpg" alt="">
+                                        </div>
+                                        <div class="landing-desc">
+                                            <h3>SAP Consultation</h3>
+                                            <p>
+                                                At Hanawell, we offer consulting services that focus on selecting the
+                                                most
+                                                appropriate solution for every need.
+                                            </p>
+                                            <a href="consultation.php" class="btn-get-started btn-consultation">Read
+                                                More</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item bg-overlay-dark-4" style=" background-image:url(https://www.circlegroup.ch/images/der_schweiz_kontakt_versicherung_circle_group.jpg); background-position: center top; background-size: cover;">
                     <div class="intro-container">
                         <div class="container ">
                             <div class="row landing-cards">
@@ -153,51 +238,6 @@
             </div>
         </div>
     </section>
-
-    <!-- 
-    <section id="intro">
-        <div class="intro-container">
-            <div class="container">
-                <div class="row landing-cards">
-                    <div class="col-md-4 col-sm-8 mt-30">
-                        <div class="landing-card">
-                            <div class="landing-img ">
-                                <img width="100%" src="./images/SAP.jpg" alt="">
-                            </div>
-                            <div class="landing-desc">
-                                <h3>SAP Training</h3>
-                                <p>
-                                    Hanawell employs a blended training approach tailored to every client's needs.
-                                </p>
-                                <a href="training.php" class="btn-get-started btn-training">Get Started</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 col-sm-8 mt-30">
-                        <div class="landing-card">
-                            <div class="landing-img ">
-                                <img width="100%" src="./images/training3.jpg" alt="">
-                            </div>
-                            <div class="landing-desc">
-                                <h3>SAP Consultation</h3>
-                                <p>
-                                    At Hanawell, we offer consulting services that focus on selecting the most
-                                    appropriate solution for every need.
-                                </p>
-                                <a href="consultation.php" class="btn-get-started btn-consultation">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <div class="scrollDown">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-    </section> -->
 
     <main id="main">
         <!--==========================
