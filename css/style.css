@@ -612,7 +612,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 886px) {
   .back-to-top {
     bottom: 15px;
   }

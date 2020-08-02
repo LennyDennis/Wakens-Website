@@ -126,5 +126,14 @@
   width: 100%;
   height: 100%;
 }
-
-
+#phone {
+  -moz-appearance: textfield;
+}
+#phone::-webkit-inner-spin-button {
+  display: none;
+}
+#phone::-webkit-outer-spin-button,
+#phone::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

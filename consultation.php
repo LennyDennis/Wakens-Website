@@ -12,16 +12,11 @@
     <main id="main">
         <section id="contact" class="section-bg fadeInUp">
             <div class="container">
-                <div class="section-header">
-                    <h3>SAP CONSULTATION</h3>
-                </div>
 
                 <div class="container h-100 training-page">
                     <div class="row">
                         <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
-                            <img width="100%"
-                                src="https://youmatter.world/app/uploads/sites/2/2019/11/internet-use-sustainable.jpg"
-                                alt="">
+                            <img width="100%" src="https://youmatter.world/app/uploads/sites/2/2019/11/internet-use-sustainable.jpg" alt="">
                         </div>
                         <div class="col-md-12 col-lg-6 align-self-center ">
                             <div class="title text-left">
@@ -38,9 +33,7 @@
                 </div>
 
                 <div class="container consultation-services">
-                    <div class="section-header">
-                        <h3>Consultation Services</h3>
-                    </div>
+
                     <div class="consultation f-style-2 row mt-4 h-100">
                         <div class="col-md-6">
                             <h3 class="title"><a href="businessmgmt.php">Business Change Management</a></h3>

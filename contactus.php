@@ -42,6 +42,7 @@
 
                             <div class="form-group">
                                 <input type="tel" class="form-control" name="phone" id="phone" data-rule="phone"
+                                    onkeypress="return onlyNumberKey(event)"
                                     data-msg="Please enter a valid phone number" />
                                 <small class="errormessage" id="phoneerror"></small>
                             </div>
@@ -139,6 +140,12 @@
     <?php include_once("footer.php") ?>
     <script src="node_modules/intl-tel-input/build/js/intlTelInput.js"></script>
     <script>
+    function onlyNumberKey(evt) {
+        // Only ASCII charactar in that range allowed
+        var ASCIICode = evt.which ? evt.which : evt.keyCode;
+        if (ASCIICode > 31 && (ASCIICode < 48 || ASCIICode > 57)) return false;
+        return true;
+    }
     var input = document.querySelector("#phone");
     window.intlTelInput(input, {
         // allowDropdown: false,

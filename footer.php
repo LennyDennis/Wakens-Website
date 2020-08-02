@@ -13,7 +13,7 @@
                             <ul class="sub-menu">
                                 <li><a class="nav-item" href="about.php">Vision</a></li>
                                 <li><a class="nav-item" href="about.php">Mission</a></li>
-                                <li><a class="nav-item" href="about.php">Plan/a></li>
+                                <li><a class="nav-item" href="about.php">Plan</li>
                             </ul>
                         </div>
                         <div class="col-lg-2 col-md-6 links-heading">
@@ -67,8 +67,7 @@
                         <a href="#" class=" facebook"><i class="fa fa-facebook"></i></a>
                         <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
                         <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-                        <a href="https://www.linkedin.com/company/hanawell/" class="linkedin"><i
-                                class="fa fa-linkedin"></i></a>
+                        <a href="https://www.linkedin.com/company/hanawell/" class="linkedin"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>

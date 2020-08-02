@@ -24,7 +24,7 @@
                           </div>
                           <div class="col-md-12 col-lg-6 align-self-center ">
                               <div class="title text-left">
-                                  <h2 class="text-primary">SAP Training Strategy </span></h2>
+                                  <h2 class="text-primary">A training strategy with a personal touch</span></h2>
                                   <p class="consultation-desc mb-2">
                                       At a minimum, the training strategy includes:
                                       <ul>
