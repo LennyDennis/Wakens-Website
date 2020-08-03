@@ -24,67 +24,56 @@
                 </div>
 
                 <div class="row">
-                    <div class="text-center">
-                        <p>
-                            At Hanawell Limited, we recognize that the success of the client’s integrated SAP ERP
-                            Solution implementation project will highly depend on the partner who will enable the client
-                            with the critical tenets below that are at the core of our values.
+                    <div class="text-left">
+                        <p class="consultation-desc mb-2">
+                            As an existing SAP partner, we can access SAP’s exclusive partner content to deliver a
+                            personalised experience that serves up the role-based information you need to build and run
+                            a successful SAP operation.
+                        </p>
+                        <p class="consultation-desc mb-2">
+                            We have unlimited access to sales and marketing resources, events, product and solution
+                            information, support, demos, references, education, partnership services, and more.
+                        </p>
+
+                        <p class="consultation-desc mb-2">
+                            The SAP PartnerEdge program offers rich benefits that reward our organization and your
+                            company in retrospect for active participation and success with SAP products and programs.
+                        </p>
+
+
+                    </div>
+
+                    <div class="text-left">
+
+                        <p class="consultation-desc mb-2">
+                            <h4 class="text-bold">Benefits Overview for Partners & Members of the Open
+                                Ecosystem</h4>
+                            <ul>
+                                <li><span class="text-bold">Access to Trainings through SAP Learning Hub:</span>A
+                                    cloud-based solution that provides
+                                    instant online access to the vast knowledge base from SAP Education; with no need to
+                                    schedule or travel to training. You have fast, easy access to all of SAP’s latest
+                                    learning materials for training as needed.
+                                </li>
+                                <li>Product-driven training using user-specific stories and customised client
+                                    process scenarios for relatability and familiarity.</li>
+                                <li>
+                                    This ensure that you receive training that is relevant to you and your company.
+                                </li>
+                                <li>
+                                    At Hanawell, we take pride in solutions wrapped around you.
+                                </li>
+                                <li>
+                                    <span class="text-bold">Test, Demo & Development Licenses and Environment for
+                                        Non-Productive Use:</span> Available
+                                    with a specific specialization or engagement model. This assist our organisation to
+                                    showcase the SAP solution for your benefit prior to implementation.
+                                </li>
+                            </ul>
                         </p>
                     </div>
 
-                    <div class="col-lg-6 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-                        <h4 class="title">Trusted Partner Exhibiting Strong Domain Knowledge</h4>
-                        <p class="description">
-                            Hanawell Limited and BSK Global Technologies Limited SAP implementation section has an
-                            internal unit called Hanawell Digital Ninjas, which helps you maximize your investment on
-                            SAP. <br>
-                            Hanawell Digital Ninjas brings strong domain capabilities through experienced professionals
-                            who have worked in the industry across various domains throughout the supply chain. <br>
-                            To ascertain a successful implementation, Hanawell Limited and BSK Global Technologies
-                            Limited employ a proven process standardization approach for process convergence.
-                        </p>
-                    </div>
-                    <div class="col-lg-6 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-                        <h4 class="title">Overall Ownership and Accountability</h4>
-                        <p class="description">
-                            The success of every project requires a close collaboration between your teams, software
-                            vendor and Hanawell Limited and BSK Global Technologies Limited with an overall ownership
-                            and accountability of the project. <br>
-                            Hanawell Limited and BSK Global Technologies Limited has a proven track record in driving
-                            critical projects taking overall accountability and responsibility.
-                        </p>
-                    </div>
-                    <div class="col-lg-6 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-                        <h4 class="title">Certainty of Managing Deliveries and Organizational Change</h4>
-                        <p class="description">
-                            Hanawell Limited and BSK Global Technologies Limited believe that core architecture and the
-                            solution design plays an integral role in the entire project and Hanawell Limited and BSK
-                            Global Technologies Limited works with both SAP and you to create a best-fit solution.<br>
-                            We understand there is an effort in Organizational Change Management (OCM) and keeping the
-                            business groups satisfied with streamlined communication and information about the ongoing
-                            changes, training projects.<br>
-                            We have a proven track record in Organizational Change Management
-                        </p>
-                    </div>
-                    <div class="col-lg-6 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-                        <h4 class="title">Technical Competence, Training and Strong Partner Network</h4>
-                        <p class="description">
-                            Availability of the right technical skills is paramount. Hanawell Limited and BSK Global
-                            Technologies Limited gives due importance to this requirement in every project.
-                            Our technology skillset is vast and wide to sui he needs of any SAP implementation project
-                            and/or SAP training program.<br>
-                            We have a strong partnership with SAP and many other technology solution providers. We will
-                            leverage this partnership for the core solution, components and its integration with other
-                            systems.
-                            We also expect and are ready for more investments in training and upgrading our skills for
-                            peripheral niche Technologies to serve you better.<br>
-                            Most of BSK Global Technologies Limited and Hanawell Limited revenues come from repeat
-                            customers which exemplifies that customer satisfaction is at the core of BSK Global
-                            Technologies Limited and Hanawell Limited.<br>
-                            This means a delivery certainty and true trusted partnership for GDC in realizing this
-                            project.
-                        </p>
-                    </div>
+
                 </div>
 
             </div>

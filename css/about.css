@@ -27,7 +27,7 @@
 }
 
 #About-Us .title a {
-  color: #F44336;
+  color: #f44336;
 }
 
 #About-Us .description {
@@ -44,7 +44,7 @@
 }
 
 #about::before {
-  content: '';
+  content: "";
   position: absolute;
   left: 0;
   right: 0;
@@ -69,7 +69,6 @@
   position: relative;
 }
 
-
 #about .about-col .icon {
   width: 64px;
   height: 64px;
@@ -80,7 +79,7 @@
   border-radius: 50%;
   text-align: center;
   border: 4px solid #fff;
-  left: calc( 50% - 32px);
+  left: calc(50% - 32px);
   bottom: -30px;
   transition: 0.3s;
 }
@@ -120,9 +119,12 @@
   margin-bottom: 0;
   padding: 0 20px 20px 20px;
 }
-.bskpartnership{
+.bskpartnership {
   margin-bottom: 20px;
 }
-#contact h4{
+#contact h4 {
   color: #007eb8e1;
+}
+.text-bold {
+  font-weight: bold;
 }
