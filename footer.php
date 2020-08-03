@@ -36,7 +36,7 @@
                             </ul>
                         </div>
                         <div class="col-lg-2 col-md-6 links-heading">
-                            <a href="partnership.php">Partnership</a>
+                            <a href="partnership.php">Partnerships</a>
                             <ul class="sub-menu">
                                 <li><a class="nav-item" href="bskpartnership.php">BSK Global Technologies</a></li>
                                 <li><a class="nav-item" href="sappartnership.php">SAP</a></li>
