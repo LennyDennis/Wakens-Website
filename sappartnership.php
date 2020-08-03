@@ -28,10 +28,10 @@
                         <p class="consultation-desc mb-2">
                             Our partnership with SAP places us in a privileged position to
                             serve you better through the vast access to both SAP’s latest
-                            technology and expert advice.<br>
+                            technology and expert advice.
                             We transfer all benefits gained through our partnership with SAP
                             to provide you with a gold standard service that facilitates the
-                            growth of your business.<br>
+                            growth of your business.
                             We share common principles with SAP such as Solution Innovation,
                             empowering our clients with fit-for-purpose business and system
                             knowledge to enable self-sustenance, elevate our clients into
