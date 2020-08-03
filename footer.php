@@ -2,11 +2,11 @@
     <div class="footer-top">
         <div class="container">
             <div class="row">
-                <div class="col-lg-10 col-md-6 footer-links">
+                <div class="col-lg-9 col-md-6 footer-links">
                     <h4>Useful Links</h4>
                     <div class="row">
                         <div class="col-lg-1 col-md-6 links-heading">
-                            <i class="ion-ios-arrow-right"></i> <a href=" index.php">Home</a>
+                            <a href=" index.php">Home</a>
                         </div>
                         <div class="col-lg-2 col-md-6 links-heading">
                             <a href="about.php">About Us</a>
@@ -36,9 +36,9 @@
                             </ul>
                         </div>
                         <div class="col-lg-2 col-md-6 links-heading">
-                            <a href="sappartnership.php">Partnership</a>
+                            <a href="partnership.php">Partnership</a>
                             <ul class="sub-menu">
-                                <li><a class="nav-item" href="approach.php">BSK Global Technologies</a></li>
+                                <li><a class="nav-item" href="bskpartnership.php">BSK Global Technologies</a></li>
                                 <li><a class="nav-item" href="sappartnership.php">SAP</a></li>
                             </ul>
                         </div>
@@ -48,7 +48,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-2 col-md-6 footer-contact">
+                <div class="col-lg-3 col-md-6 footer-contact">
                     <h4>Contact Us</h4>
                     <p>
                         <strong>Address</strong><br>
@@ -57,7 +57,6 @@
                         SURREY,GU9 9BH,<br>
                         United Kingdom<br>
                         <strong>Phone:</strong>
-                        <br>
                         <a href="tel: +44(0)78 24520 535">+44(0)78 24520 535</a>
                         <br>
                         <strong>Email:</strong> <a href="operations@hanawell.net">operations@hanawell.net</a>
@@ -67,7 +66,8 @@
                         <a href="#" class=" facebook"><i class="fa fa-facebook"></i></a>
                         <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
                         <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-                        <a href="https://www.linkedin.com/company/hanawell/" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://www.linkedin.com/company/hanawell/" class="linkedin"><i
+                                class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
