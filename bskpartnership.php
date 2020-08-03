@@ -20,7 +20,7 @@
             <div class="container">
 
                 <div class="section-header">
-                    <h3>Hanawell Limited and BSK Global Technologies Limited Partnership </h3>
+                    <h3>BSK Global Technologies Limited Partnership </h3>
                 </div>
 
                 <div class="row">
