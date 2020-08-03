@@ -60,7 +60,7 @@
                                         <p>
                                             <ul>
                                                 <li>
-                                                    Our vision and values drive our behavior. Not only do we care abt
+                                                    Our vision and values drive our behavior. Not only do we care about
                                                     what we do but also how
                                                     and why we do it.
                                                 </li>

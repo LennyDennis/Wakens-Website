@@ -16,8 +16,7 @@
     <section id="intro" class="p-0">
         <div class=" carousel" data-ride="carousel">
             <div class="carousel-inner">
-                <div class="carousel-item bg-overlay-dark-4 active"
-                    style=" background-image:url(images/training1.jpg); background-position: center top; background-size: cover;">
+                <div class="carousel-item bg-overlay-dark-4 active" style=" background-image:url(images/training1.jpg); background-position: center top; background-size: cover;">
                     <div class="intro-container">
                         <div class="container ">
                             <div class="row landing-cards">
@@ -60,8 +59,7 @@
                     </div>
                 </div>
 
-                <div class="carousel-item bg-overlay-dark-4"
-                    style=" background-image:url(https://i.pinimg.com/originals/ed/c9/91/edc991e0c2fd8f3e9d7f7a3ad7df4bb9.jpg); background-position: center top; background-size: cover;">
+                <div class="carousel-item bg-overlay-dark-4" style=" background-image:url(https://i.pinimg.com/originals/ed/c9/91/edc991e0c2fd8f3e9d7f7a3ad7df4bb9.jpg); background-position: center top; background-size: cover;">
                     <div class="intro-container">
                         <div class="container ">
                             <div class="row landing-cards">
@@ -104,8 +102,7 @@
                     </div>
                 </div>
 
-                <div class="carousel-item bg-overlay-dark-4"
-                    style=" background-image:url(https://www.incimages.com/uploaded_files/image/1920x1080/getty_696209402_2000133320009280405_370717.jpg); background-position: center top; background-size: cover;">
+                <div class="carousel-item bg-overlay-dark-4" style=" background-image:url(https://www.incimages.com/uploaded_files/image/1920x1080/getty_696209402_2000133320009280405_370717.jpg); background-position: center top; background-size: cover;">
                     <div class="intro-container">
                         <div class="container ">
                             <div class="row landing-cards">
@@ -148,8 +145,7 @@
                     </div>
                 </div>
 
-                <div class="carousel-item bg-overlay-dark-4"
-                    style=" background-image:url(https://midser.com.ar/wp-content/uploads/2020/02/47126-comunidad-web-scaled.jpg); background-position: center top; background-size: cover;">
+                <div class="carousel-item bg-overlay-dark-4" style=" background-image:url(https://midser.com.ar/wp-content/uploads/2020/02/47126-comunidad-web-scaled.jpg); background-position: center top; background-size: cover;">
                     <div class="intro-container">
                         <div class="container ">
                             <div class="row landing-cards">
@@ -192,8 +188,7 @@
                     </div>
                 </div>
 
-                <div class="carousel-item bg-overlay-dark-4"
-                    style=" background-image:url(https://www.circlegroup.ch/images/der_schweiz_kontakt_versicherung_circle_group.jpg); background-position: center top; background-size: cover;">
+                <div class="carousel-item bg-overlay-dark-4" style=" background-image:url(https://www.circlegroup.ch/images/der_schweiz_kontakt_versicherung_circle_group.jpg); background-position: center top; background-size: cover;">
                     <div class="intro-container">
                         <div class="container ">
                             <div class="row landing-cards">
@@ -320,7 +315,7 @@
                         <div class="icon"><i class="ion-ios-eye-outline"></i></div>
                         <h4 class="title">VISION</h4>
                         <p class="description">
-                            Our vision and values drive our behavior. Not only do we care abt what we do but also how
+                            Our vision and values drive our behavior. Not only do we care about what we do but also how
                             and why we do it.
                         </p>
                     </div>

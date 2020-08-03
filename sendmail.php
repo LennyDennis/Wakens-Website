@@ -1,52 +1,10 @@
-// if ($_SERVER["REQUEST_METHOD"] == "POST") {
-
-// $to = 'info@hanawell.net';
-// //get fields from the form
-// $from = $_POST['email'];
-
-// // $from = filter_var(trim($_POST['email']),FILTER_SANITIZE_EMAIL);
-// $fullname = strip_tags(trim($_POST['fullname']));
-// $fullname = str_replace(array("\r", "\n"), array(" ", " "), $fullname);
-
-// $phone = trim($_POST['full_number']);
-// $company = trim($_POST['company']);
-// $subject = trim($_POST['subject']);
-// $message = trim($_POST['message']);
-
-// $headers = "From: " . $from . "\r\n";
-// // $headers = "Reply-To: ".$to."\r\n" ;
-// // $headers.= "MIME-Version: 1.0\r\n";
-// // $headers.= "Content-Type: text/html\r\n";
-
-// $fullmessage = 'Name: ' . $fullname . "\r\n"
-// . 'Email: ' . $from . "\r\n"
-// . 'Phone: ' . $phone . "\r\n"
-// . 'Company: ' . $company . "\r\n\n"
-// . 'Subject: ' . $subject . "\r\n"
-// . 'Email Body: ' . "\r\n" . $message;
-
-
-// $result = mail($to, $subject, $fullmessage, $headers);
-// if ($result) {
-
-
-// header('Location: emailsuccess.php');
-// } else {
-
-
-// http_response_code(500);
-// header('Location: emailerror.php');
-// }
-// }
-?>
-
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // data sent in header are in JSON format
     header('Content-Type: application/json');
     // takes the value from variables and Post the data
 
-    $to = "lennydennis@gmail.com";
+    $to = "info@hanawell.net";
     $name = strip_tags(trim($_POST['fullname']));
     $name = str_replace(array("\r", "\n"), array(" ", " "), $name);
     $email = $_POST['email'];
@@ -82,4 +40,3 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         header('Location: emailerror.php');
     }
 }
-?>
