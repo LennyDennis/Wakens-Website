@@ -11,6 +11,7 @@
             <ul class="nav-menu">
                 <li class="menu-active"><a class="nav-item" href="index.php">Home</a></li>
                 <li><a class="nav-item" href="about.php">About Us</a></li>
+                <li><a class="nav-item" href="partnership.php">Partnerships</a></li>
                 <li><a class="nav-item" href="training.php">SAP Training</a>
                     <ul class="sub-menu">
                         <li><a class="nav-item" href="approach.php">SAP Approach</a></li>

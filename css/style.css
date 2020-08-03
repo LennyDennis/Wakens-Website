@@ -428,6 +428,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   padding-bottom: 30px;
   color: #333;
+  font-size: 18px;
+  font-weight: bold;
 }
 
 /* Section with background

@@ -6,10 +6,11 @@ deployment:
     - /bin/cp -R js * $DEPLOYPATH
     - /bin/cp -R lib * $DEPLOYPATH
     - /bin/cp -R node_modules * $DEPLOYPATH
-    
+
     - /bin/cp about.php $DEPLOYPATH
     - /bin/cp approach.php $DEPLOYPATH
     - /bin/cp bskpartnership.php $DEPLOYPATH
+    - /bin/cp partnership.php $DEPLOYPATH
     - /bin/cp businessmgmt.php $DEPLOYPATH
     - /bin/cp consultation.php $DEPLOYPATH
     - /bin/cp consultationlinks.php.php $DEPLOYPATH
@@ -29,4 +30,3 @@ deployment:
     - /bin/cp training.php $DEPLOYPATH
     - /bin/cp traininglinks.php $DEPLOYPATH
     - /bin/cp upgrademigration.php $DEPLOYPATH
-
