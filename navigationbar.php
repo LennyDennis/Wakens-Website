@@ -14,7 +14,7 @@
                 <li><a class="nav-item" href="partnership.php">Partnerships</a>
                     <ul class="sub-menu">
                         <li><a class="nav-item" href="bskpartnership.php">BSK Partnership</a></li>
-                        <li><a class="nav-item" href="sappartnership.php">SAP Parnership</a></li>
+                        <li><a class="nav-item" href="sappartnership.php">SAP Partnership</a></li>
                     </ul>
                 </li>
                 <li><a class="nav-item" href="training.php">SAP Training</a>

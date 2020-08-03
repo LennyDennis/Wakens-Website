@@ -133,13 +133,12 @@
                                 resolved and/or partners breached SAP’s compliance requirements".
 
                             </p>
-                            <p class="consultation-desc mb-2">
-                                <span class="text-bold"> We at Hanawell embrace, fulfil and comply with the due
+                            <br>
+                            <h4><span class="text-bold"> We at Hanawell embrace, fulfil and comply with the due
                                     diligence
                                     checks as set out in the
-                                    SAP statement above</span>
+                                    SAP statement above</span></h4>
 
-                            </p>
 
 
                         </div>
