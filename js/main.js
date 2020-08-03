@@ -27,7 +27,7 @@
     pathName == "sappartnership.php" ||
     pathName == "bskpartnership.php"
   ) {
-    pathName = "about.php";
+    pathName = "partnership.php";
   } else if (
     pathName == "approach.php" ||
     pathName == "delivery.php" ||
