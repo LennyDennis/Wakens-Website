@@ -46,6 +46,8 @@
                                         training is conducted or accessed</li>
                                 </ul>
                             </p>
+                            <a href="contactus.php" class="btn-get-started btn-reachus">Reach Us</a>
+
                         </div>
                         <?php include_once("traininglinks.php") ?>
                     </div>
