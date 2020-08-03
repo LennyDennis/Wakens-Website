@@ -64,6 +64,14 @@
                                                     what we do but also how
                                                     and why we do it.
                                                 </li>
+                                                <br>
+                                                <li>
+                                                    We aim to extract maximum value from your ERP solution through
+                                                    globally bench marked IT transformation projects, training programs
+                                                    wrapped around you and support service that is unique to your
+                                                    business. We strive to empower and increase your company's IT
+                                                    potential.
+                                                </li>
                                             </ul>
                                         </p>
                                     </div>
