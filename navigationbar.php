@@ -11,12 +11,6 @@
             <ul class="nav-menu">
                 <li class="menu-active"><a class="nav-item" href="index.php">Home</a></li>
                 <li><a class="nav-item" href="about.php">About Us</a></li>
-                <li><a class="nav-item" href="partnership.php">Partnerships</a>
-                    <ul class="sub-menu">
-                        <li><a class="nav-item" href="bskpartnership.php">BSK Partnership</a></li>
-                        <li><a class="nav-item" href="sappartnership.php">SAP Partnership</a></li>
-                    </ul>
-                </li>
                 <li><a class="nav-item" href="training.php">SAP Training</a>
                     <ul class="sub-menu">
                         <li><a class="nav-item" href="approach.php">SAP Approach</a></li>
@@ -31,6 +25,12 @@
                         <li><a class="nav-item" href="implementation.php">SAP Implementation</a></li>
                         <li><a class="nav-item" href="maintainanceandsupport.php">SAP Maintainance and Support</a></li>
                         <li><a class="nav-item" href="https://brexit.hanawell.net/">Brexit</a></li>
+                    </ul>
+                </li>
+                <li><a class="nav-item" href="partnership.php">Partnerships</a>
+                    <ul class="sub-menu">
+                        <li><a class="nav-item" href="bskpartnership.php">BSK Partnership</a></li>
+                        <li><a class="nav-item" href="sappartnership.php">SAP Partnership</a></li>
                     </ul>
                 </li>
                 <li><a class="nav-item" href="contactus.php">Contact Us</a></li>
