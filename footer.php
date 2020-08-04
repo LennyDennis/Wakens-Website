@@ -2,13 +2,13 @@
     <div class="footer-top">
         <div class="container">
             <div class="row">
-                <div class="col-lg-9 col-md-6 footer-links">
+                <div class="col-lg-9 col-md-8 footer-links">
                     <h4>Useful Links</h4>
                     <div class="row">
-                        <div class="col-lg-1 col-md-6 links-heading">
+                        <div class="col-lg-1 col-md-4 links-heading">
                             <a href=" index.php">Home</a>
                         </div>
-                        <div class="col-lg-2 col-md-6 links-heading">
+                        <div class="col-lg-2 col-md-4 links-heading">
                             <a href="about.php">About Us</a>
                             <ul class="sub-menu">
                                 <li><a class="nav-item" href="about.php">Vision</a></li>
@@ -16,7 +16,7 @@
                                 <li><a class="nav-item" href="about.php">Plan</li>
                             </ul>
                         </div>
-                        <div class="col-lg-2 col-md-6 links-heading">
+                        <div class="col-lg-2 col-md-4 links-heading">
                             <a href="training.php">SAP Training</a>
                             <ul class="sub-menu">
                                 <li><a class="nav-item" href="approach.php">Approach</a></li>
@@ -24,7 +24,7 @@
                                 <li><a class="nav-item" href="delivery.php">Delivery</a></li>
                             </ul>
                         </div>
-                        <div class="col-lg-3 col-md-6 links-heading">
+                        <div class="col-lg-3 col-md-4 links-heading">
                             <a href="consultation.php">SAP Consultation</a>
                             <ul class="sub-menu">
                                 <li><a class="nav-item" href="businessmgmt.php">Business Change Management</a></li>
@@ -35,20 +35,20 @@
                                 <li><a class="nav-item" href="https://brexit.hanawell.net/">Brexit</a></li>
                             </ul>
                         </div>
-                        <div class="col-lg-2 col-md-6 links-heading">
+                        <div class="col-lg-2 col-md-4 links-heading">
                             <a href="partnership.php">Partnerships</a>
                             <ul class="sub-menu">
                                 <li><a class="nav-item" href="bskpartnership.php">BSK Global Technologies</a></li>
                                 <li><a class="nav-item" href="sappartnership.php">SAP</a></li>
                             </ul>
                         </div>
-                        <div class="col-lg-2 col-md-6 links-heading">
+                        <div class="col-lg-2 col-md-4 links-heading">
                             <a href="#">Hanawell Giving</a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-contact">
+                <div class="col-lg-3 col-md-4 footer-contact">
                     <h4>Contact Us</h4>
                     <p>
                         <strong>Address</strong><br>
