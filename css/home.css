@@ -246,12 +246,20 @@
   background-position: center;
   background-repeat: no-repeat;
 }
-@media (min-width: 992px) {
+
+@media (max-width: 1024px) {
   #intro .carousel-item {
-    height: 100vh;
+    padding-bottom: 30px;
   }
 }
-@media (min-width: 768px) {
+
+@media (max-width: 360px) {
+  #intro .carousel-item {
+    height: 220vh;
+  }
+}
+
+@media (min-width: 1025px) {
   #intro .carousel-item {
     height: 100vh;
   }

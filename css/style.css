@@ -633,3 +633,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     display: inline;
   }
 }
+.headings h3 {
+  margin-top: 20px;
+}

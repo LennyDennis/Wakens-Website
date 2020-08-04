@@ -10,15 +10,17 @@
 <body>
     <?php include_once("navigationbar.php") ?>
     <main id="main">
-        <section id="contact" class="section-bg fadeInUp">
+        <section id="contact" class="section-bg fadeInUp headings">
             <div class="container">
 
                 <div class="container h-100 training-page">
                     <div class="row">
-                        <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
-                            <img width="100%" src="https://youmatter.world/app/uploads/sites/2/2019/11/internet-use-sustainable.jpg" alt="">
+                        <div class="col-md-6 col-lg-6 mx-md-auto align-self-center ">
+                            <img width="100%"
+                                src="https://youmatter.world/app/uploads/sites/2/2019/11/internet-use-sustainable.jpg"
+                                alt="">
                         </div>
-                        <div class="col-md-12 col-lg-6 align-self-center ">
+                        <div class="col-md-6 col-lg-6 align-self-center ">
                             <div class="title text-left">
                                 <h2 class="text-primary">Take Charge Of Change</span></h2>
                                 <p class="consultation-desc mb-2">
@@ -33,10 +35,11 @@
                 </div>
 
                 <div class="container consultation-services">
+                    <h3 class="title text-center"><a href="businessmgmt.php">Business Change Management</a></h3>
 
                     <div class="consultation f-style-2 row mt-4 h-100">
                         <div class="col-md-6">
-                            <h3 class="title"><a href="businessmgmt.php">Business Change Management</a></h3>
+
                             <p class="consultation-desc mb-2">
                                 Hanawell’s Change Management ensures that the right resources and processes are in place
                                 so that the client effectively transitions to the desired future state and at the
@@ -53,12 +56,13 @@
                         </div>
                     </div>
 
+                    <h3 class="title text-center"><a href="upgrademigration.php">SAP Upgrade and Migration</a></h3>
                     <div class="consultation f-style-2 row mt-4 h-100">
                         <div class="col-md-6 consultation-img">
                             <img src="images/migration.jpg" />
                         </div>
                         <div class="col-md-6">
-                            <h3 class="title"><a href="upgrademigration.php">SAP Upgrade and Migration</a></h3>
+
                             <p class="consultation-desc mb-2">
                                 Hanawell reduces the complexity that is associated with SAP system upgrades or migration
                                 services through careful and calculated planning and professional project execution.
@@ -72,9 +76,10 @@
 
                     </div>
 
+                    <h3 class="title text-center"><a href="implementation.php">SAP
+                            Implementation</a></h3>
                     <div class="consultation f-style-2 row mt-4 h-100">
                         <div class="col-md-6">
-                            <h3 class="title"><a href="implementation.php">SAP Implementation</a></h3>
                             <p class="consultation-desc mb-2">
                                 The Hanawell Limited application management services provide cost effective solutions to
                                 maintain and enhance existing applications.
@@ -95,12 +100,13 @@
                         </div>
                     </div>
 
+                    <h3 class="title text-center"><a href="maintainanceandsupport.php">SAP Maintenance and Support</a>
+                    </h3>
                     <div class="consultation f-style-2 row mt-4 h-100">
                         <div class="col-md-6 consultation-img">
                             <img src="images/upgrade.jpg" alt="" />
                         </div>
                         <div class="col-md-6">
-                            <h3 class="title"><a href="maintainanceandsupport.php">SAP Maintenance and Support</a></h3>
                             <p class="consultation-desc mb-2">
                                 It is becoming an increasingly expensive affair to invest in post deployment contracts
                                 with package and development vendors or even to retain large internal support teams for
@@ -115,9 +121,9 @@
 
                     </div>
 
+                    <h3 class="title text-center"><a href="implementation.php">Brexit</a></h3>
                     <div class="consultation f-style-2 row mt-4 h-100">
                         <div class="col-md-6">
-                            <h3 class="title"><a href="implementation.php">Brexit</a></h3>
                             <p class="consultation-desc mb-2 brexit">
                                 Your Unique Business Approach To Brexit
                             </p>
