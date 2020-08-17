@@ -59,7 +59,7 @@
                         <strong>Phone:</strong>
                         <a href="tel: +44(0)78 24520 535">+44(0)78 24520 535</a>
                         <br>
-                        <strong>Email:</strong> <a href="operations@hanawell.net">operations@hanawell.net</a>
+                        <strong>Email:</strong> <a href="info@hanawell.net">info@hanawell.net</a>
                     </p>
                     <div class="social-links">
                         <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>

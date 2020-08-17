@@ -9,8 +9,6 @@
     <link href="css/contact.css" rel="stylesheet">
     <link rel="stylesheet" href="node_modules/intl-tel-input/build/css/intlTelInput.css
 ">
-    <!-- <link rel="stylesheet" href="node_modules/intl-tel-input/build/css/demo.css"> -->
-
 </head>
 
 <body>
@@ -67,6 +65,11 @@
                                 <small class="errormessage" id="messageerror"></small>
                             </div>
 
+                            <div class="form-group">
+                                <label for="exampleFormControlFile1">Attach File</label>
+                                <input type="file" class="form-control" name="attachment" id="attachment">
+                            </div>
+
                             <div class="text-center">
                                 <button type="submit" name="submit">Send Message</button>
                             </div>
@@ -90,7 +93,7 @@
                                             <a href="tel: +44(0)78 24520 535">+44(0)78 24520 535</a>
                                             <br>
                                             <strong>Email:</strong><br>
-                                            <a href="operations@hanawell.net">operations@hanawell.net</a>
+                                            <a href="info@hanawell.net">info@hanawell.net</a>
                                         </p>
                                     </div>
 
@@ -118,7 +121,7 @@
                                             <a href="tel: +44(0)78 24520 535">+44(0)78 24520 535</a>
                                             <br>
                                             <strong>Email:</strong><br>
-                                            <a href="operations@hanawell.net">emea@hanawell.net</a>
+                                            <a href="emea@hanawell.net">emea@hanawell.net</a>
                                     </div>
 
                                     <div class="col-lg-7 col-md-6 map">

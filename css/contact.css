@@ -137,3 +137,6 @@
   -webkit-appearance: none;
   margin: 0;
 }
+#attachment {
+  height: 40px;
+}
