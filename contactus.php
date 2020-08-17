@@ -67,6 +67,7 @@
 
                             <div class="form-group">
                                 <label for="exampleFormControlFile1">Attach File</label>
+                                (Only PDF, DOC, JPG, JPEG or PNG files can be uploaded)
                                 <input type="file" class="form-control" name="attachment" id="attachment">
                             </div>
 
