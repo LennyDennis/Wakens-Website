@@ -4,31 +4,32 @@
               <div class="row">
 
                   <div class="col-lg-4 col-md-6 footer-info">
-                      <h2>How we work</h2>
-                      <p>The movement is led by young people who believe that by providing an alternative way out
-                          (through inspiring citizen action) to a populace desensitized by failed political leadership,
-                          they can harness the anger, frustration, and pain as platforms for organizing. They invent and
-                          invade spaces to prompt action and create solutions.</p>
+                      <h2>Waken's Events</h2>
+                      <p>
+                          Waken’s Wedding and Events is a wedding and events firm that designs, plans and executes
+                          events
+                          from conception to execution. Our office is based in Kagumo town in Kirinyaga offering
+                          services across the Mount Kenya region.</p>
                   </div>
 
                   <div class="col-lg-4 col-md-6 footer-links">
                       <h4>Useful Links</h4>
                       <ul>
-                          <li><i class="ion-ios-arrow-right"></i> <a href="#intro">Home</a></li>
-                          <li><i class="ion-ios-arrow-right"></i> <a href="#about">About us</a></li>
-                          <li><i class="ion-ios-arrow-right"></i> <a href="core-Values">Core-Values</a></li>
-                          <li><i class="ion-ios-arrow-right"></i> <a href="#">Terms of service</a></li>
-                          <li><i class="ion-ios-arrow-right"></i> <a href="#">Privacy policy</a></li>
+                          <li><i class="ion-ios-arrow-right"></i> <a href="index.php">Home</a></li>
+                          <li><i class="ion-ios-arrow-right"></i> <a href="about.php">About us</a></li>
+                          <li><i class="ion-ios-arrow-right"></i> <a href="services.php">Services</a></li>
+                          <li><i class="ion-ios-arrow-right"></i> <a href="gallery.php">Gallery</a></li>
+                          <li><i class="ion-ios-arrow-right"></i> <a href="contact.php">Contact Us</a></li>
                       </ul>
                   </div>
 
                   <div class="col-lg-4 col-md-6 footer-contact">
                       <h4>Contact Us</h4>
                       <p>
-                          Waken Events <br>
-                          Development House 8 Floor<br>
-                          Moi Avenue Nairobi. <br>
-                          <strong>Phone:</strong> +254724544635
+                          Waken's Events <br>
+                          Mutira House, Ground Floor<br>
+                          Kagumo, Kirinyaga. <br>
+                          <strong>Phone:</strong> +254724544635 , +254721331851
                           <br>
                           <strong>Email:</strong> info@wakenevents.net.com<br>
                       </p>

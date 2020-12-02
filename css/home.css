@@ -47,13 +47,30 @@
   color: #f60080;
   transition: 1s;
 }
+.btn-get-started {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 32px;
+  border-radius: 5px;
+  transition: 1s;
+  color: #fff;
+  background: #f60080;
+}
+.btn-get-started:hover {
+  background: #cf036db9;
+  color: #fff;
+  transition: 1s;
+}
 
 /* About Section
 --------------------------------*/
 
 .home-about {
   height: auto;
-  padding: 30px 0px 30px 0px;
+  padding: 30px 20px;
 }
 .home-about_image img {
   width: 100%;
@@ -234,4 +251,35 @@
 #intro .carousel-control-prev,
 #intro .carousel-control-next {
   width: 5%;
+}
+
+/*feature-box */
+
+.wakens-services {
+  height: auto;
+  padding: 10px 20px;
+  margin-bottom: 40px;
+}
+.services-box {
+  text-align: center;
+  padding: 0px;
+  margin-top: 40px;
+  position: relative;
+  overflow: hidden;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+
+.services-box .services-box-title {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 26px;
+  margin-top: 10px;
+}
+
+.services-box img {
+  height: 280px;
 }

@@ -10,7 +10,7 @@ body {
 }
 
 a {
-  color: orange;
+  color: #f60080;
   transition: 0.5s;
 }
 
@@ -49,7 +49,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #007eb8;
+  background: #f60080;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -66,33 +66,6 @@ h6 {
 .back-to-top i {
   padding-top: 12px;
   color: #fff;
-}
-
-/* Prelaoder */
-
-#preloader {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  z-index: 9999;
-  overflow: hidden;
-  background: #fff;
-}
-
-#preloader:before {
-  content: "";
-  position: fixed;
-  top: calc(50% - 30px);
-  left: calc(50% - 30px);
-  border: 6px solid #f2f2f2;
-  border-top: 6px solid orange;
-  border-radius: 50%;
-  width: 60px;
-  height: 60px;
-  -webkit-animation: animate-preloader 1s linear infinite;
-  animation: animate-preloader 1s linear infinite;
 }
 
 @-webkit-keyframes animate-preloader {
@@ -125,6 +98,46 @@ h6 {
 
 /* Sections Header
 --------------------------------*/
+
+.home-section-header h3 {
+  font-size: 28px;
+  color: #f60080;
+  text-align: center;
+  font-weight: 500;
+  position: relative;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+.home-section-header h3::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 120px;
+  height: 1px;
+  background: #ddd;
+  bottom: 1px;
+  left: calc(50% - 60px);
+}
+
+.home-section-header h3::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 40px;
+  height: 3px;
+  background: #f60080;
+  bottom: 0;
+  left: calc(50% - 20px);
+}
+
+.home-section-header p {
+  text-align: center;
+  padding-bottom: 30px;
+  color: #333;
+  font-size: 18px;
+  font-weight: bold;
+}
 
 .section-header h3 {
   font-size: 32px;
@@ -202,7 +215,7 @@ h6 {
   font-family: "Comfortaa", cursive;
   font-weight: 700;
   letter-spacing: 3px;
-  border-left: 4px solid orange;
+  border-left: 4px solid #f60080;
 }
 
 #footer .footer-top .footer-info p {
@@ -238,7 +251,7 @@ h6 {
 }
 
 #footer .footer-top h4::after {
-  background: orange;
+  background: #f60080;
   width: 60px;
 }
 
@@ -279,7 +292,7 @@ h6 {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: orange;
+  color: #f60080;
 }
 
 #footer .footer-top .footer-contact {
@@ -317,7 +330,7 @@ h6 {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: orange;
+  background: #f60080;
   color: #fff;
 }
 
