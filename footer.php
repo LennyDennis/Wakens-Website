@@ -1,106 +1,85 @@
-<footer id="footer">
-    <div class="footer-top">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-9 col-md-8 footer-links">
-                    <h4>Useful Links</h4>
-                    <div class="row">
-                        <div class="col-lg-1 col-md-4 links-heading">
-                            <a href=" index.php">Home</a>
-                        </div>
-                        <div class="col-lg-2 col-md-4 links-heading">
-                            <a href="about.php">About Us</a>
-                            <ul class="sub-menu">
-                                <li><a class="nav-item" href="about.php">Vision</a></li>
-                                <li><a class="nav-item" href="about.php">Mission</a></li>
-                                <li><a class="nav-item" href="about.php">Plan</li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-2 col-md-4 links-heading">
-                            <a href="training.php">SAP Training</a>
-                            <ul class="sub-menu">
-                                <li><a class="nav-item" href="approach.php">Approach</a></li>
-                                <li><a class="nav-item" href="development.php">Development</a></li>
-                                <li><a class="nav-item" href="delivery.php">Delivery</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-3 col-md-4 links-heading">
-                            <a href="consultation.php">SAP Consultation</a>
-                            <ul class="sub-menu">
-                                <li><a class="nav-item" href="businessmgmt.php">Business Change Management</a></li>
-                                <li><a class="nav-item" href="upgrademigration.php">Upgrade and Migration</a></li>
-                                <li><a class="nav-item" href="implementation.php">Implementation</a></li>
-                                <li><a class="nav-item" href="maintainanceandsupport.php">Maintainance and
-                                        Support</a></li>
-                                <li><a class="nav-item" href="https://brexit.hanawell.net/">Brexit</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-2 col-md-4 links-heading">
-                            <a href="partnership.php">Partnerships</a>
-                            <ul class="sub-menu">
-                                <li><a class="nav-item" href="bskpartnership.php">BSK Global Technologies</a></li>
-                                <li><a class="nav-item" href="sappartnership.php">SAP</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-2 col-md-4 links-heading">
-                            <a href="#">Hanawell Giving</a>
-                        </div>
-                    </div>
-                </div>
+  <footer id="footer">
+      <div class="footer-top">
+          <div class="container">
+              <div class="row">
 
-                <div class="col-lg-3 col-md-4 footer-contact">
-                    <h4>Contact Us</h4>
-                    <p>
-                        <strong>Address</strong><br>
-                        Hanawell (UK) Limited <br>
-                        Whitethorns,Farnham,<br>
-                        SURREY,GU9 9BH,<br>
-                        United Kingdom<br>
-                        <strong>Phone:</strong>
-                        <a href="tel: +44(0)78 24520 535">+44(0)78 24520 535</a>
-                        <br>
-                        <strong>Email:</strong> <a href="info@hanawell.net">info@hanawell.net</a>
-                    </p>
-                    <div class="social-links">
-                        <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-                        <a href="#" class=" facebook"><i class="fa fa-facebook"></i></a>
-                        <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-                        <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-                        <a href="https://www.linkedin.com/company/hanawell/" class="linkedin"><i
-                                class="fa fa-linkedin"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+                  <div class="col-lg-4 col-md-6 footer-info">
+                      <h2>How we work</h2>
+                      <p>The movement is led by young people who believe that by providing an alternative way out
+                          (through inspiring citizen action) to a populace desensitized by failed political leadership,
+                          they can harness the anger, frustration, and pain as platforms for organizing. They invent and
+                          invade spaces to prompt action and create solutions.</p>
+                  </div>
 
-    <div class="container">
-        <div class="copyright">
-            &copy; Copyright <strong>Hanawell Limited</strong>. All Rights Reserved
-        </div>
-        <div class="credits">
-            Designed & Developed by <a href="https://ke.linkedin.com/in/lennydennis">Lenny Dennis</a>
+                  <div class="col-lg-4 col-md-6 footer-links">
+                      <h4>Useful Links</h4>
+                      <ul>
+                          <li><i class="ion-ios-arrow-right"></i> <a href="#intro">Home</a></li>
+                          <li><i class="ion-ios-arrow-right"></i> <a href="#about">About us</a></li>
+                          <li><i class="ion-ios-arrow-right"></i> <a href="core-Values">Core-Values</a></li>
+                          <li><i class="ion-ios-arrow-right"></i> <a href="#">Terms of service</a></li>
+                          <li><i class="ion-ios-arrow-right"></i> <a href="#">Privacy policy</a></li>
+                      </ul>
+                  </div>
 
+                  <div class="col-lg-4 col-md-6 footer-contact">
+                      <h4>Contact Us</h4>
+                      <p>
+                          Alternative Voice <br>
+                          Development House 8 Floor<br>
+                          Moi Avenue Nairobi. <br>
+                          <strong>Phone:</strong> +254729145983
+                          <br>
+                          <strong>Email:</strong> info@alternativevoice.net.com<br>
+                      </p>
 
-        </div>
+                      <div class="social-links">
+                          <a href="https://twitter.com/A_Voice254?s=03" class="twitter"><i
+                                  class="fa fa-twitter"></i></a>
+                          <a href="https://m.facebook.com/AVoice254/?tsid=0.14745448552745954&source=result"
+                              class="facebook"><i class="fa fa-facebook"></i></a>
+                          <a href="https://www.instagram.com/a.voice254/" class="instagram"><i
+                                  class="fa fa-instagram"></i></a>
+                          <!-- <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a> -->
+                      </div>
 
-    </div>
-</footer>
-<a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+                  </div>
 
-<!-- JavaScript Libraries -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="lib/easing/easing.min.js"></script>
-<script src="lib/superfish/hoverIntent.js"></script>
-<script src="lib/superfish/superfish.min.js"></script>
-<script src="lib/wow/wow.min.js"></script>
-<script src="lib/waypoints/waypoints.min.js"></script>
-<script src="lib/counterup/counterup.min.js"></script>
-<script src="lib/owlcarousel/owl.carousel.min.js"></script>
-<script src="lib/isotope/isotope.pkgd.min.js"></script>
-<script src="lib/lightbox/js/lightbox.min.js"></script>
-<script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
+              </div>
+          </div>
+      </div>
 
-<!-- Template Main Javascript File -->
-<script src="js/main.js"></script>
+      <div class="container">
+          <div class="copyright">
+              &copy; Copyright <strong>Wakens Events</strong>. All Rights Reserved
+          </div>
+          <div class="credits">
+              Designed by <a href="">Lenny Dennis Macharia</a>
+          </div>
+      </div>
+  </footer><!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  <!-- Uncomment below i you want to use a preloader -->
+  <!-- <div id="preloader"></div> -->
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="lib/counterup/counterup.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>

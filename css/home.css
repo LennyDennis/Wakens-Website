@@ -28,7 +28,7 @@
   color: #fff;
 }
 .btn-training {
-  background: #f44336;
+  background: #f60080;
 }
 .btn-consultation {
   background: #ffc107;
@@ -114,6 +114,10 @@
 
 /* About Section
 --------------------------------*/
+
+.home-about {
+  height: 100vh;
+}
 
 #About {
   background: #dfa507;
