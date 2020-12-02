@@ -25,21 +25,18 @@
                   <div class="col-lg-4 col-md-6 footer-contact">
                       <h4>Contact Us</h4>
                       <p>
-                          Alternative Voice <br>
+                          Waken Events <br>
                           Development House 8 Floor<br>
                           Moi Avenue Nairobi. <br>
-                          <strong>Phone:</strong> +254729145983
+                          <strong>Phone:</strong> +254724544635
                           <br>
-                          <strong>Email:</strong> info@alternativevoice.net.com<br>
+                          <strong>Email:</strong> info@wakenevents.net.com<br>
                       </p>
 
                       <div class="social-links">
-                          <a href="https://twitter.com/A_Voice254?s=03" class="twitter"><i
-                                  class="fa fa-twitter"></i></a>
-                          <a href="https://m.facebook.com/AVoice254/?tsid=0.14745448552745954&source=result"
-                              class="facebook"><i class="fa fa-facebook"></i></a>
-                          <a href="https://www.instagram.com/a.voice254/" class="instagram"><i
-                                  class="fa fa-instagram"></i></a>
+                          <a href="#!" class="twitter"><i class="fa fa-twitter"></i></a>
+                          <a href="#!" class="facebook"><i class="fa fa-facebook"></i></a>
+                          <a href="#!" class="instagram"><i class="fa fa-instagram"></i></a>
                           <!-- <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
               <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a> -->
                       </div>
@@ -52,7 +49,7 @@
 
       <div class="container">
           <div class="copyright">
-              &copy; Copyright <strong>Wakens Events</strong>. All Rights Reserved
+              &copy; Copyright <strong>Waken's Events</strong>. All Rights Reserved
           </div>
           <div class="credits">
               Designed by <a href="">Lenny Dennis Macharia</a>
