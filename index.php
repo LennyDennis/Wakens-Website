@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Home | Wakens Events</title>
+    <title>Home | Waken's Events</title>
     <?php include_once("header.php") ?>
     <link href="css/home.css" rel="stylesheet">
 </head>
@@ -18,20 +18,18 @@
                     style=" background-image:url(images/wakensOne.jpg); background-position: center top; background-size: cover;">
                     <div class="carousel-container">
                         <div class="carousel-content">
-                            <h2> Wakens Events &amp; Decoration</h2>
-                            <p>You dream it, we create it</p>
-                            <a href="#featured-services" class="btn-get-started scrollto">Join Us</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="carousel-item bg-overlay-dark-4"
-                    style=" background-image:url(https://i.pinimg.com/originals/ed/c9/91/edc991e0c2fd8f3e9d7f7a3ad7df4bb9.jpg); background-position: center top; background-size: cover;">
-                    <div class="carousel-container">
-                        <div class="carousel-content">
-                            <h2> Wakens Events &amp; Decoration 1</h2>
-                            <p>You dream it, we create it</p>
-                            <a href="#featured-services" class="btn-get-started scrollto">Join Us</a>
+                            <h2 style="animation-delay: .5s;"
+                                class="animated fadeInUp display-5 display-md-5 display-lg-5  text-white"><span
+                                    class="company-name">
+                                    Waken's Events</span></h2>
+                            <h2 style="animation-delay: .8s"
+                                class="animated fadeInUp display-3 display-md-3 display-lg-2 text-white">
+                                Decoration &amp; Tents</h2>
+                            <h3 style="animation-delay: 1s; font-family: 'Dancing Script', cursive;"
+                                class="animated fadeInUp text-white display-8 display-md-7 alt-font mb-2 my-md-4">
+                                You dream it, we create it</h3>
+                            <a href="training.php" class="btn-get-started btn-contact animated fadeInUp mt-3"
+                                style="animation-delay: 1.5s;">Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -40,12 +38,32 @@
                     style=" background-image:url(https://www.incimages.com/uploaded_files/image/1920x1080/getty_696209402_2000133320009280405_370717.jpg); background-position: center top; background-size: cover;">
                     <div class="carousel-container">
                         <div class="carousel-content">
-                            <h2> Wakens Events &amp; Decoration 2</h2>
-                            <p>You dream it, we create it</p>
-                            <a href="#featured-services" class="btn-get-started scrollto">Join Us</a>
+                            <h2><span class="company-name">
+                                    Waken's Events</span></h2>
+                            <h2>
+                                Decoration &amp; Tents</h2>
+                            <h3 style="font-family: 'Dancing Script', cursive;">
+                                You dream it, we create it</h3>
+                            <a href="training.php" class="btn-get-started">Contact Us</a>
                         </div>
                     </div>
                 </div>
+
+                <div class="carousel-item bg-overlay-dark-4"
+                    style=" background-image:url(https://www.incimages.com/uploaded_files/image/1920x1080/getty_696209402_2000133320009280405_370717.jpg); background-position: center top; background-size: cover;">
+                    <div class="carousel-container">
+                        <div class="carousel-content">
+                            <h2><span class="company-name">
+                                    Waken's Events</span></h2>
+                            <h2>
+                                Decoration &amp; Tents</h2>
+                            <h3 style="font-family: 'Dancing Script', cursive;">
+                                You dream it, we create it</h3>
+                            <a href="training.php" class="btn-get-started">Contact Us</a>
+                        </div>
+                    </div>
+                </div>
+
             </div>
 
             <div class="scrollDown">
@@ -59,19 +77,23 @@
     <section class="home-about">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-md-6 py-5">
-                    <img class="border-radius-3 fadeInRight" src="images/wakensOnej.jpg" alt="About Us">
+                <div class="col-md-7 py-5 home-about_image">
+                    <img class="border-radius-3 fadeInRight" src="images/wakensOne.jpg" alt="About Us">
                 </div>
-                <div class="col-md-6 text-center thesections">
-                    <h2 class="h1">About Us</h2>
+                <div class="col-md-5 text-center home-about_text">
+                    <h2>About Us</h2>
                     <p>
                         Waken’s Wedding and Events is a wedding and events firm that designs, plans and executes events
                         from conception to execution. Our office is based in Kagumo town in Kirinyaga offering services
-                        across the Mount Kenya region. We have successfully executed events mainly but not limited to
+                        across the Mount Kenya region.
+                        <br>
+                        <br>
+                        We have successfully executed events mainly but not limited to
                         Kirinyaga, Nyeri, Embu, Meru, Muranga counties. The events we organize range from weddings,
                         award ceremonies, conferences, workshops, award ceremonies, anniversary celebrations and private
                         functions.
-
+                        <br>
+                        <br>
                         We promise to take the hassle away and deliver memorable experiences on budget and on time. At
                         Waken’s events, you dream it, we create it.
                     </p>
