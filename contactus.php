@@ -16,7 +16,7 @@
     <main id="main">
         <section id="contact" class="section-bg fadeInUp contact-page"> -->
             <section class="contact-page">
-                <div class="container">
+                <div class="container-fluid">
                     <div class="section-header">
                         <h3>Contact Us</h3>
                     </div>

@@ -13,12 +13,12 @@
         <?php include_once("navigationbar.php") ?>
         <main id="main">
             <section id="contact" class="section-bg fadeInUp">
-                <div class="container">
+                <div class="container-fluid">
                     <div class="section-header">
                         <h3>About Us</h3>
                     </div>
 
-                    <div class="container h-100 about">
+                    <div class="container-fluid h-100 about">
                         <div class="row">
                             <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
                                 <img width="100%"

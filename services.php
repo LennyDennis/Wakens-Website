@@ -13,12 +13,12 @@
         <?php include_once("navigationbar.php") ?>
         <main id="main">
             <section id="contact" class="section-bg fadeInUp">
-                <div class="container">
+                <div class="container-fluid">
                     <div class="section-header">
                         <h3>Services</h3>
                     </div>
 
-                    <div class="container h-100 training-page">
+                    <div class="container-fluid h-100 training-page">
                         <div class="row">
                             <div class="col-md-6 col-lg-6 mx-md-auto align-self-center ">
                                 <img width="100%"
@@ -40,7 +40,7 @@
                         </div>
                     </div>
 
-                    <div class="container h-100 training-page">
+                    <div class="container-fluid h-100 training-page">
                         <div class="row">
                             <div class="col-md-6 col-lg-6 align-self-center ">
                                 <div class="title text-left">
@@ -62,7 +62,7 @@
                     </div>
 
 
-                    <div class="container h-100 training-page">
+                    <div class="container-fluid h-100 training-page">
                         <div class="row">
                             <div class="col-md-6 col-lg-6 mx-md-auto align-self-center ">
                                 <img width="100%"
@@ -87,7 +87,7 @@
 
 
 
-                        <div class="container h-100 training-page">
+                        <div class="container-fluid h-100 training-page">
                             <div class="row">
                                 <div class="col-md-6 col-lg-6 align-self-center ">
                                     <div class="title text-left">
@@ -110,7 +110,7 @@
                         </div>
 
 
-                        <div class="container h-100 training-page">
+                        <div class="container-fluid h-100 training-page">
                             <div class="row">
                                 <div class="col-md-6 col-lg-6 mx-md-auto align-self-center ">
                                     <img width="100%"
