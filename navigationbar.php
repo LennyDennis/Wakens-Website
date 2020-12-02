@@ -3,7 +3,7 @@
 
         <div id="logo" class="pull-left">
             <a href="index.php">
-                <img src="./images/Wakenslogo.png" alt="Hanawell Logo" title="" />
+                <img src="./images/Wakenslogo.png" alt="Wakens Logo" title="" />
             </a>
         </div>
 

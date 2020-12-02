@@ -14,7 +14,8 @@
         <div class=" carousel" data-ride="carousel">
             <div class="carousel-inner">
 
-                <div class="carousel-item bg-overlay-dark-4 active" style=" background-image:url(images/wakensOne.jpg); background-position: center top; background-size: cover;">
+                <div class="carousel-item bg-overlay-dark-4 active"
+                    style=" background-image:url(images/wakensOne.jpg); background-position: center top; background-size: cover;">
                     <div class="carousel-container">
                         <div class="carousel-content">
                             <h2> Wakens Events &amp; Decoration</h2>
@@ -24,7 +25,8 @@
                     </div>
                 </div>
 
-                <div class="carousel-item bg-overlay-dark-4" style=" background-image:url(https://i.pinimg.com/originals/ed/c9/91/edc991e0c2fd8f3e9d7f7a3ad7df4bb9.jpg); background-position: center top; background-size: cover;">
+                <div class="carousel-item bg-overlay-dark-4"
+                    style=" background-image:url(https://i.pinimg.com/originals/ed/c9/91/edc991e0c2fd8f3e9d7f7a3ad7df4bb9.jpg); background-position: center top; background-size: cover;">
                     <div class="carousel-container">
                         <div class="carousel-content">
                             <h2> Wakens Events &amp; Decoration 1</h2>
@@ -34,7 +36,8 @@
                     </div>
                 </div>
 
-                <div class="carousel-item bg-overlay-dark-4" style=" background-image:url(https://www.incimages.com/uploaded_files/image/1920x1080/getty_696209402_2000133320009280405_370717.jpg); background-position: center top; background-size: cover;">
+                <div class="carousel-item bg-overlay-dark-4"
+                    style=" background-image:url(https://www.incimages.com/uploaded_files/image/1920x1080/getty_696209402_2000133320009280405_370717.jpg); background-position: center top; background-size: cover;">
                     <div class="carousel-container">
                         <div class="carousel-content">
                             <h2> Wakens Events &amp; Decoration 2</h2>
@@ -78,7 +81,7 @@
         </div>
     </section>
 
-    <section class="service pt-0">
+    <!-- <section class="service pt-0">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-8 mx-auto">
@@ -92,7 +95,8 @@
         <div class="row">
             <div class="col-md-4 mt-30">
                 <div class="feature-box f-style-2 d-flex flex-column h-100">
-                    <div class="feature-box-img"><img width="100%" src="images/products/image-1.jpg" alt="Loans &amp; Credits">
+                    <div class="feature-box-img"><img width="100%" src="images/products/image-1.jpg"
+                            alt="Loans &amp; Credits">
                     </div>
                     <h3 class="feature-box-title">Loans &amp; Credits</h3>
                     <p class="feature-box-desc mb-4">When you need capital for your business or a personal loan to
@@ -106,23 +110,27 @@
             </div>
             <div class="col-md-4 mt-30">
                 <div class="feature-box f-style-2 d-flex flex-column h-100">
-                    <div class="feature-box-img"><img width="100%" src="images/products/image-2.jpg" alt="Debt Refinancing &amp; Restructuring"></div>
+                    <div class="feature-box-img"><img width="100%" src="images/products/image-2.jpg"
+                            alt="Debt Refinancing &amp; Restructuring"></div>
                     <h3 class="feature-box-title">Debt Refinancing &amp; Restructuring</h3>
                     <p class="feature-box-desc mb-4">In debt refinancing a borrower leverages a newly obtained loan
                         with better
                         terms to pay off a previous loan. Debt restructuring is a more extreme option taken when
                         debtors are at
-                        risk of defaulting and negotiate to alter the existing contract.</p><a class="mt-auto" href="debt.php">More
+                        risk of defaulting and negotiate to alter the existing contract.</p><a class="mt-auto"
+                        href="debt.php">More
                         info</a>
                 </div>
             </div>
             <div class="col-md-4 mt-30">
                 <div class="feature-box f-style-2 d-flex flex-column h-100">
-                    <div class="feature-box-img"><img width="100%" src="images/products/image-3.jpg" alt="Asset Finance &amp; Leasing"></div>
+                    <div class="feature-box-img"><img width="100%" src="images/products/image-3.jpg"
+                            alt="Asset Finance &amp; Leasing"></div>
                     <h3 class="feature-box-title">Asset Finance &amp; Leasing</h3>
                     <p class="feature-box-desc mb-4">Asset Finance allows you to expand and modernize your business
                         by acquiring
-                        assets for immediate use, without committing valuable capital or savings right away.</p><a class="mt-auto" href="assetfinance.php">More info</a>
+                        assets for immediate use, without committing valuable capital or savings right away.</p><a
+                        class="mt-auto" href="assetfinance.php">More info</a>
                 </div>
             </div>
         </div>
@@ -130,18 +138,21 @@
         <div class="row justify-content-center">
             <div class="col-md-4 mt-30">
                 <div class="feature-box f-style-2 d-flex flex-column h-100">
-                    <div class="feature-box-img"><img width="100%" src="images/products/image-4.jpg" alt="Mortgages &amp; Remortgages"></div>
+                    <div class="feature-box-img"><img width="100%" src="images/products/image-4.jpg"
+                            alt="Mortgages &amp; Remortgages"></div>
                     <h3 class="feature-box-title">Mortgages &amp; Remortgages</h3>
                     <p class="feature-box-desc mb-4">Whether you’re looking at mortgaging as part of a normal
                         conveyancing
                         purchase process, or mortgaging or re-mortgaging your existing freehold or leasehold
                         property, our company
-                        can provide practical and honest advice to suit your individual situation.</p><a class="mt-auto" href="mortgages.php">More info</a>
+                        can provide practical and honest advice to suit your individual situation.</p><a class="mt-auto"
+                        href="mortgages.php">More info</a>
                 </div>
             </div>
             <div class="col-md-4 mt-30">
                 <div class="feature-box f-style-2 d-flex flex-column h-100">
-                    <div class="feature-box-img"><img width="100%" src="images/products/image-5.jpg" alt="Wealth Management &amp; Financial Planning"></div>
+                    <div class="feature-box-img"><img width="100%" src="images/products/image-5.jpg"
+                            alt="Wealth Management &amp; Financial Planning"></div>
                     <h3 class="feature-box-title">Wealth Management &amp; Financial Planning</h3>
                     <p class="feature-box-desc mb-4">Financial planning is about managing and budgeting for your
                         future
@@ -152,7 +163,7 @@
             </div>
         </div>
         </div>
-    </section>
+    </section> -->
 
     <?php include_once("footer.php") ?>
 </body>

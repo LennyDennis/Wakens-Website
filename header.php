@@ -7,7 +7,8 @@
 <link href="images/HanawellLogo.png" rel="icon">
 <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 <!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700"
+    rel="stylesheet">
 <!-- Bootstrap CSS File -->
 <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 <!-- Libraries CSS Files -->
@@ -19,4 +20,4 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <!-- Main Stylesheet File -->
 <link href="css/style.css" rel="stylesheet">
-<!-- <link href="css/template.css" rel="stylesheet"> -->
+<link href="css/navigation.css" rel="stylesheet">

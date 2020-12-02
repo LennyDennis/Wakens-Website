@@ -1,31 +1,35 @@
-  .feature-box-title{
-    color: #007eb8;
-    font-weight: 500;
-  }
-  .about-col{
-    height: 380px;
-  }
-  .training-links{
-    font-family: "Montserrat", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    letter-spacing: 1px;
-    display: inline-block;
-    padding: 5px 20px;
-    border-radius: 10px;
-    transition: 0.5s;
-    margin-left: 20px;
-    color: white;
-    background-color: #007eb8;
-} 
-.training-page{
+.feature-box-title {
+  color: #007eb8;
+  font-weight: 500;
+}
+.about-col {
+  height: 380px;
+}
+.training-links {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 5px 20px;
+  border-radius: 10px;
+  transition: 0.5s;
+  margin-left: 20px;
+  color: white;
+  background-color: #007eb8;
+}
+.training-page {
   height: 200vh;
 }
-.title a{
+
+.training-page img {
+  height: 250px;
+}
+.title a {
   color: black;
   transition: 0.5s;
 }
-.title a:hover{
+.title a:hover {
   color: orange;
   transition: 0.5s;
 }

@@ -1,6 +1,12 @@
 /*--------------------------------------------------------------
 # Intro Section
 --------------------------------------------------------------*/
+.container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
 
 #intro h2 {
   color: #fff;
@@ -259,7 +265,7 @@
 
 @media (max-width: 360px) {
   #intro .carousel-item {
-    height: 220vh;
+    height: 102vh;
   }
 }
 

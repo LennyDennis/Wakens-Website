@@ -25,51 +25,13 @@
 
   if (pathName == "") {
     pathName = "index.php";
-  } else if (
-    pathName == "sappartnership.php" ||
-    pathName == "bskpartnership.php"
-  ) {
-    pathName = "partnership.php";
-  } else if (
-    pathName == "approach.php" ||
-    pathName == "delivery.php" ||
-    pathName == "development.php"
-  ) {
-    pathName = "training.php";
-  } else if (
-    pathName == "businessmgmt.php" ||
-    pathName == "upgrademigration.php" ||
-    pathName == "implementation.php" ||
-    pathName == "maintainanceandsupport.php"
-  ) {
-    pathName = "consultation.php";
-  }
+  } 
 
   var targetLink = $('nav li a[href="' + pathName + '"]');
   var quickLink = $('.quick-links li a[href="' + linkName + '"]');
 
   targetLink.addClass("menu-active");
   quickLink.addClass("menu-active");
-
-  //   // Intro carousel
-  // var introCarousel = $(".carousel");
-  // var introCarouselIndicators = $(".carousel-indicators");
-  // introCarousel.find(".carousel-inner").children(".carousel-item").each(function(index) {
-  //   (index === 0) ?
-  //   introCarouselIndicators.append("<li data-target='#introCarousel' data-slide-to='" + index + "' class='active'></li>") :
-  //   introCarouselIndicators.append("<li data-target='#introCarousel' data-slide-to='" + index + "'></li>");
-
-  //   $(this).css("background-image", "url('" + $(this).children('.carousel-background').children('img').attr('src') +"')");
-  //   $(this).children('.carousel-background').remove();
-  // });
-
-  // $(".carousel").swipe({
-  //   swipe: function(event, direction, distance, duration, fingerCount, fingerData) {
-  //     if (direction == 'left') $(this).carousel('next');
-  //     if (direction == 'right') $(this).carousel('prev');
-  //   },
-  //   allowPageScroll:"vertical"
-  // });
 
   // Initiate the wowjs animation library
   new WOW().init();
@@ -94,10 +56,15 @@
     $("body").prepend(
       '<button type="button" id="mobile-nav-toggle"><i class="fa fa-bars"></i></button>'
     );
+    console.log("mobile")
+
     $("body").append('<div id="mobile-body-overly"></div>');
+    console.log("mobile 1")
+
     $("#mobile-nav")
       .find(".menu-has-children")
       .prepend('<i class="fa fa-chevron-down"></i>');
+
 
     $(document).on("click", ".menu-has-children i", function (e) {
       $(this).next().toggleClass("menu-item-active");
