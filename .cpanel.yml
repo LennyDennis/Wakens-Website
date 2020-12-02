@@ -1,6 +1,6 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/o1sqlhth425e/public_html/
+    - export DEPLOYPATH=/home2/wakeneve/public_html/
     - /bin/cp -R css * $DEPLOYPATH
     - /bin/cp -R images * $DEPLOYPATH
     - /bin/cp -R js * $DEPLOYPATH
@@ -20,6 +20,7 @@ deployment:
     - /bin/cp emailerror.php $DEPLOYPATH
     - /bin/cp emailsuccess.php $DEPLOYPATH
     - /bin/cp footer.php $DEPLOYPATH
+    - /bin/cp gallery.php $DEPLOYPATH
     - /bin/cp header.php $DEPLOYPATH
     - /bin/cp implementation.php $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
@@ -27,6 +28,7 @@ deployment:
     - /bin/cp navigationbar.php $DEPLOYPATH
     - /bin/cp sappartnership.php $DEPLOYPATH
     - /bin/cp sendmail.php $DEPLOYPATH
+    - /bin/cp services.php $DEPLOYPATH
     - /bin/cp training.php $DEPLOYPATH
     - /bin/cp traininglinks.php $DEPLOYPATH
     - /bin/cp partnershipslinks.php $DEPLOYPATH
