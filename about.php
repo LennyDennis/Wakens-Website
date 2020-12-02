@@ -21,7 +21,9 @@
                     <div class="container h-100 about">
                         <div class="row">
                             <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
-                                <img width="100%" src="./images/training2.jpg" alt="About">
+                                <img width="100%"
+                                    src="https://youmatter.world/app/uploads/sites/2/2019/11/internet-use-sustainable.jpg"
+                                    alt="About">
                             </div>
                             <div class="col-md-12 col-lg-6 align-self-center ">
                                 <div class="title text-left">
@@ -31,7 +33,8 @@
                                         executes events from conception to execution. Our office is based in Kagumo town
                                         in Kirinyaga offering services across the Mount Kenya region. We have
                                         successfully executed events mainly but not limited to Kirinyaga, Nyeri, Embu,
-                                        Meru, Muranga counties. The events we organize range from weddings, award
+                                        Meru, Muranga counties. <br><br>
+                                        The events we organize range from weddings, award
                                         ceremonies, conferences, workshops, award ceremonies, anniversary celebrations
                                         and private functions.
                                     </p>

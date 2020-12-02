@@ -2,10 +2,10 @@
 <html lang="en">
 
 <head>
-    <title>About | Hanawell Limited</title>
+    <title>Gallery | Hanawell Limited</title>
     <?php include_once("header.php") ?>
     <link href="css/about.css" rel="stylesheet">
-    <link href="css/training.css" rel="stylesheet">
+    <link href="css/gallery.css" rel="stylesheet">
 
 </head>
 
@@ -14,12 +14,12 @@
         <?php include_once("navigationbar.php") ?>
         <main id="main">
             <section id="contact" class="section-bg fadeInUp">
-                <div class="container">
+                <div class="container-fluid">
                     <div class="section-header">
                         <h3>Gallery</h3>
                     </div>
 
-                    <div class="container h-100 training-page">
+                    <div class="container-fluid h-100 gallery">
                         <div class="row">
                             <div class="col-md-6 col-lg-4 mx-md-auto align-self-center ">
                                 <img width="100%"
