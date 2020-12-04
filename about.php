@@ -20,9 +20,9 @@
 
                     <div class="container-fluid h-100 about">
                         <div class="row">
-                            <div class="col-md-10 col-lg-6 mx-md-auto align-self-center ">
+                            <div class="col-md-10 col-lg-6 mx-md-auto align-self-center image">
                                 <img width="100%"
-                                    src="https://youmatter.world/app/uploads/sites/2/2019/11/internet-use-sustainable.jpg"
+                                    src="https://lh3.googleusercontent.com/dtbJyDSfwbB9XFkeCTThqQncwoO9tkY2QH_4_VUMOW2ATdEX8qdeW-TtEhp4RJUM_cXiS6P7Kdv45UB8KpCbq71lbeLLvpyuDPp2YOsW8wJFkFqXy-B9gSDKfbREJEASEBx8I--DtdvFONpFdQAHHwSzRd_nTBiqTKg8gx1ghD27kl8rH1S7Ok155TSBlSq5c_YwX9gQTT4TQ2GojFh4S9P56pxn1QmIJCWk70FZtkI_zyzEG_ERpI3o2t4fASwpyqY_zWvi7kAPHWFAXzlkQM7gO3WFNSZ8ypKJHq93M_RXlGg4Vccl1aBd1d6wUDyln4A42gE66niyVN5qXcO6JGQR6Drwa-lpQvKgBxyN_OfTQPb1obhAlCLo96MTRZ3pjN9DfCodYTKGUhkWadyE2PQZquzU7jG2HxnUURqmoUmRc__RhMd6QvnwUC9_eRsYt-5WokrmyY-e6LcdelcEKV9mSnJf5vtVsJ2RdLteyejSd0B2V15X1LcWlxUtwxsKfi57C5RLUxwTSrMayzF5p5r8OWNwQRoabkDxiveCCBtE-t16RqJ3yvwvknm5hXUTc9iXgjCZbBcpZWHqf9KOvhga2TuO8d7k8dmP_Q1vYPfDlUGIorxNOAX87-6luWAi-j4JIHy-GVlgXKJOlJoi1wXDwdOw3dJxVlCsjEh70lmZFLju_YIbaIT2Ok22Ww=w640-h480-no?authuser=0"
                                     alt="About">
                             </div>
                             <div class="col-md-12 col-lg-6 align-self-center ">

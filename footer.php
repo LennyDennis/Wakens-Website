@@ -13,7 +13,7 @@
                   </div>
 
                   <div class="col-lg-4 col-md-6 footer-links">
-                      <h4>Useful Links</h4>
+                      <h4>Links</h4>
                       <ul>
                           <li><i class="ion-ios-arrow-right"></i> <a href="index.php">Home</a></li>
                           <li><i class="ion-ios-arrow-right"></i> <a href="about.php">About us</a></li>
@@ -35,11 +35,9 @@
                       </p>
 
                       <div class="social-links">
-                          <a href="#!" class="twitter"><i class="fa fa-twitter"></i></a>
-                          <a href="#!" class="facebook"><i class="fa fa-facebook"></i></a>
+                          <a href="https://web.facebook.com/wakensdecoration" class="facebook"><i
+                                  class="fa fa-facebook"></i></a>
                           <a href="#!" class="instagram"><i class="fa fa-instagram"></i></a>
-                          <!-- <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a> -->
                       </div>
 
                   </div>
@@ -53,14 +51,24 @@
               &copy; Copyright <strong>Waken's Events</strong>. All Rights Reserved
           </div>
           <div class="credits">
-              Designed by <a href="">Lenny Dennis Macharia</a>
+              Designed by <a href="https://www.linkedin.com/in/lennydennis/">Lenny Dennis Macharia</a>
           </div>
       </div>
   </footer><!-- #footer -->
 
   <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-  <!-- Uncomment below i you want to use a preloader -->
-  <!-- <div id="preloader"></div> -->
+
+  <div>
+      <a data-action="open" data-phone="254724533635" data-message="Hello Waken's Events, "
+          href="https://web.whatsapp.com/send?phone=254724544635&amp;text=Hello Waken's Events, " class="float"
+          target="_blank">
+          <i class="fa fa-whatsapp my-float">
+          </i>
+          <p class="my-text">Chat with us</p>
+      </a>
+  </div>
+
+
 
   <!-- JavaScript Libraries -->
   <script src="lib/jquery/jquery.min.js"></script>

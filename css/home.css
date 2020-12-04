@@ -73,6 +73,7 @@
   padding: 30px 20px;
 }
 .home-about_image img {
+  margin-top: 20px;
   width: 100%;
   height: auto;
 }
