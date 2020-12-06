@@ -29,9 +29,9 @@
                           Waken's Events <br>
                           Mutira House, Ground Floor<br>
                           Kagumo, Kirinyaga. <br>
-                          <strong>Phone:</strong> +254724544635 , +254721331851
+                          <strong>Phone:</strong> (+254) 0724544635, (+254) 0721331851
                           <br>
-                          <strong>Email:</strong> info@wakenevents.net.com<br>
+                          <strong>Email:</strong>wakeneventss@gmail.com<br>
                       </p>
 
                       <div class="social-links">

@@ -1,10 +1,14 @@
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
-<meta content="hanawell, hanawell limited, sap, sap training, sap consultation" name="keywords">
-<meta content="this the sap mainatainance and support page for hanawell limited" name="description">
+<meta
+    content="wakens, wedding, decoration, tents, chair, tables, cakes, gowns, events, event management, wakens wedding, wakens events, kerugoya, kirinyaga, mount kenya region"
+    name="keywords">
+<meta
+    content="  Waken’s Wedding and Events is a wedding and events firm that designs, plans and executes events from conception to execution. Our office is based in Kagumo town in Kirinyaga offering services across the Mount Kenya region."
+    name="description">
 
 <!-- Favicons -->
-<link href="images/HanawellLogo.png" rel="icon">
+<link href="images/wakensicon.png" rel="icon">
 <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700"

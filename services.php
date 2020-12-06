@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>About | Hanawell Limited</title>
+    <title>About | Waken's Eventsz</title>
     <?php include_once("header.php") ?>
     <link href="css/about.css" rel="stylesheet">
 
@@ -21,19 +21,19 @@
                     <div class="container-fluid h-100 training-page">
                         <div class="row">
                             <div class="col-md-6 col-lg-6 mx-md-auto align-self-center ">
-                                <img width="100%" height="400px" s
-                                    src="https://lh3.googleusercontent.com/pw/ACtC-3cUt0JYBRJlDKweB8eQF4_K0BW5QgE6eGWbK3yETT_0PlWA9k9m7Cl69t07LHQH-oEWvt_A5I2RMJmVtEAK6RrOevDAtZl67Zb9JyZA5DtO162SEutPx7CbrWTMXRZWVZdAL_tEMjm3W2sYzg3jePny2A=w892-h669-no?authuser=0"
-                                    alt="wedding">
+                                <img width="100%" height="400px" s src="images/gallery25.jpg" alt="wedding">
                             </div>
                             <div class="col-md-6 col-lg-6 align-self-center ">
                                 <div class="title text-left">
-                                    <h2 class="text-primary">Wedding Events</span></h2>
+                                    <h2 class="text-primary">Weddings</span></h2>
                                     <p class="consultation-desc mb-2">
-                                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum aliquam
-                                        perferendis non magnam nam saepe repellat error dolorum officiis, quia id sit
-                                        sunt tempora ullam adipisci, quibusdam recusandae. Nulla, corporis.
+                                        Saying ‘i do’ to the partner of your dreams is an experience of a lifetime. We
+                                        promise to make your day memorable and special. We offer ultimate wedding setup
+                                        from event design, tents, decoration, flowers, clothing and many more. We
+                                        promise to make your day a lifetime event that you will cherish for years to
+                                        come.
                                     </p>
-                                    <a class="btn-get-started">Book Us</a>
+                                    <a href="contactus.php" class="btn-get-started">Book Us</a>
                                 </div>
                             </div>
 
@@ -44,19 +44,19 @@
                         <div class="row">
                             <div class="col-md-6 col-lg-6 align-self-center ">
                                 <div class="title text-left">
-                                    <h2 class="text-primary">Coorporate Events</span></h2>
+                                    <h2 class="text-primary">Corporate Events</span></h2>
                                     <p class="consultation-desc mb-2">
-                                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum aliquam
-                                        perferendis non magnam nam saepe repellat error dolorum officiis, quia id sit
-                                        sunt tempora ullam adipisci, quibusdam recusandae. Nulla, corporis.
+                                        Are you a corporate? Your event does not have to be boring. Make the day
+                                        memorable to your partners, customers and employees. We will provide an offering
+                                        to suit your corporate image be it tents, decoration, chiavari, plastic chairs.
+                                        We promise to deliver on time, budget and beyond expectations.
                                     </p>
-                                    <a class="btn-get-started">Book Us</a>
+                                    <a href="contactus.php" class="btn-get-started">Book Us</a>
+
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-6 mx-md-auto align-self-center ">
-                                <img width="100%"
-                                    src="https://youmatter.world/app/uploads/sites/2/2019/11/internet-use-sustainable.jpg"
-                                    alt="">
+                                <img width="100%" src="images/gallery22.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -65,21 +65,21 @@
                     <div class="container-fluid h-100 training-page">
                         <div class="row">
                             <div class="col-md-6 col-lg-6 mx-md-auto align-self-center ">
-                                <img width="100%"
-                                    src="https://youmatter.world/app/uploads/sites/2/2019/11/internet-use-sustainable.jpg"
-                                    alt="">
+                                <img width="100%" src="images/gallery24.jpg" alt="">
                             </div>
                             <div class="col-md-6 col-lg-6 align-self-center ">
                                 <div class="title text-left">
                                     <div class="title text-left">
                                         <h2 class="text-primary">Educational Events</span></h2>
                                         <p class="consultation-desc mb-2">
-                                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum aliquam
-                                            perferendis non magnam nam saepe repellat error dolorum officiis, quia id
-                                            sit
-                                            sunt tempora ullam adipisci, quibusdam recusandae. Nulla, corporis.
+                                            Are you hosting a graduation, parents day or any other event within your
+                                            institution? Look no further. For a well decorated event that matches your
+                                            institution’s image and theme, reach out to us. From seating, tenting to
+                                            decor that will make the event come to life. We work in both indoor and
+                                            outdoor spaces.
                                         </p>
-                                        <a class="btn-get-started">Book Us</a>
+                                        <a href="contactus.php" class="btn-get-started">Book Us</a>
+
                                     </div>
                                 </div>
                             </div>
@@ -93,18 +93,17 @@
                                     <div class="title text-left">
                                         <h2 class="text-primary">Private Events</span></h2>
                                         <p class="consultation-desc mb-2">
-                                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum aliquam
-                                            perferendis non magnam nam saepe repellat error dolorum officiis, quia id
-                                            sit
-                                            sunt tempora ullam adipisci, quibusdam recusandae. Nulla, corporis.
+                                            Are you hosting guests for a ruracio, birthday, party or any other private
+                                            function? We promise to provide excellent services across the seating,
+                                            tenting and decoration. We have all the colour combinations that will make
+                                            your event a momentous affair.
                                         </p>
-                                        <a class="btn-get-started">Book Us</a>
+                                        <a href="contactus.php" class="btn-get-started">Book Us</a>
+
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-6 mx-md-auto align-self-center ">
-                                    <img width="100%"
-                                        src="https://lh3.googleusercontent.com/pw/ACtC-3dfjU8folYB48M6pCCwWbXCD5bCPsguFdMn0sU25-FjXXVinW87Txptrw77U2whvoshoX4EviKT3X6j1_q-GqoXmh4JbWqj0Sft_BlnBcs6zBOqwJ2xhxGFz9tySLLqp9CrU3U7oUuHx4Q6SzGfQYstUA=w1152-h648-no?authuser=0"
-                                        alt="Private Events">
+                                    <img width="100%" src="images/gallery32.jpg" alt="Private Events">
                                 </div>
                             </div>
                         </div>
@@ -113,9 +112,7 @@
                         <div class="container-fluid h-100 training-page">
                             <div class="row">
                                 <div class="col-md-6 col-lg-6 mx-md-auto align-self-center ">
-                                    <img width="100%"
-                                        src="https://lh3.googleusercontent.com/pw/ACtC-3doDP58monBQyhjzU2H7v9FSuGakQO0ZeRLB9DSJAMoFvCD8F6PhCvST70VA4sQiODRiP0iSsQV5J4dKVLbNa1Pi7kjTxCUoLWxLKaWTibzkzVLS4PSzE6YNV4CQN0OmSzaRgPm4iTqYZoRVgjv_-Un6w=w1004-h669-no?authuser=0"
-                                        alt="Cakes">
+                                    <img width="100%" src="images/cake5.jpg" alt="Cakes">
                                 </div>
 
                                 <div class="col-md-6 col-lg-6 align-self-center ">
@@ -123,13 +120,12 @@
                                         <div class="title text-left">
                                             <h2 class="text-primary">Cakes</span></h2>
                                             <p class="consultation-desc mb-2">
-                                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum
-                                                aliquam
-                                                perferendis non magnam nam saepe repellat error dolorum officiis,
-                                                quia id sit
-                                                sunt tempora ullam adipisci, quibusdam recusandae. Nulla, corporis.
+                                                From vanilla cakes to forest cakes and many more, we offer beautiful and
+                                                tasty cakes at reasonable prices. You dream the design, we make it
+                                                happen
                                             </p>
-                                            <a class="btn-get-started">Book Us</a>
+                                            <a href="contactus.php" class="btn-get-started">Book Us</a>
+
                                         </div>
                                     </div>
                                 </div>

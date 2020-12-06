@@ -2,13 +2,13 @@
 <html lang="en">
 
 <head>
-    <title>Contact | Hanawell Limited</title>
+    <title>Contact Us | Waken's Events</title>
     <?php include_once("header.php") ?>
     <link href="css/consultation.css" rel="stylesheet">
 </head>
 
 <body>
-    <?php include_once("navigationbar.php")?>
+    <?php include_once("navigationbar.php") ?>
     <main id="main">
         <section id="contact" class="section-bg fadeInUp">
             <div class="container email-error">
@@ -25,7 +25,7 @@
             </div>
         </section>
     </main>
-    <?php include_once("footer.php")?>
+    <?php include_once("footer.php") ?>
 </body>
 
 </html>

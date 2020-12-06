@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Contact | Hanawell Limited</title>
+    <title>Contact Us | Waken's Events</title>
     <?php include_once("header.php") ?>
     <link href="css/consultation.css" rel="stylesheet">
 </head>

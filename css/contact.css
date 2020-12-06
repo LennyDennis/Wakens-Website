@@ -1,8 +1,69 @@
-#header {
-  background: #191919;
+/* @media (min-width: 767px) {
+  .contact-page {
+    margin-left: 60px;
+  }
+} */
+
+.map{
+  /* margin-top: 20px; */
 }
 
-#contact .contact-info {
+/* @media (min-width: 768px) {
+  #contact .contact-address,
+  #contact .contact-phone,
+  #contact .contact-email {
+    padding: 5px 0;
+  }
+}
+
+@media (min-width: 992px) {
+  #testimonials .testimonial-item p {
+    width: 80%;
+  }
+} */
+
+@media (max-width: 360px) {
+  .wakens-map{
+    width: 320px;
+    height: 200px;
+
+  }
+}
+@media (min-width: 500px) {
+  .wakens-map{
+    width: 500px;
+    height: 300px;
+
+  }
+}
+@media (min-width: 766px) {
+  .wakens-map{
+    width: 700px;
+    height: 300px;
+
+  }
+}
+@media (min-width: 900px) {
+  .wakens-map{
+    width: 800px;
+    height: 300px;
+
+  }
+}
+@media (min-width: 1126px) {
+  .wakens-map{
+    width: 1100px;
+    height: 400px;
+  }
+}
+
+
+
+
+
+
+
+/* #contact .contact-info {
   margin-bottom: 10px;
 }
 
@@ -139,4 +200,4 @@
 }
 #attachment {
   height: 40px;
-}
+} */

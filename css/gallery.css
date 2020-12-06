@@ -2,3 +2,14 @@
   height: 280px;
   margin-bottom: 20px;
 }
+
+@media (max-width: 360px) {
+  .gallery img {
+    height: 200px;
+    padding: 0px;
+    margin: 0px 0px 10px 0px;
+  }
+  .container-fluid {
+    padding: 0px 10px 0px 10px;
+  }
+}
