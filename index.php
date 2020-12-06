@@ -14,28 +14,21 @@
         <div class=" carousel" data-ride="carousel">
             <div class="carousel-inner">
 
-                <div class="carousel-item bg-overlay-dark-4 active"
-                    style=" background-image:url(images/wakensOne.jpg); background-position: center top; background-size: cover;">
+                <div class="carousel-item bg-overlay-dark-4 active" style=" background-image:url(images/wakensOne.jpg); background-position: center top; background-size: cover;">
                     <div class="carousel-container">
                         <div class="carousel-content">
-                            <h2 style="animation-delay: .5s;"
-                                class="animated fadeInUp display-5 display-md-5 display-lg-5  text-white"><span
-                                    class="company-name">
+                            <h2 style="animation-delay: .5s;" class="animated fadeInUp display-5 display-md-5 display-lg-5  text-white"><span class="company-name">
                                     Waken's Events</span></h2>
-                            <h2 style="animation-delay: .8s"
-                                class="animated fadeInUp display-3 display-md-3 display-lg-2 text-white">
+                            <h2 style="animation-delay: .8s" class="animated fadeInUp display-3 display-md-3 display-lg-2 text-white">
                                 Decoration &amp; Tents</h2>
-                            <h3 style="animation-delay: 1s; font-family: 'Dancing Script', cursive;"
-                                class="animated fadeInUp text-white display-8 display-md-7 alt-font mb-2 my-md-4">
+                            <h3 style="animation-delay: 1s; font-family: 'Dancing Script', cursive;" class="animated fadeInUp text-white display-8 display-md-7 alt-font mb-2 my-md-4">
                                 You dream it, we create it</h3>
-                            <a href="contactus.php" class="btn-get-started btn-contact animated fadeInUp mt-3"
-                                style="animation-delay: 1.5s;">Contact Us</a>
+                            <a href="contactus.php" class="btn-get-started btn-contact animated fadeInUp mt-3" style="animation-delay: 1.5s;">Contact Us</a>
                         </div>
                     </div>
                 </div>
 
-                <div class="carousel-item bg-overlay-dark-4"
-                    style=" background-image:url(images/gallery29.jpg); background-position: center top; background-size: cover;">
+                <div class="carousel-item bg-overlay-dark-4" style=" background-image:url(images/gallery29.jpg); background-position: center top; background-size: cover;">
                     <div class="carousel-container">
                         <div class="carousel-content">
                             <h2><span class="company-name">
@@ -49,8 +42,7 @@
                     </div>
                 </div>
 
-                <div class="carousel-item bg-overlay-dark-4"
-                    style=" background-image:url(images/gallery30.jpg); background-position: center top; background-size: cover;">
+                <div class="carousel-item bg-overlay-dark-4" style=" background-image:url(images/gallery30.jpg); background-position: center top; background-size: cover;">
                     <div class="carousel-container">
                         <div class="carousel-content">
                             <h2><span class="company-name">
@@ -91,8 +83,8 @@
                         <br>
                         <br>
                         We have successfully executed events mainly but not limited to
-                        Kirinyaga, Nyeri, Embu, Meru, Muranga counties. The events we organize range from weddings,
-                        award ceremonies, conferences, workshops, award ceremonies, anniversary celebrations and private
+                        Kirinyaga, Nyeri, Embu, Meru, Muranga, Kiambu, Nairobi counties. The events we organize range from weddings,
+                        conferences, workshops, award ceremonies, anniversary celebrations and private
                         functions.
                         <br>
                         <br>

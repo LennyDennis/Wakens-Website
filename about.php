@@ -31,9 +31,9 @@
                                         executes events from conception to execution. Our office is based in Kagumo town
                                         in Kirinyaga offering services across the Mount Kenya region. We have
                                         successfully executed events mainly but not limited to Kirinyaga, Nyeri, Embu,
-                                        Meru, Muranga counties. <br><br>
-                                        The events we organize range from weddings, award
-                                        ceremonies, conferences, workshops, award ceremonies, anniversary celebrations
+                                        Meru, Muranga, Kiambu, Nairobi counties. <br><br>
+                                        The events we organize range from weddings, conferences, workshops, award
+                                        ceremonies, anniversary celebrations
                                         and private functions.
                                     </p>
                                     <br>
