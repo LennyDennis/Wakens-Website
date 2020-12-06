@@ -32,8 +32,8 @@
 
                 <div class="row justify-content-center align-items-start contact-page">
                     <div class="col-md-6">
-                        <form name="contact" action="test.php" method="POST" enctype="multipart/form-data" class="form"
-                            onsubmit="return validate()" autocomplete="off">
+                        <form name="contact" action="sendmail.php" method="POST" enctype="multipart/form-data"
+                            class="form" onsubmit="return validate()" autocomplete="off">
                             <div class="contact-box-content text-left">
                                 <!-- Contact Box -->
                                 <div class="contact-item">
