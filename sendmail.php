@@ -4,7 +4,7 @@ $msgClass = 'errordiv';
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Get the submitted form data
     $postData = $_POST;
-    $to = "wakeneventss@gmail.com";
+    $to = "wakenevents@gmail.com";
     $from = $_POST['email'];
     $name = strip_tags(trim($_POST['fullname']));
     $name = str_replace(array("\r", "\n"), array(" ", " "), $name);

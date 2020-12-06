@@ -31,7 +31,7 @@
                           Kagumo, Kirinyaga. <br>
                           <strong>Phone:</strong> (+254) 0724544635, (+254) 0721331851
                           <br>
-                          <strong>Email:</strong>wakeneventss@gmail.com<br>
+                          <strong>Email:</strong>wakenevents@gmail.com<br>
                       </p>
 
                       <div class="social-links">
