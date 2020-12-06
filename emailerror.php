@@ -16,7 +16,7 @@
                     <div class="message">
                         <h3 class="text-danger">Error!</h3>
                         <p>Oops! Something went wrong and we couldn't send your message.Please try again or send us an
-                            email through <a style="color:blue;" href="wakenevents@gmail.com">wakenevents@gmail.com</a>.
+                            email through <a style="color:blue;" href="#!">wakenevents@gmail.com</a>.
                         </p>
                     </div>
                     <div class="homepage">

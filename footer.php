@@ -31,12 +31,11 @@
                           Kagumo, Kirinyaga. <br>
                           <strong>Phone:</strong> (+254) 0724544635, (+254) 0721331851
                           <br>
-                          <strong>Email:</strong>wakenevents@gmail.com<br>
+                          <strong>Email:</strong>wakeneventgits@gmail.com<br>
                       </p>
 
                       <div class="social-links">
-                          <a href="https://web.facebook.com/wakensdecoration" class="facebook"><i
-                                  class="fa fa-facebook"></i></a>
+                          <a href="https://web.facebook.com/wakensdecoration" class="facebook"><i class="fa fa-facebook"></i></a>
                           <a href="#!" class="instagram"><i class="fa fa-instagram"></i></a>
                       </div>
 
@@ -59,9 +58,7 @@
   <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
 
   <div>
-      <a data-action="open" data-phone="254724533635" data-message="Hello Waken's Events, "
-          href="https://web.whatsapp.com/send?phone=254724544635&amp;text=Hello Waken's Events, " class="float"
-          target="_blank">
+      <a data-action="open" data-phone="254724533635" data-message="Hello Waken's Events, " href="https://web.whatsapp.com/send?phone=254724544635&amp;text=Hello Waken's Events, " class="float" target="_blank">
           <i class="fa fa-whatsapp my-float">
           </i>
           <p class="my-text">Chat with us</p>
